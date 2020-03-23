@@ -8,7 +8,7 @@
 
 2. Fyll i alla fält i formuläret.
    - I fältet för användarnamn tillåts maximalt 15 tecken, som kan bara vara alfanumeriska tecken (`a-z`, `A-Z`, `0-9`), understreck (`_`), hakparenteser, (`[` och `]`), bindestreck (`-`), och mellanslag (` `).
-   - I fältet för e-post-address, skriv in din e-post. Den kommer att användas till att återställa ditt lösenord och att skicka verifieringskoder när det behövs, använd alltså inte en temporär e-post.
+   - I fältet för e-postaddress, skriv in din e-post. Den kommer att användas till att återställa ditt lösenord och att skicka verifieringskoder när det behövs, använd alltså inte en temporär e-post.
    - I fältet för lösenord, välj ett lösenord som är minst 8 tecken långt.
 3. När det är klart, klicka på `1. Create my account!`. Du kommer loggas in automatiskt.
 
