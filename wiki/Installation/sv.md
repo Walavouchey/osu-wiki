@@ -43,7 +43,7 @@ Det finns två sätt att lägga till beatmaps: via hemsidan eller osu!direct (kr
 
 1. Öppna osu! och klicka på osu!direct-knappen på höger sida i huvudskärmen.
 2. Hitta en låt som du vill spela.
-3. Dubbelklicka på låten på listan eller klicka `Ladda ner` till höger för att ladda ner den.
+3. Dubbelklicka på låten på listan eller klicka på `Download` till höger för att ladda ner den.
    - Om du inte vill ladda ner videon som kommer med beatmapsetet, klicka på `DL NoVideo` istället.
 4. När osu! har laddat ner beatmapsetet kommer den automatiskt att öppna den.
    - Om du av någon anledning inte ser dem, tryck på `F5` i [Låtlistan](/wiki/Interface#song-selection-screen) för att behandla om dina beatmaps.
