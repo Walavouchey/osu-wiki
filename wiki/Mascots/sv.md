@@ -10,7 +10,7 @@ En YouTube-video som visar alla osu! maskotar kan ses i [Mascot Showcase](https:
 
 ![pippi](img/pippi.png "pippi")
 
-pippi, stiliserad med ett litet "p", är maskoten i osu!standard och gick med juli 2008. Hon är även känd som pippidon i osu!taiko dök upp i [Yandere Simulator](https://yanderesimulator.com) som en NPC. Det första concept art skapades av [Sarumaru](https://osu.ppy.sh/users/9427), pippidon spritet skapades av [crystalsuicune](https://osu.ppy.sh/users/9974), och nuvarande designen skapades av [Daru](https://osu.ppy.sh/users/32480).
+pippi, stiliserad med ett litet "p", är maskoten i osu!standard och gick med juli 2008. Hon är även känd som pippidon i osu!taiko dök upp i [Yandere Simulator](https://yanderesimulator.com) som en NPC. Det första concept art skapades av [Sarumaru](https://osu.ppy.sh/users/9427), pippidons sprite skapades av [crystalsuicune](https://osu.ppy.sh/users/9974), och nuvarande designen skapades av [Daru](https://osu.ppy.sh/users/32480).
 
 ### ![osu!catch icon](/wiki/shared/mode/catch.png) Yuzu
 
@@ -96,4 +96,4 @@ Taikonator, också kallad Taikonator 3000, var en av deltagarna i osu!taiko mask
 
 ![Tama](img/Tama.png "Tama")
 
-Designed av [crystalsuicine](https://osu.ppy.sh/users/9974), Tama var en av de yngre deltagarna i osu!taiko maskot design-tävlingen på bara 15 år (eller är hon det?), Tama har en stor passion för att trumma taiko. Och åskväder. Och speciellt festivaler, där hon tar för sig all takoyaki hon kan hitta. Alltid redo för utmaning, Tama döljer en särskild mystisk bakgrund bakom hennes ungdomliga beteende.
+Designad av [crystalsuicine](https://osu.ppy.sh/users/9974), Tama var en av de yngre deltagarna i osu!taiko maskot design-tävlingen på bara 15 år (eller är hon det?), Tama har en stor passion för att trumma taiko. Och åskväder. Och speciellt festivaler, där hon tar för sig all takoyaki hon kan hitta. Alltid redo för utmaning, Tama döljer en särskild mystisk bakgrund bakom hennes ungdomliga beteende.
