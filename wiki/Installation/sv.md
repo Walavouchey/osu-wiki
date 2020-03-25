@@ -6,7 +6,7 @@ Denna sida kommer att förklara hur du får osu! att fungera på din Windows-enh
 
 ## Systemkrav
 
-- .NET framework 4+ (installeraren borde fråga dig att ladda ner det. Annars kan du [hitta det här](https://www.microsoft.com/en-us/download/details.aspx?id=48130))
+- .NET framework 4+ (installeraren borde fråga dig att ladda ner den. Annars kan du [hitta den här](https://www.microsoft.com/sv-SE/download/details.aspx?id=48130))
 - Ett ganska bra grafikkort.
 
 ## Installering av osu!
