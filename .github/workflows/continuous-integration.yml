@@ -91,7 +91,7 @@ jobs:
 
       - name: find broken wikilinks
         run: |
-          ARTICLES=$( git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} "wiki/**/*.md" )
+          ARTICLES=$( git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} "**/*.md" )
           python .github/scripts/ci/find_broken_wikilinks.py $ARTICLES
 
       - name: check if translations are marked as outdated
