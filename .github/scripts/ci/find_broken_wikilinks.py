@@ -129,7 +129,7 @@ def iterate(walk):
             yield f"{tuple[0]}/{filename}"
 
 exit_code = 0
-for filename in iterate(os.walk("wiki")) if len(sys.argv) < 2 else sys.argv[1:]:
+for filename in iterate(os.walk(".")) if len(sys.argv) < 2 else sys.argv[1:]:
     filename = filename.replace("\\", '/')
     if filename.startswith("./"):
         filename = filename[2:]
