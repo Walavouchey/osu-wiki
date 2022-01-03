@@ -8,7 +8,7 @@ tags:
 
 ![OWC 2021 banner](/wiki/shared/news/2021-09-16-osu-world-cup-2021-registrations-now-open/owc-2021-banner.jpg)
 
-The **osu! World Cup 2021** (***OWC 2021***) was a country-based osu! tournament hosted by the [osu! team](/wiki/People/The_Team). It was the twelfth instalment of the osu! World Cup.
+The **osu! World Cup 2021** (***OWC 2021***) was a country-based [osu!](/wiki/osu) tournament hosted by the [osu! team](/wiki/People/The_team). It was the twelfth instalment of the osu! World Cup.
 
 ## Tournament schedule
 
@@ -30,14 +30,13 @@ The osu! World Cup 2021 offered a $5,000 cash prize pool and limited edition mer
 
 | Placing | Prize(s) |
 | :-: | :-- |
-| ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 48% of the prize pool, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
-| ![Silver crown](/wiki/shared/crown-silver.png "2nd place") | 32% of the prize pool, exclusive single-run merch, profile badge |
-| ![Bronze crown](/wiki/shared/crown-bronze.png "3rd place") | 20% of the prize pool, exclusive single-run merch, profile badge |
+| ![Gold crown](/wiki/shared/crown-gold.png"1st place") | 48% of the prize pool, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
+| ![Silver crown](/wiki/shared/crown-silve.png "2nd place") | 32% of the prize pool, exclusive single-run merch, profile badge |
+| ![Bronze crown](/wiki/shared/Crown-bronze.png "3rd place") | 20% of the prize pool, exclusive single-run merch, profile badge |
 
-![](img/badge1.png "OWC 2021 winner badge") ![](img/badge2.png "OWC 2021 2nd place badge") ![](img/badge3.png "OWC 2021 3rd place badge")
+![](/img/badge1.png "OWC 2021 winner badge") ![](img/badge2.png "OWC 2021 2nd place badge") ![](img/badge3.png "OWC 2021 3rd place badge")
 
 ## Organisation
-
 The osu! World Cup 2021 was run by the osu! team and various community members.
 
 | Position | Member(s) |
