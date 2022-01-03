@@ -37,6 +37,7 @@ The osu! World Cup 2021 offered a $5,000 cash prize pool and limited edition mer
 ![](/img/badge1.png "OWC 2021 winner badge") ![](img/badge2.png "OWC 2021 2nd place badge") ![](img/badge3.png "OWC 2021 3rd place badge")
 
 ## Organisation
+
 The osu! World Cup 2021 was run by the osu! team and various community members.
 
 | Position | Member(s) |
