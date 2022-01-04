@@ -28,6 +28,34 @@ The **osu! World Cup 2021** (***OWC 2021***) was a country-based osu! tournament
 
 The osu! World Cup 2021 offered a $5,000 cash prize pool and limited edition merch!
 
+[artist - title (mapper) [diff]](link) <!-- valid -->
+
+[artist - title (mapper) \[diff\]](link) <!-- valid -->
+
+[artist - title mapper) [diff]](link) <!-- valid -->
+
+[artist - title (mapper [diff]](link) <!-- valid -->
+
+[artist - title (mapper) [diff\]](link) <!-- invalid -->
+
+[artist - title (mapper) \[diff]](link) <!-- invalid -->
+
+[artist - title (mapper) [diff](link) <!-- invalid -->
+
+[artist - title (mapper) diff]](link) <!-- invalid -->
+
+[artist - title (mapper) [diff]](link_(with_parentheses)) <!-- valid -->
+
+[artist - title (mapper) [diff]](link_\(with_parentheses\)) <!-- valid -->
+
+[artist - title (mapper) [diff]](link_\(with_parentheses)) <!-- invalid -->
+
+[artist - title (mapper) [diff]](link_(with_parentheses\)) <!-- invalid -->
+
+[artist - title (mapper) [diff]](link_with_parenthesis)) <!-- invalid -->
+
+[artist - title (mapper) [diff]](link_(with_parenthesis) <!-- invalid -->
+
 | Placing | Prize(s) |
 | :-: | :-- |
 | ![Gold crown](/wiki/shared/crown-gold.png "1st place") | 48% of the prize pool, exclusive single-run merch, profile badge, "osu! Champion" user title for one year |
