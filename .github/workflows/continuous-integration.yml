@@ -28,7 +28,7 @@ jobs:
 
           git version
           # clone without blobs; don't checkout to avoid fetching them anyway
-          git clone --depth 1 --filter=blob:none --no-checkout ${REPOSITORY} .
+          git clone --filter=blob:none --no-checkout ${REPOSITORY} .
           git config --local gc.auto 0
 
           # set up sparse checkout
