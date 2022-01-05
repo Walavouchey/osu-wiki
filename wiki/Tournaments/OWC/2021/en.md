@@ -38,15 +38,15 @@ The osu! World Cup 2021 offered a $5,000 cash prize pool and limited edition mer
 
 [artist - title (mapper [diff]](link) <!-- valid -->
 
-[artist - title (mapper) [diff\]](link) <!-- invalid -->
+[artist - title (mapper) [diff\]](link) <!-- valid*** -->
 
-[artist - title (mapper) [diff\]](link) <!-- invalid --> [artist - title (mapper) [diff\]](link) <!-- invalid -->
+[artist - title (mapper) [diff\]](link) <!-- valid*** --> [artist - title (mapper) [diff\]](link) <!-- valid*** -->
 
-[artist - title (mapper) \[diff]](link) <!-- invalid -->
+<!-- [artist - title (mapper) \[diff]](link) (invalid, fails remark) -->
 
 [artist - title (mapper) [diff](link) <!-- invalid -->
 
-[artist - title (mapper) diff]](link) <!-- invalid -->
+<!-- [artist - title (mapper) diff]](link) (invalid, fails remark) -->
 
 [artist - title (mapper) [diff]](link_(with_parentheses)) <!-- valid -->
 
@@ -54,11 +54,11 @@ The osu! World Cup 2021 offered a $5,000 cash prize pool and limited edition mer
 
 [artist - title (mapper) [diff]](link_\(with_parentheses)) <!-- valid* -->
 
-[artist - title (mapper) [diff]](link_(with_parentheses\)) <!-- invalid** -->
+<!-- [artist - title (mapper) [diff]](link_(with_parentheses\)) (invalid**, fails remark) -->
 
 [artist - title (mapper) [diff]](link_with_parenthesis)) <!-- invalid -->
 
-[artist - title (mapper) [diff]](link_(with_parenthesis) <!-- invalid -->
+<!-- [artist - title (mapper) [diff]](link_(with_parenthesis) (invalid, fails remark) -->
 
 <!--
 
@@ -79,8 +79,11 @@ The osu! World Cup 2021 offered a $5,000 cash prize pool and limited edition mer
 
 Officia laudantium [accusamus](link) <!-- valid --> repellat rem minus eos. [Molestiae](https://www.example.com "an example") ab illum odio quis distinctio optio [officia](link "text") <!-- valid --> nesciunt. <!-- Perspiciatis qui [recusandae](link_in_comment) perferendis reprehenderit doloribus sint -->. Dolorem corporis et et quisquam voluptate illum rerum. [Consequuntur](link#heading) reprehenderit et beatae repudiandae iste dolorum sapiente ullam. Nobis et quo officiis consectetur.
 
-<!-- * syntactically correct, but is unintended -->
+<!-- * syntactically correct, but leaves unintended side-effects -->
+
 <!-- ** may work, but should fail tests-->
+
+<!-- *** syntactically correct, but isn't good style -->
 
 | Placing | Prize(s) |
 | :-: | :-- |
