@@ -56,7 +56,7 @@ The osu! World Cup 2021 offered a $5,000 cash prize pool and limited edition mer
 
 <!-- [artist - title (mapper) [diff]](link_(with_parentheses\)) (invalid**, fails remark) -->
 
-[artist - title (mapper) [diff]](link_with_parenthesis)) <!-- invalid -->
+[artist - title (mapper) [diff]](link_with_parenthesis)) <!-- valid* -->
 
 <!-- [artist - title (mapper) [diff]](link_(with_parenthesis) (invalid, fails remark) -->
 
