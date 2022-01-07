@@ -17,6 +17,8 @@ To suggest changes regarding the article styling criteria, [open an issue on Git
 
 *Notice: The articles below use [RFC 2119](https://tools.ietf.org/html/rfc2119) to describe requirement levels.*
 
+test
+
 The article styling criteria are split up into two articles:
 
 - [Formatting](Formatting): includes Markdown and other formatting rules
