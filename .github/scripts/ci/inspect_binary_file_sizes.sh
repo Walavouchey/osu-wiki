@@ -1,6 +1,7 @@
 WARN_ON_SIZE=500000
 ERROR_ON_SIZE=1000000
 EXIT=0
+COMMIT_HASH=$1
 
 while read file
 do
@@ -8,7 +9,7 @@ do
   # git ls-tree will output:
   # (file mode) (file type) (blob hash)<TAB>(file name)
   # we're interested in the hash to pull the file's size using cat-file
-  hash=`git ls-tree ${{ github.sha }} "${file}" | awk -F ' ' '{ print $3 }'`
+  hash=`git ls-tree ${COMMIT_HASH} "${file}" | awk -F ' ' '{ print $3 }'`
   filesize=`git cat-file -s ${hash} 2>/dev/null`
 
   if [[ ${filesize} -ge ${ERROR_ON_SIZE} ]]; then
@@ -19,7 +20,7 @@ do
   else
       echo "::debug::File ${file} is ok."
   fi
-done < <(git diff --numstat --no-renames --diff-filter=d ${{ github.sha }}^ ${{ github.sha }} | grep -Poe '-\t-\t\K.+')
+done < <(git diff --numstat --no-renames --diff-filter=d ${COMMIT_HASH}^ ${COMMIT_HASH} | grep -Poe '-\t-\t\K.+')
 # git diff --numstat will output -<TAB>-<TAB>$filename for blobs
 
 exit ${EXIT}

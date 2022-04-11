@@ -41,7 +41,7 @@ jobs:
 
       - name: inspect binary file sizes
         shell: bash
-        run: bash .github/scripts/ci/inspect_binary_file_sizes.sh
+        run: bash .github/scripts/ci/inspect_binary_file_sizes.sh ${{ github.sha }}
       - name: setup node
         uses: actions/setup-node@v1
 
