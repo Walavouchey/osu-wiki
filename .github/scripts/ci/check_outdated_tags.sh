@@ -24,7 +24,7 @@ function print_error () {
   echo_green "---"
 }
 
-function diff_files () { git diff --diff-filter=d --name-only ^${FIRST_COMMIT_HASH}~ ${COMMIT_HASH} "$@"; }
+function diff_files () { git diff --diff-filter=d --name-only ${FIRST_COMMIT_HASH}..${COMMIT_HASH} "$@"; }
 
 TRANSLATIONS=$( diff_files 'wiki/**/*.md' ':(exclude)*/en.md' )
 ORIGINAL_ARTICLES=$( diff_files 'wiki/**/en.md' )
