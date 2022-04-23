@@ -22,7 +22,7 @@
 "aimod":                            "Beatmap_Editor/AiMod"
 "beat_snap_divisor":                "Beatmap_Editor/Beat_Snap_Divisor"
 "compose":                          "Beatmap_Editor/Compose"
-"design":                           "Beatmap_Editor/Design"
+"design"                           "Beatmap_Editor/Design"
 "distance_snap":                    "Beatmap_Editor/Distance_Snap"
 "sb_load":                          "Beatmap_Editor/SB_Load"
 "storyboard_load":                  "Beatmap_Editor/SB_Load"
