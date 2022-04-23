@@ -26,7 +26,7 @@ do
   #else
   #    echo "::debug::File ${file} is ok."
   fi
-done < <(git diff --numstat --no-renames --diff-filter=d ${FIRST_COMMIT_HASH}..${LAST_COMMIT_HASH} | grep -Poe '-\t-\t\K.+')
+done < <(git diff --numstat --no-renames --diff-filter=d ${FIRST_COMMIT_HASH}^ ${LAST_COMMIT_HASH} | grep -Poe '-\t-\t\K.+')
 # git diff --numstat will output -<TAB>-<TAB>$filename for blobs
 
 exit ${EXIT}
