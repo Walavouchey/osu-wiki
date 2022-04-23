@@ -5,7 +5,7 @@ layout: main_page
 <!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
-Welcome to the osu! wiki, the open-source knowledge base containing a wide range of information related to osu!, a free-to-win rhythm game.
+Welcome to the osu! wiki, the open-source knowledge base containing a wide range of information related to osu!, a free-to-win rhythm game. [broken link](/wiki/article)
 </div>
 
 <div class="wiki-main-page__panels">
@@ -22,7 +22,7 @@ Important articles and guides that will help you dive into osu!. In case anythin
 </div>
 <div class="wiki-main-page-panel">
 
-# Game client
+### Game client
 
 Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to present. Get to know the game better from its various settings and customisation capabilities to technical details and file formats it uses.
 
