@@ -3,6 +3,7 @@ PULL_REQUEST_TAG='SKIP_OUTDATED_CHECK'
 
 FIRST_COMMIT_HASH=$1
 LAST_COMMIT_HASH=$2
+FIRST_PR_COMMIT_HASH=$3
 
 # https://en.wikipedia.org/wiki/ANSI_escape_code#3-bit_and_4-bit
 function echo_red () { echo -e "\e[0;31m$1\e[m"; }
@@ -52,8 +53,13 @@ MISSED_TRANSLATIONS=$( echo "$ORIGINAL_ARTICLES" | tr \\n \\0 | xargs -0 dirname
 })
 
 if [[ -n "$MISSED_TRANSLATIONS" ]]; then
-  # get the first commit of the branch associated with the PR; GitHub's ubuntu-latest has curl/jq: https://github.com/actions/virtual-environments
-  print_error "$MISSED_TRANSLATIONS" "$FIRST_COMMIT_HASH"
+  if [[ $FIRST_PR_COMMIT_HASH ]]; then
+    # GitHub Action host
+    print_error "$MISSED_TRANSLATIONS" "$FIRST_PR_COMMIT_HASH"
+  else
+    # Local run via run-ci.sh
+    print_error "$MISSED_TRANSLATIONS" "$FIRST_COMMIT_HASH"
+  fi
   exit 1
 else
   echo -e "$( echo_red 'Notice:' ) Either you have edited no original articles, or all translations are properly outdated"

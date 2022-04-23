@@ -85,4 +85,6 @@ jobs:
             echo "::notice::Outdated articles check suppressed ($PULL_REQUEST_TAG tag found in the pull request)"
             exit 0
           fi
-          bash .github/scripts/ci/check_outdated_tags.sh ${{ github.sha }} ${{ github.sha }}
+          # get the first commit of the branch associated with the PR; GitHub's ubuntu-latest has curl/jq: https://github.com/actions/virtual-environments
+          FIRST_PR_COMMIT_HASH=$( curl -sS ${{ github.event.pull_request.commits_url }}?per_page=1 | jq -r '.[0].sha' || true )
+          bash .github/scripts/ci/check_outdated_tags.sh ${{ github.sha }} ${{ github.sha }} $FIRST_PR_COMMIT_HASH
