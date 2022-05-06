@@ -22,3 +22,4 @@ The article styling criteria are split up into two articles:
 - [Formatting](Formatting): includes Markdown and other formatting rules
 - [Writing](Writing): includes writing practices and other grammar rules
 
+a
