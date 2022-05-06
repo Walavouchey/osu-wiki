@@ -28,8 +28,6 @@ The article styling criteria are split up into two articles:
 
 [Broken redirect (see redirect.yaml)](/wiki/asc)
 
-[Malformed link](////wiki/Article_styling_criteria)
-
 [Nonexistent article](/wiki/Article)
 
 [A]:a
