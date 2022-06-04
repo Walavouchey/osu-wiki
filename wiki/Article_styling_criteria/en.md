@@ -22,14 +22,4 @@ The article styling criteria are split up into two articles:
 - [Formatting](Formatting): includes Markdown and other formatting rules
 - [Writing](Writing): includes writing practices and other grammar rules
 
-[Missing reference][A]
-
-[Missing identifier](/wiki/Article_styling_criteria#abcdef)
-
-[Broken redirect (see redirect.yaml)](/wiki/asc)
-
-<!-- [Malformed link](////wiki/Article_styling_criteria) (caught by remark) -->
-
-[Nonexistent article](/wiki/Article)
-
-[A]:a
+a
