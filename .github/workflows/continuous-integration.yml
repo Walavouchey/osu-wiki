@@ -63,7 +63,7 @@ jobs:
           pip install -r scripts/requirements.txt
           python scripts/ci/run_yamllint.py --config .yamllint.yaml
 
-      - name: find broken wikilinks
+      - name: setup and run broken wikilink checker
         shell: bash
         env:
           PULL_REQUEST_TAG: 'SKIP_WIKILINK_CHECK'
@@ -73,8 +73,10 @@ jobs:
             exit 0
           fi
 
+          pip install osu-wiki-tools
+
           ARTICLES=$( git diff --diff-filter=d --name-only ${{ github.sha }}^ ${{ github.sha }} "wiki/**/*.md" "news/*.md" )
-          python scripts/ci/find_broken_wikilinks.py --target $ARTICLES
+          find-broken-wikilinks --target $ARTICLES
 
       - name: check if translations are marked as outdated
         shell: bash
