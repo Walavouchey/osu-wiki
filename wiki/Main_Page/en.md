@@ -5,7 +5,7 @@ layout: main_page
 <!-- Do not add any empty lines inside this div. -->
 
 <div class="wiki-main-page__blurb">
-Welcome to the osu! wiki, the open-source knowledge base containing a wide range of information related to osu!, a free-to-win rhythm game.
+Welcome to the osu! wiki, the open-source knowledge base containing a wide range of information related to osu!, a free-to-win rhythm game. [borked link][/wiki/Article] [good news post link](https://osu.ppy.sh/home/news/2022-07-02-featured-artist-track-updates-summer-2022) [bad news post link (spot the difference)](https://osu.ppy.sh/home/news/2022-07-03-featured-artist-track-updates-summer-2022)
 </div>
 
 <div class="wiki-main-page__panels">
