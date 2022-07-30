@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b5fc1a8607f3ce0c2be296c0073e35d0db551487
+---
+
 # Comment démarrer une collaboration sur une beatmap
 
 Les collaborations sont l'un des types de mapping les plus difficiles à réaliser. Il y a beaucoup de facteurs à prendre en compte... Voici quelques conseils à prendre en compte lors de la réalisation d'une collaboration.

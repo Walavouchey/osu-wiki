@@ -1,3 +1,8 @@
+---
+outdated_translation: true
+outdated_since: b5fc1a8607f3ce0c2be296c0073e35d0db551487
+---
+
 # Bir beatmap işbirliği nasıl başlatılır
 
 İşbirlikleri (collaboration/collab) başarması en zor beatmap oluşturma türlerinden biridir. Dahil edilecek çok fazla faktör var... İşte bir işbirliği yaratırken göz önünde bulundurulması gereken ipuçlarından bazıları:

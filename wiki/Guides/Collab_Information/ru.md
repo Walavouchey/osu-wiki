@@ -1,5 +1,7 @@
 ---
-needs_cleanup: true  # орфографические ошибки, могут быть шероховатости в переводе
+needs_cleanup: true
+outdated_translation: true
+outdated_since: b5fc1a8607f3ce0c2be296c0073e35d0db551487
 ---
 
 # Collab Information
