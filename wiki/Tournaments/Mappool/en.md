@@ -29,6 +29,11 @@ tags:
 
 A **mappool** is a collection of [beatmaps](/wiki/Beatmap) used in [tournament](/wiki/Tournaments) matches. These mappols may be divided into sections based on which [mods](/wiki/Gameplay/Game_modifier) are used, in which case they are sometimes called *modpools*, or by type of beatmap. The individual beatmaps are said to occupy a numbered *mappool slot* within each section of the mappool. People who create mappools are called *mappoolers* or *mappool selectors*, and the process itself is called *mappooling*.
 
+
+Most mappools aim to ensure that the better, most well-rounded player wins most of the time. Different types of beatmaps require different skills to perform well on them, so players tend to either specialise in a specific skill or generalise in order to be able to play a more variety of beatmaps.
+
+The beatmaps in a mappool therefore have to each represent a different set of skills that a player might be good at, such that both teams or players may pick beatmaps they are likely to excel at during a match. Otherwise, the mappool would be “unbalanced” and be biased towards the side that is more comfortable with the beatmaps in the pool.
+
 ## Mappool sections
 
 Tournaments except osu!mania ones typically include *Hidden*, *Hard Rock*, and *Double Time* sections of the mappool, which as their names suggest require the respective mods to be active. osu!mania tournaments instead use *Rice*, *LN*, *Hybrid*, and *SV*.
