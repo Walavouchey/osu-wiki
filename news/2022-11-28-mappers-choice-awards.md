@@ -38,51 +38,51 @@ Before we dive into the results, let's take a peek at the various handsome rewar
 
 #### Collab
 
-![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-collab-0.png)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-collab-1.png)](https://osu.ppy.sh/beatmapsets/1357624)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-collab-2.png)](https://osu.ppy.sh/beatmapsets/1633250)
+![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-collab-0.png)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-collab-1.png)](https://osu.ppy.sh/beatmapsets/1357624)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-collab-2.png)](https://osu.ppy.sh/beatmapsets/1633250)\
 [![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-collab-3.png)](https://osu.ppy.sh/beatmapsets/1388906)
 
 #### Complex Rhythm / Swing
 
-![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-complex-0.png)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-complex-1.png)](https://osu.ppy.sh/beatmapsets/1312076)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-complex-2.png)](https://osu.ppy.sh/beatmapsets/1376486)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-complex-3.png)](https://osu.ppy.sh/beatmapsets/1306570)
+![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-complex-0.png)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-complex-1.png)](https://osu.ppy.sh/beatmapsets/1312076)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-complex-2.png)](https://osu.ppy.sh/beatmapsets/1376486)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-complex-3.png)](https://osu.ppy.sh/beatmapsets/1306570)\
 
 #### High BPM / Alternator
 
-![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-highBPMAlternator-0.png)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-highBPMAlternator-1.png)](https://osu.ppy.sh/beatmapsets/1301330)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-highBPMAlternator-2.png)](https://osu.ppy.sh/beatmapsets/1529362)
+![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-highBPMAlternator-0.png)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-highBPMAlternator-1.png)](https://osu.ppy.sh/beatmapsets/1301330)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-highBPMAlternator-2.png)](https://osu.ppy.sh/beatmapsets/1529362)\
 [![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-highBPMAlternator-3.png)](https://osu.ppy.sh/beatmapsets/1382362)
 
 #### Hitsounding
 
-![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-hitsounding-0.png)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-hitsounding-1.png)](https://osu.ppy.sh/beatmapsets/1333932)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-hitsounding-2.png)](https://osu.ppy.sh/beatmapsets/1633250)
+![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-hitsounding-0.png)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-hitsounding-1.png)](https://osu.ppy.sh/beatmapsets/1333932)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-hitsounding-2.png)](https://osu.ppy.sh/beatmapsets/1633250)\
 [![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-hitsounding-3.png)](https://osu.ppy.sh/beatmapsets/1579180)
 
 #### Marathon
 
-![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-marathon-0.png)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-marathon-1.png)](https://osu.ppy.sh/beatmapsets/1610231)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-marathon-2.png)](https://osu.ppy.sh/beatmapsets/1459218)
+![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-marathon-0.png)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-marathon-1.png)](https://osu.ppy.sh/beatmapsets/1610231)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-marathon-2.png)](https://osu.ppy.sh/beatmapsets/1459218)\
 [![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-marathon-3.png)](https://osu.ppy.sh/beatmapsets/1633250)
 
 #### Slider Tech
 
-![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-sliderTech-0.png)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-sliderTech-1.png)](https://osu.ppy.sh/beatmapsets/1188437)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-sliderTech-2.png)](https://osu.ppy.sh/beatmapsets/1190470)
+![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-sliderTech-0.png)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-sliderTech-1.png)](https://osu.ppy.sh/beatmapsets/1188437)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-sliderTech-2.png)](https://osu.ppy.sh/beatmapsets/1190470)\
 [![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-sliderTech-3.png)](https://osu.ppy.sh/beatmapsets/1329045)
 
 #### Small Circles
 
-![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-smallCircles-0.png)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-smallCircles-1.png)](https://osu.ppy.sh/beatmapsets/1283652)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-smallCircles-2.png)](https://osu.ppy.sh/beatmapsets/1251587)
+![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-smallCircles-0.png)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-smallCircles-1.png)](https://osu.ppy.sh/beatmapsets/1283652)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-smallCircles-2.png)](https://osu.ppy.sh/beatmapsets/1251587)\
 [![](/wiki/shared/news/2022-11-28-mappers-choice-awards/standard-map-smallCircles-3.png)](https://osu.ppy.sh/beatmapsets/1321964)
 
 #### Unorthodox / Gimmick
@@ -488,15 +488,18 @@ Before we dive into the results, let's take a peek at the various handsome rewar
 #### Most Promising
 
 ![](/wiki/shared/news/2022-11-28-mappers-choice-awards/mania-user-mostPromising-0.png)
+
 [![](/wiki/shared/news/2022-11-28-mappers-choice-awards/mania-user-mostPromising-1.png)](https://osu.ppy.sh/users/15380643)
+
 [![](/wiki/shared/news/2022-11-28-mappers-choice-awards/mania-user-mostPromising-2.png)](https://osu.ppy.sh/users/12519616)
+
 [![](/wiki/shared/news/2022-11-28-mappers-choice-awards/mania-user-mostPromising-3.png)](https://osu.ppy.sh/users/11626065)
 
 #### Grand Award
 
-![](/wiki/shared/news/2022-11-28-mappers-choice-awards/mania-user-grandAward-0.png)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/mania-user-grandAward-1.png)](https://osu.ppy.sh/users/2596306)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/mania-user-grandAward-2.png)](https://osu.ppy.sh/users/15205070)
+![](/wiki/shared/news/2022-11-28-mappers-choice-awards/mania-user-grandAward-0.png)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/mania-user-grandAward-1.png)](https://osu.ppy.sh/users/2596306)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/mania-user-grandAward-2.png)](https://osu.ppy.sh/users/15205070)\
 [![](/wiki/shared/news/2022-11-28-mappers-choice-awards/mania-user-grandAward-3.png)](https://osu.ppy.sh/users/4647754)
 
 ## Storyboarding
@@ -515,11 +518,11 @@ Before we dive into the results, let's take a peek at the various handsome rewar
 
 ### Grand Storyboarder
 
-![](/wiki/shared/news/2022-11-28-mappers-choice-awards/storyboard-user-grandStoryboarder-0.png)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/storyboard-user-grandStoryboarder-1.png)](https://osu.ppy.sh/users/3664366)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/storyboard-user-grandStoryboarder-2.png)](https://osu.ppy.sh/users/1243669)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/storyboard-user-grandStoryboarder-3.png)](https://osu.ppy.sh/users/605973)
-[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/storyboard-user-grandStoryboarder-4.png)](https://osu.ppy.sh/users/12243368)
+![](/wiki/shared/news/2022-11-28-mappers-choice-awards/storyboard-user-grandStoryboarder-0.png)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/storyboard-user-grandStoryboarder-1.png)](https://osu.ppy.sh/users/3664366)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/storyboard-user-grandStoryboarder-2.png)](https://osu.ppy.sh/users/1243669)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/storyboard-user-grandStoryboarder-3.png)](https://osu.ppy.sh/users/605973)\
+[![](/wiki/shared/news/2022-11-28-mappers-choice-awards/storyboard-user-grandStoryboarder-4.png)](https://osu.ppy.sh/users/12243368)\
 [![](/wiki/shared/news/2022-11-28-mappers-choice-awards/storyboard-user-grandStoryboarder-5.png)](https://osu.ppy.sh/users/4610047)
 
 ---
