@@ -6,7 +6,7 @@ date: 2023-02-01 09:00:00 +0000
 
 **102** skins have been added to the compendium this year, but only one can become the skin of the year! Cast your vote now!
 
-![](https://assets.ppy.sh/artists/336/header.jpg)
+![](/wiki/shared/news/2023-02-01-Skin-of-the-Year-2022/SOTY-2022-banner.jpg)
 
 2022 has been a good year for the skinning community, with a lot of positive changes being brought upon the community and the systems that keep it flourishing! Before we kick off with the voting details, we should look back at what happened in 2022 within the skinning community, including (but not limited to) the [compendium](https://compendium.skinship.xyz/) changes:
 
