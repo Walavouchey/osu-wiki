@@ -8,25 +8,82 @@ All osu! originals that have been licensed by the game are cleared for use in os
 
 ### osu! original soundtrack
 
-| Song | Notes |
-| :-: | :-- |
-| [cYsmix - triangles](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer)[^fa-catalogue] | Current osu!(lazer) main theme |
-| [nekodex - aureole](https://soundcloud.com/nekodex/aureole)[^fa-catalogue] | Christmas/Winter 2017 osu! theme |
-| [nekodex - circles!](https://soundcloud.com/nekodex/circles)[^fa-catalogue] | 2015 osu! theme |
-| [nekodex - carol of the circles](https://soundcloud.com/nekodex/carol-of-the-circles)[^fa-catalogue] | Christmas/Winter 2019 osu! theme |
-| [nekodex - Little Drummer Girl](https://soundcloud.com/nekodex/little-drummer-girl)[^fa-catalogue] | Christmas/Winter 2020 osu! theme |
-| [nekodex - Liquid Future](https://soundcloud.com/nekodex/liquid-future)[^fa-catalogue] | Original composition for [osu!stream](/wiki/osu!stream) |
-| [nekodex - new beginnings](https://osu.ppy.sh/beatmapsets/1011011)[^fa] | Current tutorial song |
-| [nekodex - osu!stream theme](https://soundcloud.com/nekodex/osu-stream-theme)[^fa] | [osu!stream](/wiki/osu!stream) main theme |
-| [nekodex - welcome to christmas!](https://soundcloud.com/nekodex/welcome-to-christmas)[^fa-catalogue] | [osu!stream](/wiki/osu!stream) main theme |
-| [nekodex - welcome to osu!](https://soundcloud.com/nekodex/welcome-to-osu)[^fa] | Former osu! theme |
-| [Peter Lambert - osu! tutorial](https://osu.ppy.sh/beatmapsets/3756) | Former tutorial song |
+<!--
+markdown-generator9000 v1.0.0
+---
+table:
+  data: "meta/data/originals.csv"
+  header:
+    - Links
+    - Song
+    - Notes
+  alignments:
+    - ":-:"
+    - ":--"
+    - ":--"
+  format:
+    - >-
+      " ".join([
+          link(Icons.osu, row.get('FA listing')),
+          link(Icons.soundcloud, row.get('SoundCloud')),
+          link(Icons.youtube, row.get('YouTube')),
+          link(Icons.spotify, row.get('Spotify')),
+          link(Icons.bandcamp, row.get('Bandcamp')),
+      ])
+    - "row.get('Track')"
+    - "row.get('Note')"
+  filter: "row.get('Type') == 'OST'"
+  sort_key: "lambda row : row.get('Song').lower()"
+---
+-->
+
+| Links | Song | Notes |
+| :-: | :-- | :-- |
+| [![](/wiki/shared/icon/soundcloud)](https://soundcloud.com/olemlanglie/cysmix-triangles-osulazer) | cYsmix - triangles | Current osu!(lazer) main theme |
+| [![](/wiki/shared/icon/soundcloud)](https://soundcloud.com/nekodex/aureole) | nekodex - aureole | Christmas/Winter 2017 osu! theme |
+| [![](/wiki/shared/icon/soundcloud)](https://soundcloud.com/nekodex/carol-of-the-circles) | nekodex - carol of the circles | Christmas/Winter 2019 osu! theme |
+| [![](/wiki/shared/icon/soundcloud)](https://soundcloud.com/nekodex/circles) | nekodex - circles! | 2015 osu! theme |
+| [![](/wiki/shared/icon/soundcloud)](https://soundcloud.com/nekodex/liquid-future) | nekodex - Liquid Future | Original composition for [osu!stream](/wiki/osu!stream) |
+| [![](/wiki/shared/icon/soundcloud)](https://soundcloud.com/nekodex/little-drummer-girl) | nekodex - Little Drummer Girl | Christmas/Winter 2020 osu! theme |
+|  | nekodex - new beginnings | Current tutorial song |
+| [![](/wiki/shared/icon/soundcloud)](https://soundcloud.com/nekodex/osu-stream-theme) | nekodex - osu!stream theme | [osu!stream](/wiki/osu!stream) main theme |
+| [![](/wiki/shared/icon/soundcloud)](https://soundcloud.com/nekodex/welcome-to-christmas) | nekodex - welcome to christmas! | [osu!stream](/wiki/osu!stream) main theme |
+| [![](/wiki/shared/icon/soundcloud)](https://soundcloud.com/nekodex/welcome-to-osu) | nekodex - welcome to osu! | Former osu! theme |
+|  | Peter Lambert - osu! tutorial | Former tutorial song |
 
 ### Featured Artist exclusive releases
 
 #### [cYsmix](https://osu.ppy.sh/beatmaps/artists/2)
 
 *For the announcement news post, see: [Mapping With Rewards (Sep. 2015)](https://blog.ppy.sh/post/129936251068/mapping-with-rewards-sep-2015)*
+
+<!--
+markdown-generator9000 v1.0.0
+---
+table:
+  data: "meta/data/originals.csv"
+  header:
+    - Song
+  alignments:
+    - ":-:"
+  format:
+    - >-
+      link(
+        row.get('Track'),
+        next(filter(None,
+          (
+            row.get('SoundCloud'),
+            row.get('YouTube'),
+            row.get('Spotify'),
+            row.get('Bandcamp'),
+            row.get('FA listing'),
+          )
+        ), '')
+      )
+  filter: "row.get('Type') == 'FA_RELEASE' and 'cYsmix' in row.get('Artists')"
+  sort_key: "lambda row : row.get('Song').lower()"
+---
+-->
 
 | Song |
 | :-: |
