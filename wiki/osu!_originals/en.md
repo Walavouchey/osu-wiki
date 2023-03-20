@@ -25,7 +25,8 @@ table:
     - "<<icon link: FA listing>> <<icon link: SoundCloud>> <<icon link: YouTube>> <<icon link: Spotify>> <<icon link: Bandcamp>>"
     - "<<Track>>"
     - "<<Note>>"
-  filter: "<<Type>> is OST"
+  filter:
+    include: "<<Type>> is OST"
   sort:
     by: Track
     order: ascending
@@ -63,7 +64,11 @@ table:
     - centre
   format:
     - "[<<Track>>](<<SoundCloud | YouTube | Spotify | Bandcamp | FA listing>>)"
-  filter: "<<Type>> is FA_RELEASE and <<Artists>> has cYsmix"
+  filter:
+    include_mode: and
+    include:
+      - "<<Type>> is FA_RELEASE"
+      - "<<Artists>> has cYsmix"
   sort:
     by: Track
     order: ascending
@@ -191,7 +196,8 @@ table:
     - "[<<Track>>](<<SoundCloud | YouTube | Spotify | Bandcamp | FA listing>>)"
     - "[#1](<<Beatmap>>)"
     - "<<Mappool slot>>"
-  filter: "<<Type>> is TOURNAMENT_OFFICIAL"
+  filter:
+    include: "<<Type>> is TOURNAMENT_OFFICIAL"
   sort:
     by: Track
     order: ascending
@@ -310,7 +316,8 @@ table:
     - "[<<Track>>](<<SoundCloud | YouTube | Spotify | Bandcamp | FA listing>>)"
     - "[#1](<<Beatmap>>)"
     - "<<Mappool slot>>"
-  filter: "<<Type>> is TOURNAMENT_COMMUNITY"
+  filter:
+    include: "<<Type>> is TOURNAMENT_COMMUNITY"
   sort:
     by: Track
     order: ascending
@@ -704,4 +711,3 @@ table:
 [^fa]: This song is made by a Featured Artist, but is not part of the Featured Artist catalogue.
 [^fa-feature]: This song features a Featured Artist, but is not part of the Featured Artist catalogue.
 [^fa-catalogue]: This song is part of the Featured Artist catalogue.
-
