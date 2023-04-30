@@ -29,25 +29,18 @@ Important to understand before using:
 
 ### Rules
 
-- **No two hit objects can be placed on the same tick.** This includes hit circles and the durations of sliders and spinners. osu!mania difficulties are exempt from this.
-- **There must be at least 10 milliseconds between a hit circle and the next object, and at least 20 milliseconds between the end of a slider and the next object.** osu!mania and osu!catch difficulties are exempt from this.
 - **There must not be any obscene imagery in the [background](/wiki/Beatmap/Background)/storyboard/video content.** This includes nudity, near-nudity, sexual references, violence, drug abuse, etc. See [Visual Content Considerations](/wiki/Rules/Visual_Content_Considerations) for more detailed rules.
-- **Difficulties that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or colour in the storyboard or video must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz (i.e. 3 flashes per second) and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
-- **There must not be any unused files or 0-byte files in the beatmap's folder.** 0-byte files prevent other files in a beatmap's folder from properly uploading. Automatically generated `thumbs.db` files are the only exceptions.
-- **[Break times](/wiki/Beatmap/Break) must be inserted with the restrictions of the [beatmap editor](/wiki/Client/Beatmap_editor).**
-- **[Difficulty settings](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) must not use more precision than is possible in the [beatmap editor](/wiki/Client/Beatmap_editor).**
-- **The `Letterbox during breaks` setting must be consistent between difficulties of the same mode if they contain break periods and if included, the same storyboard.**
+- **A [beatmap host](/wiki/Beatmap/Beatmap_host) must have beatmapped equal or more difficulties than any [guest difficulty](/wiki/Beatmap/Guest_difficulty) creator.** This is to provide credit where credit is due. [Collaborative difficulties](/wiki/Beatmap/Beatmap_collaborations) are only considered partial difficulties, and [drain time](/wiki/Beatmap/Drain_time) will be used to determine the amount of contribution when a guest has beatmapped significantly more than the host.
+- **A [beatmap host](/wiki/Beatmap/Beatmap_host) and [guest difficulty](/wiki/Beatmap/Guest_difficulty) creators can make changes to their respective difficulties as they wish.** If there is a disagreement between both, the beatmap host must delete the guest contribution upon request. If a guest difficulty creator cannot be contacted for a month, they will be assumed to agree with any changes.
+- **Beatmaps cannot contain significant portions of difficulties belonging to other users without their explicit involvement or permission.**
 - **Beatmaps containing spoilers for other media must be marked with a spoiler warning in the beatmap's description.**<!-- TODO: This and the following rule should be game features, not RC rules. Aside from being ineffective, it doesn't make sense for this to be included in RC because you can edit it after Ranked. -->
 
 ### Guidelines
 
 - **Creators of the media used in a beatmap should be credited in the beatmap's description.** Per the [Content Usage Guidelines](/wiki/Rules/Content_Usage_Guidelines), media used in beatmaps should be permitted for use in osu!, and their licensing will likely detail how to credit their creators. Common reasons to omit credits from the description include exceeding difficulty in sourcing, creators' wishes to remain uncredited, and presence of credits in the artist, title, or source fields.
 - **Directly re-using your own Ranked difficulties in other Ranked beatmaps is discouraged.** This is to avoid unnecessary bloating of Ranked content.
-- **[Slider tick rate](/wiki/Beatmapping/Slider_tick_rate) should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they do not cause slider ticks to be unsnapped.
-- **[Kiai](/wiki/Gameplay/Kiai_time) should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
-- **The `Enable countdown` setting should be consistent between difficulties of the same mode.** If a difficulty does not have a long enough intro period for the countdown to occur, this setting does not need to be consistent.
 
-## Beatmap
+## Difficulty spread
 
 *Note: Each of [osu!mania](/wiki/Game_mode/osu!mania)'s key counts are considered individual game modes throughout this section.*
 
@@ -62,19 +55,24 @@ Important to understand before using:
   - **...between 4:15 and 5:00**, the lowest difficulty of each included game mode cannot be harder than an Insane.
   - **[Break times](/wiki/Beatmap/Break) may be combined with [drain time](/wiki/Beatmap/Drain_time) to meet the above thresholds.** For the highest difficulty, this is limited to at most 30 seconds of break time. This does not apply to difficulties with less than 30 seconds of drain time.
   - **osu!mania beatmaps are bound by a different set of drain time thresholds and other spread rules defined in the [osu!mania ranking criteria](/wiki/Ranking_Criteria/osu!mania).**
+
+### Guidelines
+
+- **The highest difficulty of a beatmap should correspond to the general feel of the song.** Easy/Normal difficulties can be used as a lone difficulty of a beatmap if their rhythms are not oversimplified. A Hard difficulty or beyond should be included otherwise.
+
+## Difficulty naming
+
+### Rules
+
 - **Difficulty names in a beatmap must be clearly progressive and accurately indicating of their respective difficulties, excluding:**
   - The highest difficulty of each game mode.
   - The highest difficulties of each game mode with a similar level of difficulty, applying only to Insane and Extra difficulties (e.g. the Insane difficulties of a ENHIIII set or the Extra difficulties of a ENHIIXXX set).
 - **A beatmap's custom difficulty naming must follow a common theme or pattern related to the song or difficulty and must not be misrepresentative.** A difficulty name is misrepresentative if it implies a different difficulty level (e.g. naming an "Expert" difficulty as "Normal").
 - **A difficulty's name must not solely consist of one or more usernames.** Words that happen to be usernames are acceptable within difficulty names as long as they relate to the song.
 - **A [beatmap host](/wiki/Beatmap/Beatmap_host) cannot indicate possession in a difficulty's name.** (e.g. Beatmap Host's Insane). Conflicts caused by beatmapping multiple songs with the same metadata and [collaborative difficulties](/wiki/Beatmap/Beatmap_collaborations) are the only exceptions. [Guest difficulties](/wiki/Beatmap/Guest_difficulty), however, may indicate possession with its creators' username or nickname.
-- **A [beatmap host](/wiki/Beatmap/Beatmap_host) must have beatmapped equal or more difficulties than any [guest difficulty](/wiki/Beatmap/Guest_difficulty) creator.** This is to provide credit where credit is due. [Collaborative difficulties](/wiki/Beatmap/Beatmap_collaborations) are only considered partial difficulties, and [drain time](/wiki/Beatmap/Drain_time) will be used to determine the amount of contribution when a guest has beatmapped significantly more than the host.
-- **A [beatmap host](/wiki/Beatmap/Beatmap_host) and [guest difficulty](/wiki/Beatmap/Guest_difficulty) creators can make changes to their respective difficulties as they wish.** If there is a disagreement between both, the beatmap host must delete the guest contribution upon request. If a guest difficulty creator cannot be contacted for a month, they will be assumed to agree with any changes.
-- **Beatmaps cannot contain significant portions of difficulties belonging to other users without their explicit involvement or permission.**
 
 ### Guidelines
 
-- **The highest difficulty of a beatmap should correspond to the general feel of the song.** Easy/Normal difficulties can be used as a lone difficulty of a beatmap if their rhythms are not oversimplified. A Hard difficulty or beyond should be included otherwise.
 - **Avoid incomprehensible username combinations to indicate possession of a [collaborative difficulty](/wiki/Beatmap/Beatmap_collaborations).** If it's unclear whose usernames are combined, simplification is recommended.
 - **Avoid difficulty names with descriptive elements not clearly related to a [guest difficulty](/wiki/Beatmap/Guest_difficulty) creator or a level of difficulty.** (e.g. Beatmap Creator's Tragic Love Extra)
 - **Usernames indicating possession of a [guest difficulty](/wiki/Beatmap/Guest_difficulty) should be consistent between multiple beatmaps.** Varying nicknames for one user makes interpreting who created a difficulty ambiguous or misleading.
@@ -175,6 +173,8 @@ This category contains explicit allowance statements of concepts and rules that 
 
 ### Rules
 
+- **No two hit objects can be placed on the same tick.** This includes hit circles and the durations of sliders and spinners. osu!mania difficulties are exempt from this.
+- **There must be at least 10 milliseconds between a hit circle and the next object, and at least 20 milliseconds between the end of a slider and the next object.** osu!mania and osu!catch difficulties are exempt from this.
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be used to accurately beatmap the song's time signatures.** If an incorrect time signature lasts for more than one bar, an uninherited timing point must be added on the next downbeat to reset the time signature. For #/4-signatures unsupported by the editor, metronome resets or editing of the `.osu` file are acceptable. For other unsupported time signatures, refer to this [exemplary chart](/wiki/shared/timing/Timing_signature_reference_chart.png), and see the [Timing songs with #/8-signatures](/wiki/Guides/Timing_Songs_With_8-Signatures) guide for further information.
 - **Beatmaps must be perfectly timed.** This means [BPM](/wiki/Music_theory/Tempo) and offset of each [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) are exactly synchronised with the song. Beatmaps with constantly changing BPM may be impossible to perfectly time and should instead be as accurate as possible without negatively affecting gameplay. Complex timing during breaks or spinners is optional.
 - **[Uninherited timing points](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must be the same in every difficulty of a beatmap.** Each point must have the same [BPM](/wiki/Music_theory/Tempo) and offset in each difficulty.
@@ -188,6 +188,10 @@ This category contains explicit allowance statements of concepts and rules that 
   - Remain unsnapped, as long as they align with the intended beat snap divisor.
   - Be snapped through a temporary change in [BPM](/wiki/Music_theory/Tempo).
 - **An object which is wrongly snapped due to passing through or ending slightly before a new [uninherited timing point](/wiki/Client/Beatmap_editor/Timing#uninherited-timing-point) must have its tail snapped within the new timing section.** For spinners and osu!mania long notes, this can be achieved through dragging the end of the object in the timeline. For sliders, this can be achieved through slider velocity manipulation or editing of the `.osu` file.
+
+### Guideline
+
+- **[Kiai](/wiki/Gameplay/Kiai_time) should start on a sound in the music.** Doing so otherwise causes the kiai flash to feel unrelated to the song.
 
 ## Audio
 
@@ -209,7 +213,6 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Preview points must be set and consistent between all difficulties of a beatmap.** This is used for both the song selection menu and the online thumbnail preview.
 - **Every hitsound file must be at least 25ms long.** Shorter files can result in no sound being played in-game.
 - **Completely silent sound files must use [this 44-byte file](https://up.ppy.sh/files/blank.wav).** Other files have unnecessarily large file sizes, and 0-byte files do not function.
-- **[Storyboarded hitsounds](/wiki/Beatmapping/Hitsound#storyboarded-hitsound) cannot be used as replacements for [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound).** These give an inaccurate form of player feedback. Storyboarded hitsounds in other situations are acceptable, but discouraged. osu!mania is exempt from this rule.
 
 ### Guidelines
 
@@ -275,6 +278,7 @@ This category contains explicit allowance statements of concepts and rules that 
 - **Storyboarded images must not exceed an area of 17,000,000 pixels to keep loading times of large images within reasonable ranges for most computers to handle.** Additionally you may need to rescale your images accordingly to the internal maximum dimensions of the storyboard editor of 854 x 480 osu!pixels when using them.
 - **The difficulty must not throw parsing errors upon loading.** This means the parser cannot read part of the storyboard instructions.
 - **The `Widescreen support` setting must be consistent between storyboarded difficulties in a beatmap,** unless difficulty-specific storyboards are designed for different aspect ratios.
+- **[Storyboarded hitsounds](/wiki/Beatmapping/Hitsound#storyboarded-hitsound) cannot be used as replacements for [active hitsounds](/wiki/Beatmapping/Hitsound#active-hitsound).** These give an inaccurate form of player feedback. Storyboarded hitsounds in other situations are acceptable, but discouraged. osu!mania is exempt from this rule.
 
 ### Guidelines
 
@@ -295,6 +299,21 @@ This category contains explicit allowance statements of concepts and rules that 
   - **Refrain from having multiple sprites active while not rendered.** Active sprites will still process commands regardless of whether they are visible or not. Should this be the case for longer periods of time, instantiate new sprites instead, for when visibility is regained.
   - **When using many commands of the same type on a sprite, try leaving at least 16 ms between their start times.** 60 commands per second is often more than enough for any sprite to make smooth transitions on an average setup. This is for the sake of reducing file size and loading times.
   - **Fade out sprites activated from triggers after usage.** Triggers will activate from their first possible command and stay active until the end of the difficulty, which is why fading these out when done is preferable.
+
+## Manual file editing and miscellaneous settings
+
+### Rules
+
+- **There must not be any unused files or 0-byte files in the beatmap's folder.** 0-byte files prevent other files in a beatmap's folder from properly uploading. Automatically generated `thumbs.db` files are the only exceptions.
+- **[Break times](/wiki/Beatmap/Break) must be inserted with the restrictions of the [beatmap editor](/wiki/Client/Beatmap_editor).**
+- **[Difficulty settings](/wiki/Client/Beatmap_editor/Song_Setup#difficulty) must not use more precision than is possible in the [beatmap editor](/wiki/Client/Beatmap_editor).**
+- **Difficulties that contain repetitive strobes, pulsing images, or rapid changes in contrast, brightness or colour in the storyboard or video must use an epilepsy warning.** If the warning interferes with gameplay, audio lead-in must be made longer. Strobing effects at 3 Hz (i.e. 3 flashes per second) and below are unlikely to cause concern. When in doubt, add the warning and confirm its necessity during the modding process.
+- **The `Letterbox during breaks` setting must be consistent between difficulties of the same mode if they contain break periods and if included, the same storyboard.**
+
+### Guidelines
+
+- **The `Enable countdown` setting should be consistent between difficulties of the same mode.** If a difficulty does not have a long enough intro period for the countdown to occur, this setting does not need to be consistent.
+- **[Slider tick rate](/wiki/Beatmapping/Slider_tick_rate) should not be modified through the `.osu` file.** Most custom values result in unsnapped slider ticks, however tick rates 0.5, 1.333, and 1.5 have practical use and can be applied only when they do not cause slider ticks to be unsnapped.
 
 ## Notes
 
