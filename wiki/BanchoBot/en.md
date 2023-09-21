@@ -9,6 +9,8 @@ tags:
 <!--TODO:
 - add section that lists and explains all the game-related announcements -->
 
+woah
+
 # BanchoBot
 
 *For other uses, see [Bancho (disambiguation)](/wiki/Disambiguation/Bancho).*
