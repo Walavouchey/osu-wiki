@@ -99,7 +99,7 @@ How did their story start? They were asked similar questions as Kasumi, so let's
 
 [![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/Jerry.png)](https://osu.ppy.sh/users/605973)
 
-> Hello! My name is Jerry (or NZMJerry), and I'm mostly known for my design works in a number of osu! tournaments and original tracks such as the [Global Taiko Showdown](https://gtsosu.com/) (GTS) series, [osu! World Cup 2023](https://osu.ppy.sh/beatmapsets/2095177#taiko/4393066) and [Jaye's One Key Event (https://osu.ppy.sh/community/forums/topics/1829307?n=1) (JOKE). Besides my designing works, I'm also the host of the osu!taiko Malaysian Tournament (OTMT) series as well as several other events ranging from contests to [LANs](https://osu.ppy.sh/home/news/2023-08-22-osu-malaysia-animangaki) for the overall osu! Malaysian community.
+> Hello! My name is Jerry (or NZMJerry), and I'm mostly known for my design works in a number of osu! tournaments and original tracks such as the [Global Taiko Showdown](https://gtsosu.com/) (GTS) series, [osu! World Cup 2023](https://osu.ppy.sh/beatmapsets/2095177#taiko/4393066) and [Jaye's One Key Event (JOKE)](https://osu.ppy.sh/community/forums/topics/1829307?n=1). Besides my designing works, I'm also the host of the osu!taiko Malaysian Tournament (OTMT) series as well as several other events ranging from contests to [LANs](https://osu.ppy.sh/home/news/2023-08-22-osu-malaysia-animangaki) for the overall osu! Malaysian community.
 > 
 > After wrapping up the first edition of the osu!taiko Malaysian Tournament (OTMT) series back in 2021, the team didn't want to just do the same thing again for the next year and beyond, so we felt that the most natural progression for the series' growth was to start introducing original songs into the mix. I truly believe that this, along with the introduction of our mascot character, IRIS, helped a lot in weaving a recognizable visual identity for the whole tournament, which significantly enhanced the tournament experience.
 
@@ -109,7 +109,9 @@ Visual arts go hand in hand with music commissions and tournament production, wh
 
 <!-- Do you have any fond or interesting memories you'd like to share? Have there been challenges of particular note along the way? -->
 
-> <!-- I think a better question would be what _wasn't_ challenging hahaha. -->Kicking off the OTMT series back in 2021 felt like I was thrown into the deep end of a pool, with almost none of my past tournament staffing experiences being applicable. Covering every role with the extremely small group of staff that we had was tough, but in hindsight I think that experience was necessary for us to gain insight into what worked and what didn't, which then helped alot in addressing any issues for the 2022 edition.
+<!-- I think a better question would be what _wasn't_ challenging hahaha. -->
+
+> Kicking off the OTMT series back in 2021 felt like I was thrown into the deep end of a pool, with almost none of my past tournament staffing experiences being applicable. Covering every role with the extremely small group of staff that we had was tough, but in hindsight I think that experience was necessary for us to gain insight into what worked and what didn't, which then helped alot in addressing any issues for the 2022 edition.
 > 
 > Even then, this still did not make OTMT2022 any easier to manage. Production levels were higher, our team grew larger, and expectations were now compounded too with the increased number of eyes on the project (special thanks to [Kasumi-sama](https://osu.ppy.sh/users/6177263)). Nevertheless, I think all the countless sleepless nights of work that we poured into the project was all worth it. Having the opportunity to work with some of the most amazing people I've ever met in music composition, character artworks, graphic designing, and many more for the project is perhaps one of the most rewarding experiences I've ever had.
 > 
@@ -188,7 +190,7 @@ It may be a question affected by highly individual factors from the composition,
 
 > Hi! My name is HowToPlayLN, in-game you can call me LN or index. You may know me as an ex-osu!mania mapper (especially [polyriddim](https://osu.ppy.sh/beatmapsets/1182702)), ex-mwc player 2019-2022, did some statistics and data science and made storyboards for some tournaments and now a composer. Meanwhile in real life I am doing coding and data science stuff.
 
-Like takehirotei, [HowToPlayLN](https://osu.ppy.sh/users/10879600) also has composed over 20 songs across a multitude of tournaments. Of course, the first thing to ask is how did it all start (and continue)?
+Like takehirotei, [HowToPlayLN](https://osu.ppy.sh/users/10879600) also has composed over 20 songs across a multitude of tournaments. Of course, the first thing to ask is *"how did it all start?"*.
 
 > If we're talking on how I started doing music, it would throwback to my first composition which I also mapped it and named it after myself ([HowToPlayLN - HowToPlayLN](https://osu.ppy.sh/beatmapsets/1602222#mania/3271953)). I think at some point some people were also joking with myself about "HowToPlayLN custom song when". Then... it's just that I decided to do one for an achievement that I would basically just be a jack-of-all-trades for a tournament scene in osu!mania or osu! in general.
 
@@ -222,7 +224,7 @@ Like takehirotei, [HowToPlayLN](https://osu.ppy.sh/users/10879600) also has comp
 
 > Additionally, Essence became an album on how the motif or theme can be extended belong side with the [stories](https://4digitmwc.github.io/media-centre/stories/infinity), which also was the link between the previous iteration of the tournament and LNCryption. As we finished the tiebreaker song, we continued to expand the ideas of Essence being some kind of events in the story and built the stories with them. So each section of Essence can be interpreted as the throwback and the resolution of the story.
 
-### Collaborations
+## Collaborations
 
 Cool things can happen when people work together. That's also true for artists — there are plenty of songs in osu! composed by multiple people.
 
@@ -230,15 +232,17 @@ How exactly does this work? HowToPlayLN and takehirotei have composed songs toge
 
 [![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/takehirotei.png)](https://osu.ppy.sh/users/11793794)
 
-> For collabrations, let's say we have n composers, we usually split the song into n parts, where each composers focus on that particular part (unless there are composers who want's to collaborate with another composers for their part). We also sometimes planned the whole song out in a google sheet first before composing the real thing, for example, in [GTS Orchestra Team - Akatsuki - Tokoyami no Yoru ga Aketa Toki -](https://osu.ppy.sh/beatmapsets/1988498), in the beginning, we all decided to go for a "SEGA sound team chunithm boss song" kind of song, then we decide the order of SiLiS doing the front part, HowToPlayLN and rN do the middle part, and I do the final part.
+> For collabrations, let's say we have n composers, we usually split the song into n parts, where each composers focus on that particular part (unless there are composers who want's to collaborate with another composers for their part).
+> 
+> We also sometimes planned the whole song out in a Google Sheet first before composing the real thing. For example, in [GTS Orchestra Team - Akatsuki - Tokoyami no Yoru ga Aketa Toki -](https://osu.ppy.sh/beatmapsets/1988498), in the beginning, we all decided to go for a "SEGA sound team chunithm boss song" kind of song, then we decide the order of SiLiS doing the front part, HowToPlayLN and rN do the middle part, and I do the final part.
 > 
 > ![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/akatsuki-parts.png)
 > 
-> But of course, the [above] sheet you're seeing now is not what we have planned at the beginning, as more progress are made, we sometimes needed to change the flow a bit in order to "fit the flow", and sometimes there are also times where some composers (including myself) are busy at irl activities, so we sometimes let the other composers do their part first, then only go back to the original composer to connect the previous part and the next part together.
+> But of course, the sheet you're seeing now is not what we have planned at the beginning, as more progress are made, we sometimes needed to change the flow a bit in order to "fit the flow", and sometimes there are also times where some composers (including myself) are busy at irl activities, so we sometimes let the other composers do their part first, then only go back to the original composer to connect the previous part and the next part together.
 > 
 > But of course, this is not the only method to collaborate. Another method that I've known is one composer in charge of composing most of the structure of the song, then another composer would do the instrumentation of it. So this way, both the composers signature style would be presented at the same time without much clashing. For example, in [Essence](https://osu.ppy.sh/beatmapsets/1943786), HowToPlayLN did most of the composition and planning on the song, as well as some instrumentations, while I do the rest of the instrumentation, mixing and mastering on the song.
 > 
-> For more details, we have [wrote an article last year on how we made the song](https://4digitmwc.github.io/media-centre/opinions/behind-the-scenes-1), so please give it a read if you're interested :D
+> For more details, we have [written an article last year on how we made the song](https://4digitmwc.github.io/media-centre/opinions/behind-the-scenes-1), so please give it a read if you're interested :D
 
 ![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/HowToPlayLN.png)
 
@@ -248,6 +252,7 @@ How exactly does this work? HowToPlayLN and takehirotei have composed songs toge
 > 
 > Mostly my part of the collaboration would be stored in MIDI before adjusting dynamics. For the gluing parts together, mixing and mastering, mostly other artists who are more specialized will do the work. So big appreciation for them for handling all of these actually.
 
+<!--
 ## A chaotic path of memories
 
 - Do you have any fond or interesting memories you'd like to share? Have there been challenges of particular note along the way?
@@ -293,6 +298,9 @@ Nonetheless, there's a lot to be done. We're just hoping it can keep going for a
 
 > I would also give an honorable mention to rememberance; image of him before departure from Vietnamese National osu!mania Cup, which I composed in one day, during one of my depressive episodes. It was meant to be something that is lighthearted and healing me up. Quick compositions like this can also help me coping through hard times as well.
 
+-->
+
+<!--
 ## Not just music
 
 <!-- There's of course the music composition side, but what might go into coordinating art, video or other media that make up the final presentation? -->
@@ -344,10 +352,10 @@ It's very hard to explain the entire process, as it varies so much, but I think 
 
 What about before 2020, before this crazy musical explosion happened? There are a lot more stories to be told. For example: we're not sure if you have noticed, but osu! does actually have what you could call an "original soundtrack".
 
+-->
+
 ---
 
-
-
-For the love of rhythm and music, new creations aborn. We're privileged to have a community with such stubborn passion.
+For the love of rhythm and music, new creations aborn. We're privileged to have so many with the stubborn passion to go above and beyond to make the osu! community something entirely our own.
 
 —Walavouchey
