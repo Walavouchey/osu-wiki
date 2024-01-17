@@ -91,8 +91,6 @@ How did their story start? They were asked similar questions as Kasumi, so let's
 > The production process on the std end is kinda straightforward, we give takehirotei a theme, desired BPM range and let him cook, he will send us some initial drafts and from there we give him feedback and stuff, until we are satisfied with the final song. Particular things that i look into would mainly be whether the song fits the theme or not, especially in 2023 where it is the last year of a bunch of staff in the std team, including me, i wanted to make sure it was emotional, a proper goodbye sort of thing.
 -->
 > 
-> Every time we present the custom song, the reaction from the players, viewers is always a special moment for me. For std atleast, the planning of the next custom song starts almost immediately after the current iteration of the tournament ends. So to see that everyone is surprised and hyped for the final song and final presentation feels so satisfying, knowing that the time and effort my team and I put in was so worth it.
-> 
 > Challenges in particular, definitely in 2023, majority of us that volunteer in local tourneys in Malaysia are uni students, so when physical classes restarted, the time and availability that felt like an abundance during the pandemic era is suddenly gone. To be able to plan and run the tourney with the limited time that we had, felt like quite the achievement, as it was exhausting and scary at times, wondering if we can finish things before the deadline of not
 > 
 > I feel like the taiko side definitely has larger budgets, and may have more sophisticated processes when it comes to the custom songs planning and producing process, as they had a custom song for every round of the osu!taiko Malaysian Tournament 2022, unlike std where we have 1-3 custom songs for the entire tournament
@@ -106,18 +104,6 @@ How did their story start? They were asked similar questions as Kasumi, so let's
 Visual arts go hand in hand with music commissions and tournament production, which is itself an interesting topic (that we may cover in the near future!).
 
 > The music production process for our team is rather straightforward. We'll usually only specify the particular genre and difficulty that we're looking for to an artist based on the style that they're comfortable with, along with some example tracks provided. Besides that, the artists are given creative liberties to elevate it however they wish. I think this process works very well as we also have a general channel for all our composers to mingle and share ideas for each other's works, allowing for more constructive opinions to be provided throughout the process by equally skilled individuals.
-
-<!-- Do you have any fond or interesting memories you'd like to share? Have there been challenges of particular note along the way? -->
-
-<!-- I think a better question would be what _wasn't_ challenging hahaha. -->
-
-> Kicking off the OTMT series back in 2021 felt like I was thrown into the deep end of a pool, with almost none of my past tournament staffing experiences being applicable. Covering every role with the extremely small group of staff that we had was tough, but in hindsight I think that experience was necessary for us to gain insight into what worked and what didn't, which then helped alot in addressing any issues for the 2022 edition.
-> 
-> Even then, this still did not make OTMT2022 any easier to manage. Production levels were higher, our team grew larger, and expectations were now compounded too with the increased number of eyes on the project (special thanks to [Kasumi-sama](https://osu.ppy.sh/users/6177263)). Nevertheless, I think all the countless sleepless nights of work that we poured into the project was all worth it. Having the opportunity to work with some of the most amazing people I've ever met in music composition, character artworks, graphic designing, and many more for the project is perhaps one of the most rewarding experiences I've ever had.
-> 
-> The most significant challenge that we faced during OTMT2022 was, of course, the realistic aspect of hosting these kind of projects — the cost. However, thanks to the insane generosity and support from the community, we managed to fully fund the costs of the tournament solely through community donations. This is something that I'll forever be grateful and proud of, and is also what keeps me motivated to continuously find new ways to up the scale for this series :)
-
-<!-- > Also while we're on the subject of "upping the scales", do be on the lookout for the next edition of our osu!taiko Malaysian Tournament series, OTMT2024 coming in early April. I can wholeheartedly promise that it will be a brand new experience that has never been seen before in the osu! tournament scene. -->
 
 ---
 
@@ -177,7 +163,6 @@ It may be a question affected by highly individual factors from the composition,
 
 > Extra: Btw stay tuned for osu! Taiko Malaysian Tournament 2024 (which is opening for all South East Asian Countries!!!), I've seen what the production team cooks and the production quality is really insane, I'm sure y'all will like it too :D
 
-> There are many interesting memories I would like to share, but today I will be sharing one of the memories that has left a lot of impact in my heart. The first one is during the process of making Essence with HowToPlayLN. This is my first time collaborating with someone (as in 2 ppl collab) on making a Grand Finals tiebreaker. At first, we are just trying to put in the tiebreaker copypasta into a tiebreaker song,  but as time goes by, our ideas become crazier and crazier. At one point we even decide madke a section where the time signature changes every bar. After the tiebreaker was made, things got even more crazier as the media team is cooking the lore. At first we only have the tiebreaker, then soon enough, we all decide to make a song for each cutscenes that shows before the mappool showcase begins, and also a rearrangement of Essence for the credits theme. This is perhaps the most precious memories that I have ever been through at that point as a composer.
 -->
 
 <!--
@@ -289,19 +274,37 @@ I think our tournaments will keep being the best thing we ever possibly can rele
 Nonetheless, there's a lot to be done. We're just hoping it can keep going for a while. I think GTS as a tournament series still has a lot of years to go. I personally expect it to keep going until its 10th anniversary at the very least, being on 2028. Especially since we barely had just started doing a mapping contest as well in 2023, so I think other admins will have even more ideas to bring to the table in future years. Look forward to it.
 -->
 
+[![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/Its_not_Marvin.png)](https://osu.ppy.sh/users/13600612)
+
+> Every time we present the custom song, the reaction from the players, viewers is always a special moment for me. For std atleast, the planning of the next custom song starts almost immediately after the current iteration of the tournament ends. So to see that everyone is surprised and hyped for the final song and final presentation feels so satisfying, knowing that the time and effort my team and I put in was so worth it.
+
+[![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/Jerry.png)](https://osu.ppy.sh/users/605973)
+
+<!-- Do you have any fond or interesting memories you'd like to share? Have there been challenges of particular note along the way? -->
+
+<!-- I think a better question would be what _wasn't_ challenging hahaha. -->
+
+> Kicking off the OTMT series back in 2021 felt like I was thrown into the deep end of a pool, with almost none of my past tournament staffing experiences being applicable. Covering every role with the extremely small group of staff that we had was tough, but in hindsight I think that experience was necessary for us to gain insight into what worked and what didn't, which then helped alot in addressing any issues for the 2022 edition.
+> 
+> Even then, this still did not make OTMT2022 any easier to manage. Production levels were higher, our team grew larger, and expectations were now compounded too with the increased number of eyes on the project (special thanks to [Kasumi-sama](https://osu.ppy.sh/users/6177263)). Nevertheless, I think all the countless sleepless nights of work that we poured into the project was all worth it. Having the opportunity to work with some of the most amazing people I've ever met in music composition, character artworks, graphic designing, and many more for the project is perhaps one of the most rewarding experiences I've ever had.
+> 
+> The most significant challenge that we faced during OTMT2022 was, of course, the realistic aspect of hosting these kind of projects — the cost. However, thanks to the insane generosity and support from the community, we managed to fully fund the costs of the tournament solely through community donations. This is something that I'll forever be grateful and proud of, and is also what keeps me motivated to continuously find new ways to up the scale for this series :)
+
+[![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/takehirotei.png)](https://osu.ppy.sh/users/11793794)
+
+> [...] I will be sharing one of the memories that has left a lot of impact in my heart. The first one is during the process of making *Essence* with HowToPlayLN. This is my first time collaborating with someone (as in 2 ppl collab) on making a Grand Finals tiebreaker. At first, we are just trying to put in the tiebreaker copypasta into a tiebreaker song, but as time goes by, our ideas become crazier and crazier. At one point we even decide to make a section where the time signature changes every bar.
+>
+> After the tiebreaker was made, things got even more crazy as the media team is cooking the lore. At first we only have the tiebreaker, then soon enough, we all decide to make a song for each cutscene that shows before the mappool showcase begins, and also a rearrangement of *Essence* for the credits theme. This is perhaps the most precious memories that I have ever been through at that point as a composer.
+
 [![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/HowToPlayLN.png)](https://osu.ppy.sh/users/10879600)
 
 > There are so many moments in music journey which reminded me that my life has meanings. Some other people would tell me directly that my compositions are emotionally touching to them, like *Akatsuki*, or *Essence*, or some actually perceived them as "insane". Especially if those are meant to be portraying my emotions at the time I was composing them, I would feel grateful a lot. It feels like somebody understood me and my intent of doing my best in my own hobby.
 > 
 > The most significant ones would be *Essence*, which I considered one of the significant moments of my life at that time. It was the biggest and the most emotional project we have ever done. I cannot stop going back and watch the reactions of the viewers at that time to the reveal of the tiebreaker song... It was both insane and emotional, and was the conclusion of the most productive session I've done at that time.
-
-<!--
 > 
 > The other one which probably less or more related which is osu!mania LN Tournament 3, I also did more than 10 custom maps for that tournament, including the custom song "LNCryption", which was actually the space for the mappers to write and imagine the "hell" they faced somewhere else. It probably is worth to give them a read.
-> I would also give an honorable mention to rememberance; image of him before departure from Vietnamese National osu!mania Cup, which I composed in one day, during one of my depressive episodes. It was meant to be something that is lighthearted and healing me up. Quick compositions like this can also help me coping through hard times as well.
--->
-
-<!--
+> 
+> I would also give an honorable mention to [rememberance; image of him before departure](https://osu.ppy.sh/beatmapsets/2028818) from Vietnamese National osu!mania Cup, which I composed in one day, during one of my depressive episodes. It was meant to be something that is lighthearted and healing me up. Quick compositions like this can also help me coping through hard times as well.
 
 ## Not just music
 
