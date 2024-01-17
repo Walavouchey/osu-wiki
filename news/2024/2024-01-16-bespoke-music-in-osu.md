@@ -34,7 +34,7 @@ A comprehensive listing of such songs can be found in the [osu! originals wiki a
 
 ## osu! World Cups
 
-The osu! team organises [World Cups](/wiki/Tournaments#official-world-cups), which since osu! World Cup 2020 started incorporating original music into tiebreaker beatmaps. The [mangomizer](https://osu.ppy.sh/users/1893718) and [pishifat](https://osu.ppy.sh/users/3178418)'s discussion about all of that and how this operation expanded in scope over the years:
+The osu! team organises [World Cups](/wiki/Tournaments#official-world-cups), which since osu! World Cup 2020 started incorporating original music into tiebreaker beatmaps. Have a listen to [mangomizer](https://osu.ppy.sh/users/1893718) and [pishifat](https://osu.ppy.sh/users/3178418)'s discussion about all of that and how this operation expanded in scope over the years.
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/0B6TyWML0zg" frameborder="0" allowfullscreen></iframe>
@@ -85,12 +85,15 @@ How did their story start? They were asked similar questions as Kasumi, so let's
 > Hi, my name is Marvin, known as Its not Marvin in osu. I am mainly known to be the host of osu! Malaysia Tournament from 2020 to 2023.
 > 
 > It all started in 2021 with the previous host of osu! malaysia tournament, Kumaxione, he wanted to do something special for his last year staffing, so he decided on commissioning a custom song with a local composer, takehirotei.
+> 
 <!--
 > 
 > The production process on the std end is kinda straightforward, we give takehirotei a theme, desired BPM range and let him cook, he will send us some initial drafts and from there we give him feedback and stuff, until we are satisfied with the final song. Particular things that i look into would mainly be whether the song fits the theme or not, especially in 2023 where it is the last year of a bunch of staff in the std team, including me, i wanted to make sure it was emotional, a proper goodbye sort of thing.
 -->
 > 
-> Everytime we present the custom song, the reaction from the players, viewers is always a special moment for me. For std atleast, the planning of the next custom song starts almost immediately after the current iteration of the tournament ends. So to see that everyone is surprised and hyped for the final song and final presentation feels so satisfying, knowing that the time and effort my team and I put in was so worth it. Challenges in particular, definitely in 2023, majority of us that volunteer in local tourneys in Malaysia are uni students, so when physical classes restarted, the time and availability that felt like an abundance during the pandemic era is suddenly gone. To be able to plan and run the tourney with the limited time that we had, felt like quite the achievement, as it was exhausting and scary at times, wondering if we can finish things before the deadline of not
+> Every time we present the custom song, the reaction from the players, viewers is always a special moment for me. For std atleast, the planning of the next custom song starts almost immediately after the current iteration of the tournament ends. So to see that everyone is surprised and hyped for the final song and final presentation feels so satisfying, knowing that the time and effort my team and I put in was so worth it.
+> 
+> Challenges in particular, definitely in 2023, majority of us that volunteer in local tourneys in Malaysia are uni students, so when physical classes restarted, the time and availability that felt like an abundance during the pandemic era is suddenly gone. To be able to plan and run the tourney with the limited time that we had, felt like quite the achievement, as it was exhausting and scary at times, wondering if we can finish things before the deadline of not
 > 
 > I feel like the taiko side definitely has larger budgets, and may have more sophisticated processes when it comes to the custom songs planning and producing process, as they had a custom song for every round of the osu!taiko Malaysian Tournament 2022, unlike std where we have 1-3 custom songs for the entire tournament
 
@@ -100,18 +103,19 @@ How did their story start? They were asked similar questions as Kasumi, so let's
 > 
 > After wrapping up the first edition of the osu!taiko Malaysian Tournament (OTMT) series back in 2021, the team didn't want to just do the same thing again for the next year and beyond, so we felt that the most natural progression for the series' growth was to start introducing original songs into the mix. I truly believe that this, along with the introduction of our mascot character, IRIS, helped a lot in weaving a recognizable visual identity for the whole tournament, which significantly enhanced the tournament experience.
 
-<!--
-> 
+Visual arts go hand in hand with music commissions and tournament production, which is itself an interesting topic (that we may cover in the near future!).
+
 > The music production process for our team is rather straightforward. We'll usually only specify the particular genre and difficulty that we're looking for to an artist based on the style that they're comfortable with, along with some example tracks provided. Besides that, the artists are given creative liberties to elevate it however they wish. I think this process works very well as we also have a general channel for all our composers to mingle and share ideas for each other's works, allowing for more constructive opinions to be provided throughout the process by equally skilled individuals.
--->
 
 <!-- Do you have any fond or interesting memories you'd like to share? Have there been challenges of particular note along the way? -->
 
-> <!-- I think a better question would be what _wasn't_ challenging hahaha. -->Kicking off the OTMT series back in 2021 felt like I was thrown into the deep end of a pool, with almost none of my past tournament staffing experiences being applicable. Covering every role with the extremely small group of staff that we had was tough, but in hindsight I think that experience was necessary for us to gain insight into what worked and what didn't, which then helped alot in addressing any issues for the 2022 edition. Even then, this still did not make OTMT2022 any easier to manage. Production levels were higher, our team grew larger, and expectations were now compounded too with the increased number of eyes on the project (special thanks to [Kasumi-sama](https://osu.ppy.sh/users/6177263)). Nevertheless, I think all the countless sleepless nights of work that we poured into the project was all worth it. Having the opportunity to work with some of the most amazing people I've ever met in music composition, character artworks, graphic designing, and many more for the project is perhaps one of the most rewarding experiences I've ever had.
+> <!-- I think a better question would be what _wasn't_ challenging hahaha. -->Kicking off the OTMT series back in 2021 felt like I was thrown into the deep end of a pool, with almost none of my past tournament staffing experiences being applicable. Covering every role with the extremely small group of staff that we had was tough, but in hindsight I think that experience was necessary for us to gain insight into what worked and what didn't, which then helped alot in addressing any issues for the 2022 edition.
+> 
+> Even then, this still did not make OTMT2022 any easier to manage. Production levels were higher, our team grew larger, and expectations were now compounded too with the increased number of eyes on the project (special thanks to [Kasumi-sama](https://osu.ppy.sh/users/6177263)). Nevertheless, I think all the countless sleepless nights of work that we poured into the project was all worth it. Having the opportunity to work with some of the most amazing people I've ever met in music composition, character artworks, graphic designing, and many more for the project is perhaps one of the most rewarding experiences I've ever had.
 > 
 > The most significant challenge that we faced during OTMT2022 was, of course, the realistic aspect of hosting these kind of projects — the cost. However, thanks to the insane generosity and support from the community, we managed to fully fund the costs of the tournament solely through community donations. This is something that I'll forever be grateful and proud of, and is also what keeps me motivated to continuously find new ways to up the scale for this series :)
 
-> Also while we're on the subject of "upping the scales", do be on the lookout for the next edition of our osu!taiko Malaysian Tournament series, OTMT2024 coming in early April. I can wholeheartedly promise that it will be a brand new experience that has never been seen before in the osu! tournament scene.
+<!-- > Also while we're on the subject of "upping the scales", do be on the lookout for the next edition of our osu!taiko Malaysian Tournament series, OTMT2024 coming in early April. I can wholeheartedly promise that it will be a brand new experience that has never been seen before in the osu! tournament scene. -->
 
 ---
 
@@ -121,9 +125,13 @@ The Malaysian tournaments collectively have 19 original tracks in total at the m
 
 While mangomizer and pishifat touched on the process of World Cup music production, how does it fare for other tournaments? **Kasumi** had this to say:
 
-> The production process in GTS is very largely hands-off from us as admins. It all depends on the slot we shoot for, but for tiebreakers for example, we usually just give a general rundown of the structure we'd like, as well as a specific atmosphere we're shooting for. At that point, everything like genre, BPM and length, are basically decided by the artist's wish. We only ask for relatively frequent drafts, in intervals of 30 seconds to 1 minute, so we can check if we first like the general vibe, as one would expect, and if we can map it accordingly to the planned difficulty, of course.<!-- In terms of particular things we look for in compositions themselves, I don't think we search too deeply for one specific thing, it's just about what we like, and then trying to branch out to work with as many different artists as we can, to just have a fun work experience with everyone involved, really. -->
+> The production process in GTS is very largely hands-off from us as admins. It all depends on the slot we shoot for, but for tiebreakers for example, we usually just give a general rundown of the structure we'd like, as well as a specific atmosphere we're shooting for. At that point, everything like genre, BPM and length, are basically decided by the artist's wish.
+> 
+> We only ask for relatively frequent drafts, in intervals of 30 seconds to 1 minute, so we can check if we first like the general vibe, as one would expect, and if we can map it accordingly to the planned difficulty, of course.<!-- In terms of particular things we look for in compositions themselves, I don't think we search too deeply for one specific thing, it's just about what we like, and then trying to branch out to work with as many different artists as we can, to just have a fun work experience with everyone involved, really. -->
 
-### takehirotei
+The other tournament hosts interviewed here said basically the same thing, which means there's only one thing to do.
+
+Let's have a look straight at the source.
 
 [![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/takehirotei.png)](https://osu.ppy.sh/users/11793794)
 
@@ -134,25 +142,27 @@ I would also like to give a shoutout to Team Incoherent Sound for giving me an o
 
 [**takehirotei**](https://osu.ppy.sh/users/11793794) has produced over 20 songs for various community tournaments, 6 of them being for Global Taiko Showdown. Here's their perspective on how it all goes down:
 
-> For the production process, the host will set a deadline on the song, as well as some restrictions on the song (eg. BPM limit, intensity, genres and more) in order to make sure the song will fit nicely to the planned (or not planned) slots. From time to time, we sometimes also send wips of the current state of the song to make sure that the song is going to the correct direction. This will ensures that we dont have to do unnessary changes later on when the full song is done, which can saves us a lot of time.
+> For the production process, the host will set a deadline on the song, as well as some restrictions on the song (e.g. BPM limit, intensity, genres and more) in order to make sure the song will fit nicely to the planned (or not planned) slots. From time to time, we sometimes also send wips of the current state of the song to make sure that the song is going to the correct direction. This will ensures that we dont have to do unnessary changes later on when the full song is done, which can saves us a lot of time.
 > 
-> <!-- As for expectations,-->[...] sometimes when a part in the song needs modifications, the host will give some comments on how to fix the issues on the said part. For example, extending certain instrument length, reducing the volume of certain instruments, reduce the spam kicks and etc.
+> [...] sometimes when a part in the song needs modifications, the host will give some comments on how to fix the issues on the said part. For example, extending certain instrument length, reducing the volume of certain instruments, reduce the spam kicks and etc.
 
 Having experienced working with around 10 different tournament series, are there any differences?
 
-> I'd say not too different. The only difference I'd say is how the host handles the procedure.<!-- Generally, we will be ask if we are down to make a song for a tournament, then we are given the details of how the song would go, then we start cooking it and send wips to them. --> [...] What's different is sometimes, the host might add you into the mapping channel, so that when the mapper has any questions for the composer, the composer can help them with it (eg. "what snappings are in this part?", "what is the time signature for this part?" and so on). <!-- But yeah, this is the general process of how a custom song is made in community tournaments. -->
+> I'd say not too different. The only difference I'd say is how the host handles the procedure.<!-- Generally, we will be ask if we are down to make a song for a tournament, then we are given the details of how the song would go, then we start cooking it and send wips to them. --> [...] What's different is sometimes, the host might add you into the mapping channel, so that when the mapper has any questions for the composer, the composer can help them with it (e.g. "what snappings are in this part?", "what is the time signature for this part?" and so on). <!-- But yeah, this is the general process of how a custom song is made in community tournaments. -->
 > 
-> One of the challenge that I've faced in making songs for osu! tournaments is to do a bit of research on the style the host is going to put me into. As there are many. For example, let's say if the host wants the song to be in DT1 slot for osu!taiko, then I need to do a bit of research on the songs that are usually used in that slot. But if I'm lucky, sometimes the host will list down a long list of description on how the song will goes (thanks Kasumi), this will really help us composers to work on the correct direction. Another challenge that I'm facing while making songs for tournaments (or rhythm games in general) is that these kind of songs usually doesnt have much chill parts, which sometimes it's a little bit challenging to make a song with most of the parts are intense parts.
+> One of the challenge that I've faced in making songs for osu! tournaments is to do a bit of research on the style the host is going to put me into. As there are many. For example, let's say if the host wants the song to be in DT1 slot for osu!taiko, then I need to do a bit of research on the songs that are usually used in that slot.
+> 
+> But if I'm lucky, sometimes the host will list down a long list of description on how the song will goes (thanks Kasumi), this will really help us composers to work on the correct direction. Another challenge that I'm facing while making songs for tournaments (or rhythm games in general) is that these kind of songs usually doesnt have much chill parts, which sometimes it's a little bit challenging to make a song with most of the parts are intense parts.
 
 Regarding organisers giving detailed directions, mangomizer explained in the video mentioned in the beginning that this is something the World Cups did initally, but moved away from due to it resulting in less cohesive songs.
 
 Whether to give more creative freedom to the artist or to prompt them with more detail in order to fit mappooling restrictions is an interesting question. takehirotei expanded on this a bit.
 
-> For prompting style, sometimes it can really help me to explore the paths that I have never gone before in composing (eg. trying out new genres), which is something that I really like to do. However, if I'm unable to follow the prompt, usually I'll also give a proposal on how I'll do the song while following parts of the prompt that I'm able to follow, so that the host/mappooler can move me to an appropriate slot or do necessary changes.
+> For prompting style, sometimes it can really help me to explore the paths that I have never gone before in composing (e.g. trying out new genres), which is something that I really like to do. However, if I'm unable to follow the prompt, usually I'll also give a proposal on how I'll do the song while following parts of the prompt that I'm able to follow, so that the host/mappooler can move me to an appropriate slot or do necessary changes.
 > 
-> But of course, sometimes the hosts also gives me the freedom to do whatever I want (eg. [Finale Battle of the Requiem](https://osu.ppy.sh/beatmapsets/1524502) \[for osu! Malaysia Tournament 2021\]). This definitely could result in more freedom in composing, as well as the freedom to explore some composing techniques (eg. usage of polyrhythm, microtonal, etc.)
+> But of course, sometimes the hosts also gives me the freedom to do whatever I want (e.g. [Finale Battle of the Requiem](https://osu.ppy.sh/beatmapsets/1524502)). This definitely could result in more freedom in composing, as well as the freedom to explore some composing techniques (e.g. usage of polyrhythm, microtonal, etc.)
 > 
-> So I'd say, both [styles] work well for me, as they have their own challenges and exploration.
+> So I'd say, both styles work well for me, as they have their own challenges and exploration.
 
 It may be a question affected by highly individual factors from the composition, organisation and mappooling sides, as well as different perspectives and expectations for the songs themselves. We'll leave that to future organisers to think about.
 
@@ -170,11 +180,9 @@ It may be a question affected by highly individual factors from the composition,
 
 <!--
 > For me, I don't really have a work that I'm less happy with, although my older works like the songs before 2022 have pretty bad mixing done, but all the songs I've made serves a memory in my heart, so I'm not dissatisfied on any of the songs that I've made.
-> As for works that I'm particularly happy with, I'd say Essence, I.R.I.S, C://YOU NEX-TIME and also an upcoming custom song for OTMT2024. These songs have teaches me so many technique in composing (eg. Lyrics writing, irregular time signature writing, composing certain genres and etc).
+> As for works that I'm particularly happy with, I'd say Essence, I.R.I.S, C://YOU NEX-TIME and also an upcoming custom song for OTMT2024. These songs have teaches me so many technique in composing (e.g. Lyrics writing, irregular time signature writing, composing certain genres and etc).
 > For works that the reception has surprised me the most is probably gonna be Fullest Adventure from the Abyss to Divine. For this song, I've almost never used any reference song to make it (which I usually did on my other songs), which at first I'm actually pretty worried will people like this kind of song or not. But it turns out, people actually like it and the song somehow even got blew up in other communities like ADOFAI
 -->
-
-### HowToPlayLN
 
 [![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/HowToPlayLN.png)](https://osu.ppy.sh/users/10879600)
 
@@ -183,8 +191,10 @@ It may be a question affected by highly individual factors from the composition,
 Like takehirotei, [HowToPlayLN](https://osu.ppy.sh/users/10879600) also has composed over 20 songs across a multitude of tournaments. Of course, the first thing to ask is how did it all start (and continue)?
 
 > If we're talking on how I started doing music, it would throwback to my first composition which I also mapped it and named it after myself ([HowToPlayLN - HowToPlayLN](https://osu.ppy.sh/beatmapsets/1602222#mania/3271953)). I think at some point some people were also joking with myself about "HowToPlayLN custom song when". Then... it's just that I decided to do one for an achievement that I would basically just be a jack-of-all-trades for a tournament scene in osu!mania or osu! in general.
-> 
+
+<!--
 > My first tournament was actually DDS Tournament for which I offered a piano custom song, and then I decided to participate in osu!taiko Malaysia Tournament with my first tiebreaker custom song alongside with takehirotei's custom remix of my song being presented in osu!mania LN Tournament 3 (Normal Distribution Remix), and I decided to develop the lore to go along with it and another custom song (for those who are interested, see [LNCryption](https://osu.ppy.sh/beatmapsets/1893946)) which was the reason I continued to do the custom songs in the tournament scenes.
+-->
 
 <!--
 > I actually see music as something I would do for fun or as a hobby, but I still open myself to experimenting new things, or expressing my emotions. I feel like doing custom songs sometimes can be the place to put my emotions on through the story that my peers and I created. I feel like when I create or listen, I hear the music, but when I feel down or depressed, the music hears me back.
@@ -212,16 +222,6 @@ Like takehirotei, [HowToPlayLN](https://osu.ppy.sh/users/10879600) also has comp
 
 > Additionally, Essence became an album on how the motif or theme can be extended belong side with the [stories](https://4digitmwc.github.io/media-centre/stories/infinity), which also was the link between the previous iteration of the tournament and LNCryption. As we finished the tiebreaker song, we continued to expand the ideas of Essence being some kind of events in the story and built the stories with them. So each section of Essence can be interpreted as the throwback and the resolution of the story.
 
-**Do you have any particularly fond or interesting memories you'd want to share?**
-
-> There are so many moments in music journey which reminded me that my life has meanings. Some other people would tell me directly that my compositions are emotionally touching to them, like Akatsuki, or Essence, or some actually perceived them as "insane". Especially if those are meant to be portraying my emotions at the time I was composing them, I would feel grateful a lot. It feels like somebody understood me and my intent of doing my best in my own hobby.
-
-> The most significant ones would be Essence, which I considered one of the significant moments of my life at that time. It was the biggest and the most emotional project we have ever done. I cannot stop going back and watch the reactions of the viewers at that time to the reveal of the tiebreaker song... It was both insane and emotional, and was the conclusion of the most productive session I've done at that time.
-
-> The other one which probably less or more related which is osu!mania LN Tournament 3, I also did more than 10 custom maps for that tournament, including the custom song "LNCryption", which was actually the space for the mappers to write and imagine the "hell" they faced somewhere else. It probably is worth to give them a read.
-
-> I would also give an honorable mention to rememberance; image of him before departure from Vietnamese National osu!mania Cup, which I composed in one day, during one of my depressive episodes. It was meant to be something that is lighthearted and healing me up. Quick compositions like this can also help me coping through hard times as well.
-
 ### Collaborations
 
 Cool things can happen when people work together. That's also true for artists — there are plenty of songs in osu! composed by multiple people.
@@ -248,11 +248,11 @@ How exactly does this work? HowToPlayLN and takehirotei have composed songs toge
 > 
 > Mostly my part of the collaboration would be stored in MIDI before adjusting dynamics. For the gluing parts together, mixing and mastering, mostly other artists who are more specialized will do the work. So big appreciation for them for handling all of these actually.
 
-## A rocky road
+## A chaotic path of memories
 
 - Do you have any fond or interesting memories you'd like to share? Have there been challenges of particular note along the way?
 
-Passion often comes with trials and the most ambitious productions have by no means been easy achievements. The story of 
+Passion often comes with trials and the most ambitious productions have by no means been easy achievements. The story of [cavoe's osu! event's Global Taiko Showdown (COEGTS)]()
 
 > Well, considering we've now released over 70 original songs for GTS, all that in a bit over two years, with over half of those having been in 2023 alone, we have a LOT to think back upon.
 > 
@@ -282,6 +282,16 @@ Quite frankly though myself, I will be quitting tournament hosting after EGTS 20
 I think GTS tournaments will stop doing as much original music after either of these projects are done, as general exhaustion is creeping up, whether it is from the side of us admins, or designers and composers.
 I think our tournaments will keep being the best thing we ever possibly can release, but one thing I hope GTS can do in the coming years, is to keep being more known for its name, and outside of the context of osu! at all.
 Nonetheless, there's a lot to be done. We're just hoping it can keep going for a while. I think GTS as a tournament series still has a lot of years to go. I personally expect it to keep going until its 10th anniversary at the very least, being on 2028. Especially since we barely had just started doing a mapping contest as well in 2023, so I think other admins will have even more ideas to bring to the table in future years. Look forward to it.
+
+**Do you have any particularly fond or interesting memories you'd want to share?** (howtoplayln)
+
+> There are so many moments in music journey which reminded me that my life has meanings. Some other people would tell me directly that my compositions are emotionally touching to them, like Akatsuki, or Essence, or some actually perceived them as "insane". Especially if those are meant to be portraying my emotions at the time I was composing them, I would feel grateful a lot. It feels like somebody understood me and my intent of doing my best in my own hobby.
+
+> The most significant ones would be Essence, which I considered one of the significant moments of my life at that time. It was the biggest and the most emotional project we have ever done. I cannot stop going back and watch the reactions of the viewers at that time to the reveal of the tiebreaker song... It was both insane and emotional, and was the conclusion of the most productive session I've done at that time.
+
+> The other one which probably less or more related which is osu!mania LN Tournament 3, I also did more than 10 custom maps for that tournament, including the custom song "LNCryption", which was actually the space for the mappers to write and imagine the "hell" they faced somewhere else. It probably is worth to give them a read.
+
+> I would also give an honorable mention to rememberance; image of him before departure from Vietnamese National osu!mania Cup, which I composed in one day, during one of my depressive episodes. It was meant to be something that is lighthearted and healing me up. Quick compositions like this can also help me coping through hard times as well.
 
 ## Not just music
 
