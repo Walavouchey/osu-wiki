@@ -252,31 +252,31 @@ How exactly does this work? HowToPlayLN and takehirotei have composed songs toge
 > 
 > Mostly my part of the collaboration would be stored in MIDI before adjusting dynamics. For the gluing parts together, mixing and mastering, mostly other artists who are more specialized will do the work. So big appreciation for them for handling all of these actually.
 
-<!--
 ## A chaotic path of memories
 
-- Do you have any fond or interesting memories you'd like to share? Have there been challenges of particular note along the way?
+Passion often comes with trials, and the most ambitious projects have by no means been easy achievements.
 
-Passion often comes with trials and the most ambitious productions have by no means been easy achievements. The story of [cavoe's osu! event's Global Taiko Showdown (COEGTS)]()
+[![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/Kasumi-sama.png)](https://osu.ppy.sh/users/6177263)
 
-> Well, considering we've now released over 70 original songs for GTS, all that in a bit over two years, with over half of those having been in 2023 alone, we have a LOT to think back upon.
+> [...] I think the story behind COEGTS' Main Mappool Showcase and it getting finalized, like, at all, is one of my absolute favorite experiences as the main organizer of GTS.
 > 
-> My personal dear memory over a single song project has to be the general work behind 《/nttld.:beings》 ~Truth in Uncertainty~, being EGTS 2022's Grand Finals tiebreaker, and probably GTS' most overall ambitious project, and how it's probably the most absolutely rushed thing ever, despite it being, ironically, one of the earliest a song was started for us, with the project having been brought up and started on November 23rd 2021. The song ended up being done on September 25th of 2022, with the map, design, storyboard, and video reveal ALL being finalized on October 2nd, for the reveal of that song being on, well, October 2nd. It sounds very scuffed like this, and it definitely was, but that week was a very fun experience, and I can't overstate how much the fact this project got revealed on my own birthday just made me cry in front of my PC, seeing how far we've ended up coming after a year.
+> First off, I believe everything related to creating this mappool showcase starts on July 10th 2023, being one day after our Qualifiers Mappool Showcase was released, and three weeks prior to the actual mappool showcase at COE, on July 31st.
+> 
+> At that point, we had most songs ready to go, except one was not given by the composer yet, and the tiebreaker had just gotten finalized that very day. 7 out of the 16 songs had an artwork for it made at all, and 2 of them had their video ready. Of course, lore was not even remotely created. As you can see, setting ourselves up for success here.
+> 
+> The design channel then turned into an absolute warzone for the next 21 days, with designers, especially Transendium who has worked on 8 of these songs alone, managing to keep finalizing a few artworks here and there every day, even if some days were empty, due to them also working on other tournaments.
+> 
+> We had gotten our last song for it to be mapped and make its video finalized on.. July 20th.
+> 
+> Fast forwarding again, we arrive at July 27th, where both of us admins, being myself and [TaikoMom](https://osu.ppy.sh/users/9086438), along with every single designer for GTS, our main voice actress for our female characters being [Ethereal_Winter](https://osu.ppy.sh/users/9780417), and some of our composers who were working on the lore part of things, being [blobdash](https://osu.ppy.sh/users/8337877) (for BGM), and NormalM (as a voice actor), literally stayed in VC for the next 4 days right up to the showcase day, where we kept rotating between everyone passing out at some point, but generally working on finalizing the design and videos for songs, writing the entire lore, recording all voicelines for lore between July 29th to July 30th, where I was forced to stay up until 9am to record voicelines LOL. It was honestly just a very fun experience overall.
+> 
+> Except when we thought we finished the showcase entirely at 4am, when I personally had to go away to take my train for COE too, then we ended up realizing the overall mappool showcase video trolled us, with lore having had to be re-rendered twice, some gameplay being at 30FPS for no understandable reason, and TaikoMom then having to re-render all of that while I was gone, and needing to ensure we would actually have the correct video by uploading it on: MEGA / Google Drive / an USB key / Her Switch's SD card.
+> 
+> Absolutely no stress whatsoever in that experience, of course, apparent by the fact that even on the very last Sunday before July 31st, we had no clue if any of this would even be done by the time we had to be at COE, honestly.
+> 
+> Still loved it! Glad we've done what we did honestly.
 
-But as a memory for an overall tournament, and a challenge of particular note, I think the story behind COEGTS' Main Mappool Showcase and it getting finalized, like, at all, is one of my absolute favorite experience as the main organizer of GTS.
-First off, I believe everything related to creating this mappool showcase starts on July 10th, being one day after our Qualifiers Mappool Showcase was released, and three weeks prior to the actual mappool showcase at COE, on July 31st.
-At that point, we had most songs ready to go, except one was not given by the composer yet, and the tiebreaker had just gotten finalized that very day. 7 out of the 16 songs had an artwork for it made at all, and 2 of them had their video ready. Of course, lore was not even remotely created. As you can see, setting ourselves up for success here.
-
-The design channel then turned into an absolute warzone for the next 21 days, with designers, especially Transendium who has worked on 8 of these songs alone, managing to keep finalizing a few artworks here and there every day, even if some days were empty, due to them also working on other tournaments.
-
-We had gotten our last song for it to be mapped and make its video finalized on.. July 20th.
-
-Fast forwarding again, we arrive at July 27th, where both of us admins, being myself and TaikoMom, along with every single designer for GTS, our main voice actress for our female characters being Ethereal_Winter, and some of our composers who were working on the lore part of things, being blobdash (for BGM), and NormalM (as a voice actor), literally stayed in VC for the next 4 days right up to the showcase day, where we kept rotating between everyone passing out at some point, but generally working on finalizing the design and videos for songs, writing the entire lore, recording all voicelines for lore between July 29th to July 30th, where I was forced to stay up until 9am to record voicelines LOL. It was honestly just a very fun experience overall.
-
-Except when we thought we finished the showcase entirely at 4am, when I personally had to go away to take my train for COE too, then we ended up realizing the overall mappool showcase video trolled us, with lore having had to be re-rendered twice, some gameplay being at 30FPS for no understandable reason, and TaikoMom then having to re-render all of that while I was gone, and needing to ensure we would actually have the correct video by uploading it on: MEGA / Google Drive / an USB key / Her Switch's SD card.
-Absolutely no stress whatsoever in that experience, of course, apparent by the fact that even on the very last Sunday before July 31st, we had no clue if any of this would even be done by the time we had to be at COE, honestly.
-Still loved it! Glad we've done what we did honestly.
-
+<!--
 - GTS has grown more ambitious with originals each year, quickly attaining the highest volume of music production on osu!. What are your thoughts for the future of GTS?
 
 Well, personally, it's a hard question to tackle. As we're currently in the midst of a break from hosting tournaments during the entirety of 2024, and preparing for EGTS' 2025 edition, I don't really know what else we could do.
@@ -287,23 +287,24 @@ Quite frankly though myself, I will be quitting tournament hosting after EGTS 20
 I think GTS tournaments will stop doing as much original music after either of these projects are done, as general exhaustion is creeping up, whether it is from the side of us admins, or designers and composers.
 I think our tournaments will keep being the best thing we ever possibly can release, but one thing I hope GTS can do in the coming years, is to keep being more known for its name, and outside of the context of osu! at all.
 Nonetheless, there's a lot to be done. We're just hoping it can keep going for a while. I think GTS as a tournament series still has a lot of years to go. I personally expect it to keep going until its 10th anniversary at the very least, being on 2028. Especially since we barely had just started doing a mapping contest as well in 2023, so I think other admins will have even more ideas to bring to the table in future years. Look forward to it.
+-->
 
-**Do you have any particularly fond or interesting memories you'd want to share?** (howtoplayln)
+[![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/HowToPlayLN.png)](https://osu.ppy.sh/users/10879600)
 
-> There are so many moments in music journey which reminded me that my life has meanings. Some other people would tell me directly that my compositions are emotionally touching to them, like Akatsuki, or Essence, or some actually perceived them as "insane". Especially if those are meant to be portraying my emotions at the time I was composing them, I would feel grateful a lot. It feels like somebody understood me and my intent of doing my best in my own hobby.
+> There are so many moments in music journey which reminded me that my life has meanings. Some other people would tell me directly that my compositions are emotionally touching to them, like *Akatsuki*, or *Essence*, or some actually perceived them as "insane". Especially if those are meant to be portraying my emotions at the time I was composing them, I would feel grateful a lot. It feels like somebody understood me and my intent of doing my best in my own hobby.
+> 
+> The most significant ones would be *Essence*, which I considered one of the significant moments of my life at that time. It was the biggest and the most emotional project we have ever done. I cannot stop going back and watch the reactions of the viewers at that time to the reveal of the tiebreaker song... It was both insane and emotional, and was the conclusion of the most productive session I've done at that time.
 
-> The most significant ones would be Essence, which I considered one of the significant moments of my life at that time. It was the biggest and the most emotional project we have ever done. I cannot stop going back and watch the reactions of the viewers at that time to the reveal of the tiebreaker song... It was both insane and emotional, and was the conclusion of the most productive session I've done at that time.
-
+<!--
+> 
 > The other one which probably less or more related which is osu!mania LN Tournament 3, I also did more than 10 custom maps for that tournament, including the custom song "LNCryption", which was actually the space for the mappers to write and imagine the "hell" they faced somewhere else. It probably is worth to give them a read.
-
 > I would also give an honorable mention to rememberance; image of him before departure from Vietnamese National osu!mania Cup, which I composed in one day, during one of my depressive episodes. It was meant to be something that is lighthearted and healing me up. Quick compositions like this can also help me coping through hard times as well.
-
 -->
 
 <!--
+
 ## Not just music
 
-<!-- There's of course the music composition side, but what might go into coordinating art, video or other media that make up the final presentation? -->
 **Jerry** had this to say about the various other media that goes into song production.
 
 > The designing part of the process is usually carried out after the song is done, as it is alot easier to visualize the look of the song that way. As for the coordination work, we have a bit of a mini-pipeline process involving character artists (shoutouts to [HiroChair](https://twitter.com/HiroChair)), graphic designers (shoutouts to [Iyouka](https://twitter.com/iyouka_)) and video editors. The completed character artworks are passed over to the design team to do their magic on both the jacket artwork and osu! beatmap background for the song.
