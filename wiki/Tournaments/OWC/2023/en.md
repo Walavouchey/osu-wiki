@@ -338,14 +338,14 @@ Saturday, 2 December 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Australia ::{ flag=AU }:: | 1 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/111534249) | [#1](https://www.twitch.tv/videos/1992820454) |
+| Australia ::{ flag=AU }:: | 1 | **7** | ::{ flag=US }:: **United States** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111534249) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1992820454) |
 
 Sunday, 3 December 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| South Korea ::{ flag=KR }:: | 5 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/111554331) | [#1](https://www.twitch.tv/videos/1993918275) |
-| **United States** ::{ flag=US }:: | **7** | 6 | ::{ flag=KR }:: South Korea | [#1](https://osu.ppy.sh/community/matches/111555364) | [#1](https://www.twitch.tv/videos/1993918275?t=01h34m44s) |
+| South Korea ::{ flag=KR }:: | 5 | **7** | ::{ flag=US }:: **United States** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111554331) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1993918275) |
+| **United States** ::{ flag=US }:: | **7** | 6 | ::{ flag=KR }:: South Korea | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111555364) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1993918275?t=01h34m44s) |
 
 ### Finals
 
@@ -355,15 +355,15 @@ Saturday, 25 November 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Canada ::{ flag=CA }:: | 1 | **7** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/111451190) | [#1](https://www.twitch.tv/videos/1987233069) |
+| Canada ::{ flag=CA }:: | 1 | **7** | ::{ flag=DE }:: **Germany** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111451190) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1987233069) |
 
 Sunday, 26 November 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Philippines ::{ flag=PH }:: | 3 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/111457054) | [#1](https://www.twitch.tv/videos/1987522035) |
-| **South Korea** ::{ flag=KR }:: | **7** | 3 | ::{ flag=AU }:: Australia | [#1](https://osu.ppy.sh/community/matches/111460173) | [#1](https://www.twitch.tv/videos/1987813835) |
-| Germany ::{ flag=DE }:: | 1 | **7** | ::{ flag=US }:: **United States** | [#1](https://osu.ppy.sh/community/matches/111466879) | [#1](https://www.twitch.tv/videos/1988064196) |
+| Philippines ::{ flag=PH }:: | 3 | **7** | ::{ flag=US }:: **United States** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111457054) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1987522035) |
+| **South Korea** ::{ flag=KR }:: | **7** | 3 | ::{ flag=AU }:: Australia | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111460173) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1987813835) |
+| Germany ::{ flag=DE }:: | 1 | **7** | ::{ flag=US }:: **United States** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111466879) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1988064196) |
 
 ### Semifinals
 
@@ -373,19 +373,19 @@ Saturday, 18 November 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Russian Federation ::{ flag=RU }:: | 5 | **6** | ::{ flag=DE }:: **Germany** | [#1](https://osu.ppy.sh/community/matches/111349795) | [#1](https://www.twitch.tv/videos/1980749560) |
-| **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/111350765) | [#1](https://www.twitch.tv/videos/1980795633) |
-| **United States** ::{ flag=US }:: | **6** | 1 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/111352735) | [#1](https://www.twitch.tv/videos/1980866139) |
-| United Kingdom ::{ flag=GB }:: | 5 | **6** | ::{ flag=CL }:: **Chile** | [#1](https://osu.ppy.sh/community/matches/111356742) | [#1](https://www.twitch.tv/videos/1981279694) |
+| Russian Federation ::{ flag=RU }:: | 5 | **6** | ::{ flag=DE }:: **Germany** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111349795) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1980749560) |
+| **Poland** ::{ flag=PL }:: | **6** | 1 | ::{ flag=CN }:: China | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111350765) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1980795633) |
+| **United States** ::{ flag=US }:: | **6** | 1 | ::{ flag=SE }:: Sweden | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111352735) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1980866139) |
+| United Kingdom ::{ flag=GB }:: | 5 | **6** | ::{ flag=CL }:: **Chile** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111356742) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1981279694) |
 
 Sunday, 19 November 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Australia** ::{ flag=AU }:: | **6** | 2 | ::{ flag=CA }:: Canada | [#1](https://osu.ppy.sh/community/matches/111360796) | [#1](https://www.twitch.tv/videos/1981315028) |
-| **South Korea** ::{ flag=KR }:: | **6** | 4 | ::{ flag=PH }:: Philippines | [#1](https://osu.ppy.sh/community/matches/111366414) | [#1](https://www.twitch.tv/videos/1981662297) |
-| **United States** ::{ flag=US }:: | **6** | 2 | ::{ flag=PL }:: Poland | [#1](https://osu.ppy.sh/community/matches/111368903) | [#1](https://www.twitch.tv/videos/1981922459) |
-| **Germany** ::{ flag=DE }:: | **6** | 2 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/111372515) | [#1](https://www.twitch.tv/videos/1982002807) |
+| **Australia** ::{ flag=AU }:: | **6** | 2 | ::{ flag=CA }:: Canada | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111360796) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1981315028) |
+| **South Korea** ::{ flag=KR }:: | **6** | 4 | ::{ flag=PH }:: Philippines | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111366414) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1981662297) |
+| **United States** ::{ flag=US }:: | **6** | 2 | ::{ flag=PL }:: Poland | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111368903) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1981922459) |
+| **Germany** ::{ flag=DE }:: | **6** | 2 | ::{ flag=CL }:: Chile | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111372515) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1982002807) |
 
 ### Quarterfinals
 
@@ -395,27 +395,27 @@ Saturday, 11 November 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Germany** ::{ flag=DE }:: | **6** | 4 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/111253985) | [#1](https://www.twitch.tv/videos/1974541167) |
-| Hong Kong ::{ flag=HK }:: | 2 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/111256134) | [#1](https://www.twitch.tv/videos/1974857501) |
-| Italy ::{ flag=IT }:: | 1 | **6** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/111256976) | [#1](https://www.twitch.tv/videos/1974857501?t=01h03m26s) |
-| **China** ::{ flag=CN }:: | **6** | 1 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/111257938) | [#1](https://www.twitch.tv/videos/1974857501?t=01h51m35s) |
-| **Ukraine** ::{ flag=UA }:: | **6** | 3 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/111258934) | [#1](https://www.twitch.tv/videos/1974857501?t=2h36m29s) |
-| **Brazil** ::{ flag=BR }:: | **6** | 2 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/111260018) | [#1](https://www.twitch.tv/videos/1974747670) |
-| Romania ::{ flag=RO }:: | 4 | **6** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/111260487) | [#1](https://www.twitch.tv/videos/1974857501?t=03h39m18s) |
-| **Chile** ::{ flag=CL }:: | **6** | 0 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/111261974) | [#1](https://www.twitch.tv/videos/1974857501?t=04h54m45s) |
-| **Chile** ::{ flag=CL }:: | **6** | 0 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/111265019) | [#1](https://www.twitch.tv/videos/1974993174) |
+| **Germany** ::{ flag=DE }:: | **6** | 4 | ::{ flag=JP }:: Japan | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111253985) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1974541167) |
+| Hong Kong ::{ flag=HK }:: | 2 | **6** | ::{ flag=SE }:: **Sweden** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111256134) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1974857501) |
+| Italy ::{ flag=IT }:: | 1 | **6** | ::{ flag=ID }:: **Indonesia** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111256976) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1974857501?t=01h03m26s) |
+| **China** ::{ flag=CN }:: | **6** | 1 | ::{ flag=NO }:: Norway | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111257938) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1974857501?t=01h51m35s) |
+| **Ukraine** ::{ flag=UA }:: | **6** | 3 | ::{ flag=TH }:: Thailand | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111258934) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1974857501?t=2h36m29s) |
+| **Brazil** ::{ flag=BR }:: | **6** | 2 | ::{ flag=SG }:: Singapore | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111260018) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1974747670) |
+| Romania ::{ flag=RO }:: | 4 | **6** | ::{ flag=FR }:: **France** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111260487) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1974857501?t=03h39m18s) |
+| **Chile** ::{ flag=CL }:: | **6** | 0 | ::{ flag=FI }:: Finland | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111261974) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1974857501?t=04h54m45s) |
+| **Chile** ::{ flag=CL }:: | **6** | 0 | ::{ flag=BR }:: Brazil | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111265019) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1974993174) |
 
 Sunday, 12 November 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Poland ::{ flag=PL }:: | 5 | **6** | ::{ flag=AU }:: **Australia** | [#1](https://osu.ppy.sh/community/matches/111271525) | [#1](https://www.twitch.tv/videos/1975435768) |
-| **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=GB }:: United Kingdom | [#1](https://osu.ppy.sh/community/matches/111272312) | [#1](https://www.twitch.tv/videos/1975477511) |
-| **Germany** ::{ flag=DE }:: | **6** | 2 | ::{ flag=ID }:: Indonesia | [#1](https://osu.ppy.sh/community/matches/111273436) | [#1](https://www.twitch.tv/videos/1975518702) |
-| Russian Federation ::{ flag=RU }:: | 3 | **6** | ::{ flag=PH }:: **Philippines** | [#1](https://osu.ppy.sh/community/matches/111273441) | [#1](https://www.twitch.tv/videos/1975526145) |
-| Ukraine ::{ flag=UA }:: | 2 | **6** | ::{ flag=CN }:: **China** | [#1](https://osu.ppy.sh/community/matches/111274743) | [#1](https://www.twitch.tv/videos/1975578112) |
-| France ::{ flag=FR }:: | 4 | **6** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/111276018) | [#1](https://www.twitch.tv/videos/1975667142) |
-| United States ::{ flag=US }:: | 1 | **6** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/111278789) | [#1](https://www.twitch.tv/videos/1975815592) |
+| Poland ::{ flag=PL }:: | 5 | **6** | ::{ flag=AU }:: **Australia** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111271525) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1975435768) |
+| **South Korea** ::{ flag=KR }:: | **6** | 1 | ::{ flag=GB }:: United Kingdom | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111272312) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1975477511) |
+| **Germany** ::{ flag=DE }:: | **6** | 2 | ::{ flag=ID }:: Indonesia | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111273436) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1975518702) |
+| Russian Federation ::{ flag=RU }:: | 3 | **6** | ::{ flag=PH }:: **Philippines** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111273441) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1975526145) |
+| Ukraine ::{ flag=UA }:: | 2 | **6** | ::{ flag=CN }:: **China** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111274743) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1975578112) |
+| France ::{ flag=FR }:: | 4 | **6** | ::{ flag=SE }:: **Sweden** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111276018) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1975667142) |
+| United States ::{ flag=US }:: | 1 | **6** | ::{ flag=CA }:: **Canada** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111278789) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1975815592) |
 
 ### Round of 16
 
@@ -425,32 +425,32 @@ Friday, 3 November 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Philippines** ::{ flag=PH }:: | **5** | 1 | ::{ flag=RO }:: Romania | [#1](https://osu.ppy.sh/community/matches/111152642) | [#1](https://www.twitch.tv/videos/1967584249) |
+| **Philippines** ::{ flag=PH }:: | **5** | 1 | ::{ flag=RO }:: Romania | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111152642) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1967584249) |
 
 Saturday, 4 November 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Thailand** ::{ flag=TH }:: | **5** | 4 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/111165133) | [#1](https://www.twitch.tv/videos/1968375051) |
-| **South Korea** ::{ flag=KR }:: | **5** | 1 | ::{ flag=CN }:: China | [#1](https://osu.ppy.sh/community/matches/111167951) | [#1](https://www.twitch.tv/videos/1968543637) |
-| Spain ::{ flag=ES }:: | 0 | **5** | ::{ flag=NO }:: **Norway** | [#1](https://osu.ppy.sh/community/matches/111168903) | [#1](https://www.twitch.tv/videos/1968543637?t=00h47m36s) |
-| Netherlands ::{ flag=NL }:: | 0 | **5** | ::{ flag=FI }:: **Finland** | [#1](https://osu.ppy.sh/community/matches/111170809) | [#1](https://www.twitch.tv/videos/1968663146) |
-| Argentina ::{ flag=AR }:: | 0 | **5** | ::{ flag=FR }:: **France** | [#1](https://osu.ppy.sh/community/matches/111170821) | [#1](https://www.twitch.tv/videos/1968714286) |
-| Germany ::{ flag=DE }:: | 2 | **5** | ::{ flag=CA }:: **Canada** | [#1](https://osu.ppy.sh/community/matches/111171785) | [#1](https://www.twitch.tv/videos/1968714286?t=00h35m49s) |
+| **Thailand** ::{ flag=TH }:: | **5** | 4 | ::{ flag=NZ }:: New Zealand | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111165133) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1968375051) |
+| **South Korea** ::{ flag=KR }:: | **5** | 1 | ::{ flag=CN }:: China | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111167951) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1968543637) |
+| Spain ::{ flag=ES }:: | 0 | **5** | ::{ flag=NO }:: **Norway** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111168903) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1968543637?t=00h47m36s) |
+| Netherlands ::{ flag=NL }:: | 0 | **5** | ::{ flag=FI }:: **Finland** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111170809) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1968663146) |
+| Argentina ::{ flag=AR }:: | 0 | **5** | ::{ flag=FR }:: **France** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111170821) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1968714286) |
+| Germany ::{ flag=DE }:: | 2 | **5** | ::{ flag=CA }:: **Canada** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111171785) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1968714286?t=00h35m49s) |
 
 Sunday, 5 November 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| Mexico ::{ flag=MX }:: | 2 | **5** | ::{ flag=SG }:: **Singapore** | [#1](https://osu.ppy.sh/community/matches/111178942) | [#1](https://www.twitch.tv/videos/1969159761) |
-| **Australia** ::{ flag=AU }:: | **5** | 1 | ::{ flag=CL }:: Chile | [#1](https://osu.ppy.sh/community/matches/111178945) | [#1](https://www.twitch.tv/videos/1969154635) |
-| Turkey ::{ flag=TR }:: | 1 | **5** | ::{ flag=ID }:: **Indonesia** | [#1](https://osu.ppy.sh/community/matches/111183369) | [#1](https://www.twitch.tv/videos/1969422790) |
-| **Russian Federation** ::{ flag=RU }:: | **5** | 1 | ::{ flag=HK }:: Hong Kong | [#1](https://osu.ppy.sh/community/matches/111183363) | [#1](https://www.twitch.tv/videos/1969493249) |
-| Taiwan ::{ flag=TW }:: | 3 | **5** | ::{ flag=SE }:: **Sweden** | [#1](https://osu.ppy.sh/community/matches/111183770) | [#1](https://www.twitch.tv/videos/1969422790?t=0h42m5s) |
-| Kazakhstan ::{ flag=KZ }:: | 4 | **5** | ::{ flag=JP }:: **Japan** | [#1](https://osu.ppy.sh/community/matches/111184163) | [#1](https://www.twitch.tv/videos/1969493249?t=00h39m32s) |
-| **United Kingdom** ::{ flag=GB }:: | **5** | 3 | ::{ flag=UA }:: Ukraine | [#1](https://osu.ppy.sh/community/matches/111184941) | [#1](https://www.twitch.tv/videos/1969493249?t=1h49m24s) |
-| **United States** ::{ flag=US }:: | **5** | 1 | ::{ flag=IT }:: Italy | [#1](https://osu.ppy.sh/community/matches/111187488) | [#1](https://www.twitch.tv/videos/1969693540) |
-| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=BR }:: Brazil | [#1](https://osu.ppy.sh/community/matches/111188366) | [#1](https://www.twitch.tv/videos/1969693540?t=0h39m58s) |
+| Mexico ::{ flag=MX }:: | 2 | **5** | ::{ flag=SG }:: **Singapore** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111178942) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1969159761) |
+| **Australia** ::{ flag=AU }:: | **5** | 1 | ::{ flag=CL }:: Chile | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111178945) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1969154635) |
+| Turkey ::{ flag=TR }:: | 1 | **5** | ::{ flag=ID }:: **Indonesia** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111183369) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1969422790) |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 1 | ::{ flag=HK }:: Hong Kong | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111183363) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1969493249) |
+| Taiwan ::{ flag=TW }:: | 3 | **5** | ::{ flag=SE }:: **Sweden** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111183770) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1969422790?t=0h42m5s) |
+| Kazakhstan ::{ flag=KZ }:: | 4 | **5** | ::{ flag=JP }:: **Japan** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111184163) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1969493249?t=00h39m32s) |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 3 | ::{ flag=UA }:: Ukraine | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111184941) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1969493249?t=1h49m24s) |
+| **United States** ::{ flag=US }:: | **5** | 1 | ::{ flag=IT }:: Italy | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111187488) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1969693540) |
+| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=BR }:: Brazil | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111188366) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1969693540?t=0h39m58s) |
 
 ### Round of 32
 
@@ -460,27 +460,27 @@ Saturday, 28 October 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Chile** ::{ flag=CL }:: | **5** | 3 | ::{ flag=SE }:: Sweden | [#1](https://osu.ppy.sh/community/matches/111062319) | [#1](https://www.twitch.tv/videos/1962215601) |
-| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=TH }:: Thailand | [#1](https://osu.ppy.sh/community/matches/111063878) | [#1](https://www.twitch.tv/videos/1962257068) |
-| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=AR }:: Argentina | [#1](https://osu.ppy.sh/community/matches/111072298) | [#1](https://www.twitch.tv/videos/1962618853) |
-| **United Kingdom** ::{ flag=GB }:: | **5** | 3 | ::{ flag=TR }:: Turkey | [#1](https://osu.ppy.sh/community/matches/111073334) | [#1](https://www.twitch.tv/videos/1962709043?t=0h55m18s) |
-| France ::{ flag=FR }:: | 2 | **5** | ::{ flag=BR }:: **Brazil** | [#1](https://osu.ppy.sh/community/matches/111073335) | [#1](https://www.twitch.tv/videos/1962709043) |
+| **Chile** ::{ flag=CL }:: | **5** | 3 | ::{ flag=SE }:: Sweden | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111062319) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1962215601) |
+| **United States** ::{ flag=US }:: | **5** | 0 | ::{ flag=TH }:: Thailand | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111063878) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1962257068) |
+| **Poland** ::{ flag=PL }:: | **5** | 0 | ::{ flag=AR }:: Argentina | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111072298) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1962618853) |
+| **United Kingdom** ::{ flag=GB }:: | **5** | 3 | ::{ flag=TR }:: Turkey | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111073334) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1962709043?t=0h55m18s) |
+| France ::{ flag=FR }:: | 2 | **5** | ::{ flag=BR }:: **Brazil** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111073335) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1962709043) |
 
 Sunday, 29 October 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
 | --: | :-: | :-: | :-- | :-- | :-- |
-| **Philippines** ::{ flag=PH }:: | **5** | 1 | ::{ flag=MX }:: Mexico | [#1](https://osu.ppy.sh/community/matches/111081251) | [#1](https://www.twitch.tv/videos/1963230645) |
-| **Australia** ::{ flag=AU }:: | **5** | 0 | ::{ flag=TW }:: Taiwan | [#1](https://osu.ppy.sh/community/matches/111083508) | [#1](https://www.twitch.tv/videos/1963229994) |
-| **Italy** ::{ flag=IT }:: | **5** | 4 | ::{ flag=NZ }:: New Zealand | [#1](https://osu.ppy.sh/community/matches/111083501) | [#1](https://www.twitch.tv/videos/1963413031) |
-| Indonesia ::{ flag=ID }:: | 0 | **5** | ::{ flag=UA }:: **Ukraine** | [#1](https://osu.ppy.sh/community/matches/111084580) | [#1](https://www.twitch.tv/videos/1963413031?t=1h5m6s) |
-| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=KZ }:: Kazakhstan | [#1](https://osu.ppy.sh/community/matches/111085330) | [#1](https://www.twitch.tv/videos/1963413031?t=1h50m22s) |
-| **Russian Federation** ::{ flag=RU }:: | **5** | 1 | ::{ flag=NL }:: Netherlands | [#1](https://osu.ppy.sh/community/matches/111085320) |  |
-| **Hong Kong** ::{ flag=HK }:: | **5** | 3 | ::{ flag=FI }:: Finland | [#1](https://osu.ppy.sh/community/matches/111085343) | [#1](https://www.twitch.tv/videos/1963390816) |
-| **China** ::{ flag=CN }:: | **5** | 4 | ::{ flag=JP }:: Japan | [#1](https://osu.ppy.sh/community/matches/111086282) | [#1](https://www.twitch.tv/videos/1963390816?t=1h1m28s) |
-| **Romania** ::{ flag=RO }:: | **5** | 4 | ::{ flag=SG }:: Singapore | [#1](https://osu.ppy.sh/community/matches/111086205) | [#1](https://www.twitch.tv/videos/1963413031?t=2h31m42s) |
-| **Germany** ::{ flag=DE }:: | **5** | 0 | ::{ flag=ES }:: Spain | [#1](https://osu.ppy.sh/community/matches/111087337) | [#1](https://www.twitch.tv/videos/1963413031?t=3h46m9s) |
-| **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=NO }:: Norway | [#1](https://osu.ppy.sh/community/matches/111091065) | [#1](https://www.twitch.tv/videos/1963586869) |
+| **Philippines** ::{ flag=PH }:: | **5** | 1 | ::{ flag=MX }:: Mexico | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111081251) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1963230645) |
+| **Australia** ::{ flag=AU }:: | **5** | 0 | ::{ flag=TW }:: Taiwan | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111083508) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1963229994) |
+| **Italy** ::{ flag=IT }:: | **5** | 4 | ::{ flag=NZ }:: New Zealand | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111083501) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1963413031) |
+| Indonesia ::{ flag=ID }:: | 0 | **5** | ::{ flag=UA }:: **Ukraine** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111084580) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1963413031?t=1h5m6s) |
+| **South Korea** ::{ flag=KR }:: | **5** | 0 | ::{ flag=KZ }:: Kazakhstan | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111085330) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1963413031?t=1h50m22s) |
+| **Russian Federation** ::{ flag=RU }:: | **5** | 1 | ::{ flag=NL }:: Netherlands | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111085320) |  |
+| **Hong Kong** ::{ flag=HK }:: | **5** | 3 | ::{ flag=FI }:: Finland | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111085343) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1963390816) |
+| **China** ::{ flag=CN }:: | **5** | 4 | ::{ flag=JP }:: Japan | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111086282) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1963390816?t=1h1m28s) |
+| **Romania** ::{ flag=RO }:: | **5** | 4 | ::{ flag=SG }:: Singapore | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111086205) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1963413031?t=2h31m42s) |
+| **Germany** ::{ flag=DE }:: | **5** | 0 | ::{ flag=ES }:: Spain | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111087337) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1963413031?t=3h46m9s) |
+| **Canada** ::{ flag=CA }:: | **5** | 1 | ::{ flag=NO }:: Norway | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111091065) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1963586869) |
 
 ### Qualifiers
 
