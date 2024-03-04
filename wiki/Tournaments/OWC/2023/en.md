@@ -337,13 +337,13 @@ Detailed statistics for this round can be found [here](https://docs.google.com/s
 Saturday, 2 December 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
-| --: | :-: | :-: | :-- | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: | :-: |
 | Australia ::{ flag=AU }:: | 1 | **7** | ::{ flag=US }:: **United States** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111534249) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1992820454) |
 
 Sunday, 3 December 2023:
 
 | Team A |  |  | Team B | Match link | VOD link |
-| --: | :-: | :-: | :-- | :-- | :-- |
+| --: | :-: | :-: | :-- | :-: | :-: |
 | South Korea ::{ flag=KR }:: | 5 | **7** | ::{ flag=US }:: **United States** | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111554331) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1993918275) |
 | **United States** ::{ flag=US }:: | **7** | 6 | ::{ flag=KR }:: South Korea | [![](/wiki/shared/link/Link.png)](https://osu.ppy.sh/community/matches/111555364) | [![](/wiki/shared/link/Link.png)](https://www.twitch.tv/videos/1993918275?t=01h34m44s) |
 
