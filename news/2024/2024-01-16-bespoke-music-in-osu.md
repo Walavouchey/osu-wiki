@@ -16,7 +16,7 @@ More and more, people have been creating original songs within the osu! communit
 
 This is a story about original songs of the osu! community's creation, and it cannot be told by just one person.
 
-From early beatmaps entirely of bespoke origin, to the outset of the Featured Artist initiative in 2016, to the beginning and increase of osu! originals in World Cups, to the explosive initiative of community tournaments to create *even more* original music, dotted with focused works of passion along the way,
+From early beatmaps entirely of bespoke origin, to the outset of the Featured Artist initiative in 2016, to the beginning and increase of osu! originals in World Cups, to the explosive initiative of community tournaments to create *even more* original music, dotted with focused works of passion along the way.
 
 Read on below for a deep dive into how this scene formed and flourished proper in this new decade.
 
