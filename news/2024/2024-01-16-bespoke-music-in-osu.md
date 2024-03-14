@@ -28,7 +28,7 @@ The songs we're talking about fall under the umbrella of "osu! originals", a ter
 
 It means that osu! originals don't only refer to songs commissioned by the osu! team, such as for the World Cups. Any song created for the community qualifies. Whenever such songs are made by Featured Artists and displayed in their FA pages (and thus licensed by the osu! team), they are marked with a pink "osu! original" label.
 
-![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/fa-listing-original-label.jpg)
+![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/fa-listing-original-label.png)
 
 A comprehensive listing of such songs can be found in the [osu! originals wiki article](/wiki/osu!_originals).
 
