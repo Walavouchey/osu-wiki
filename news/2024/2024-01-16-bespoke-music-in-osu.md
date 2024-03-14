@@ -10,7 +10,7 @@ Delve into the origins and behind-the-scenes of how a music scene has not-so-qui
 
 More and more, people have been creating original songs within the osu! community. These works have mostly been created for tournament mappools, proliferating exponentially since around 2020 to 2021.
 
-![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/graph.png)
+![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/originals-over-time.png)
 
 ...What exactly happened to get us here?
 
