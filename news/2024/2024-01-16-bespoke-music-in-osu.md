@@ -16,7 +16,7 @@ More and more, people have been creating original songs within the osu! communit
 
 This is a story about original songs of the osu! community's creation, and it cannot be told by just one person.
 
-From early beatmaps entirely of bespoke origin, to the outset of the Featured Artist initiative in 2016, to the beginning and increase of osu! originals in World Cups, to the explosive initiative of community tournaments to create *even more* original music, dotted with focused works of passion along the way.
+From early beatmaps entirely of bespoke origin, to the outset of the Featured Artist initiative in 2016, the beginning and increase of osu! originals in World Cups, and the explosive initiative of community tournaments to create *even more* original music, all dotted with focused works of passion along the way.
 
 Read on below for a deep dive into how this scene formed and flourished proper in this new decade.
 
@@ -62,11 +62,9 @@ The question is, how and why did it happen in the first place?
 
 And deliver they did; if the World Cup could do it, they could do it too. GTS continued to produce original Grand Finals tiebreakers throughout the following months, with [Dz'Xa - COSMOBEAT](https://osu.ppy.sh/beatmapsets/1523659) debuting for [RGTS 2021](/wiki/Tournaments/GTS/RGTS_2021), [II-L - Asteroid Field of DECAPLETS](https://osu.ppy.sh/beatmapsets/1563553) for [IGTS 2021](/wiki/Tournaments/GTS/IGTS_2021) and [pm04034 - Invenzione No. 3N&3R: Sonatina for a Dying Lord](https://osu.ppy.sh/beatmapsets/1569783) for [LGTS 2021](https://osu.ppy.sh/community/forums/topics/1381556).
 
-Then something unprecedented happened. Over the winter and into the next year, [Expert Global Taiko Showdown 2021](/wiki/Tournaments/GTS/EGTS_2021) saw **11 original tracks**, forever etching GTS indubitably into the highest echelons of prestige and quality of production.
+Then something unprecedented happened. Over the winter and into the next year, [Expert Global Taiko Showdown 2021](/wiki/Tournaments/GTS/EGTS_2021) saw **11 original tracks**, forever etching GTS indubitably into the highest echelons of prestige and quality of production. The momentum never stopped and come 2022 GTS debuts 24 songs, [EGTS 2022](/wiki/Tournaments/GTS/EGTS_2022) making up 19 of them. [COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023) became the first and currently only tournament to feature an entirely original soundtrack of 28 songs.
 
-But the momentum never stopped. 24 GTS songs debuted in 2022, [EGTS 2022](/wiki/Tournaments/GTS/EGTS_2022) making up 19 of them. [COEGTS 2023](/wiki/Tournaments/GTS/COEGTS_2023) became the first and currently only tournament to feature an entirely original soundtrack of 28 songs.
-
-To date, Global Taiko Showdown has produced **over 70 original songs**, *half of them* being created *just last year*, and for 3 consecutive years, they've been able to release compilation albums. Perhaps while readings the rest of this article, feel free to have a listen to their latest one with the sounds of GTS of 2023.
+To date, Global Taiko Showdown has produced **over 70 original songs**, *half of them* being created *just last year*, and for 3 consecutive years, they've been able to release compilation albums. Perhaps while reading the rest of this article, feel free to have a listen to their latest one with the sounds of GTS of 2023.
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/Ky6VcetZ1-s" frameborder="0" allowfullscreen></iframe>
