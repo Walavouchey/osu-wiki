@@ -26,7 +26,7 @@ But first...
 
 The songs we're talking about fall under the umbrella of "osu! originals", a term we use to describe any song that was made specifically for or first debuted in osu!. Be it for an event, tournament, a song made for a particular beatmap — if it originated within osu!, that is an osu! original.
 
-It means that osu! originals don't only refer to songs commissioned by the osu! team, such as for the World Cups. Any song created for the community qualifies. Whenever such songs are made by Featured Artists and displayed in their FA pages (and thus licensed by the osu! team), they are marked with a pink "osu! original" label.
+It means that osu! originals don't only refer to songs commissioned by the osu! team, such as for the World Cups, but any song created for the community. Whenever such songs are made by Featured Artists and displayed in their FA pages (and thus licensed by the osu! team), they are marked with a pink "osu! original" label.
 
 ![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/fa-listing-original-label.png)
 
@@ -34,7 +34,7 @@ A comprehensive listing of such songs can be found in the [osu! originals wiki a
 
 ## osu! World Cups
 
-The osu! team organises [World Cups](/wiki/Tournaments#official-world-cups), which since osu! World Cup 2020 started incorporating original music into tiebreaker beatmaps. Have a listen to [mangomizer](https://osu.ppy.sh/users/1893718) and [pishifat](https://osu.ppy.sh/users/3178418)'s discussion about all of that and how this operation expanded in scope over the years.
+The osu! team organises [World Cups](/wiki/Tournaments#official-world-cups), which since the osu! World Cup 2020 started incorporating original music into tiebreaker beatmaps. Have a listen to [mangomizer](https://osu.ppy.sh/users/1893718) and [pishifat](https://osu.ppy.sh/users/3178418)'s discussion about all of that and how this operation expanded in scope over the years.
 
 <div align="center">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/0B6TyWML0zg" frameborder="0" allowfullscreen></iframe>
@@ -42,9 +42,9 @@ The osu! team organises [World Cups](/wiki/Tournaments#official-world-cups), whi
 
 ## Global Taiko Showdown
 
-Whether it be by coincidental ideas or by the example set by the World Cups, community tournaments sprawled into procuring original music for their tournaments (mostly for Grand Finals tiebreaker beatmaps, literally over 100 of them).
+Whether it be by coincidental ideas or by the example set by the World Cups, the community sprawled into procuring original music for their own tournaments (and mostly for Grand Finals tiebreaker beatmaps, which is literally over 100 of them).
 
-A whopping **32%** of all current tournament originals in osu! originate from the [Global Taiko Showdown](https://gtsosu.com/) series. We have in large part [**Kasumi-sama**](https://osu.ppy.sh/users/6177263) to thank for that.
+A whopping **23%** of all current tournament originals in osu! originate from the [Global Taiko Showdown](https://gtsosu.com/) series. We have in large part [**Kasumi-sama**](https://osu.ppy.sh/users/6177263) to thank for that.
 
 [![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/Kasumi-sama.png)](https://osu.ppy.sh/users/6177263)
 
@@ -192,25 +192,23 @@ The second thing to ask about is of course what it is like to compose for osu! t
 > 
 > Having a lore or story sometimes would help us as well! It would shape us ideas on how the emotions or the atmosphere should be in the song, and when and how to make the "chaos" or "resolve" in the song given the bpm and difficulty constraints. At least it helps with creativity a lot!
 
+<!--
+
 > It's also the matter of domain knowledge [...] different modes actually have different requirements for the songs. For osu!mania I often get more comfortable to be experimental with polyrhythms because it is required to be something to address the technicality in the higher level difficulties. But I found the thing in common between these two modes is to have the sufficient section with 16th notes (1/4 snaps) for stamina and/or long note elements. But also it is pretty relaxed to mix between them for more flavors!
 
 > Additionally, Essence became an album on how the motif or theme can be extended belong side with the [stories](https://4digitmwc.github.io/media-centre/stories/infinity), which also was the link between the previous iteration of the tournament and LNCryption. As we finished the tiebreaker song, we continued to expand the ideas of Essence being some kind of events in the story and built the stories with them. So each section of Essence can be interpreted as the throwback and the resolution of the story.
 
-<!--
-
 **I understand you have worked with a variety of tournaments, such as osu!(taiko, mania) Malaysia tournaments, Global Taiko Showdown and the (4 Digit) osu!mania World Cups. Are there differences in music production between them, such as in process, expectations or otherwise?**
-
-HowToPlayLN, also having worked with a wide variety of tournaments, 
 
 > For these tournaments, I think the thing in common was at first that we used spreadsheet for planning, but in reality it's just... whatever works, but hey! Can't complain since we often get more innovative and out-of-the-box from what's written in the paper! For example, 4 Digit osu!mania World Cup, we completely went out of what we planned at first in the 2nd Half, or Akatsuki (GTMS) where it was just completely a different approach from the sheet altogether. OTMT and OMMT actually had the different gimmicks, that I focused more on the experimentation and challenged myself to make something that is musically innovative and challenging to map at the same time.
 
--->
+**Are there challenges in making songs for osu! events compared to your other works?**
 
-<!-- **Are there challenges in making songs for osu! events compared to your other works?** -->
-
-Creating music for a rhythm game 
+Creating music for a rhythm game
 
 > The challenging part is actually how to maintain the rhythm difficulties while having the stories in mind. There needs to be some balances between these twos. For example in my perspective, I want to make something that is not just music, it has to be something that is meaningful and worth experiencing. So I am quite perfectionistic towards my own work that it needs to show something in me, or sometimes there's another challenge on my own self-esteem when I felt like I didn't use enough advanced techniques in my work, or sometimes I came up with the ideas and then scrapped it later due to insufficient ideas on continuation to that idea.
+
+-->
 
 ## Collaborations
 
