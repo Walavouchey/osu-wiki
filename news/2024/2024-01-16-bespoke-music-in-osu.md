@@ -216,6 +216,10 @@ Cool things can happen when people work together. That's also true for artists â
 
 As for how exactly it works, read how our duo of artists today explained song collaborations with the example of [GTS Orchestra Team - Akatsuki - Tokoyami no Yoru ga Aketa Toki -](https://osu.ppy.sh/beatmapsets/1988498):
 
+<div align="center" class="osu-md__paragraph">
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/wSd8hoL86Qc" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/HowToPlayLN.png)
 
 > For collabs, I mostly become more of a melody person. Like *Akatsuki*, I was more in charge of the middle part and SiLiS and takehirotei was in charge of extending the idea from left to right while rN was in charge of adding dynamics to my orchestra. We often planned beforehand what to do after the initiative was done, it's important to have the "theme" to the song for us first before deciding how we develop them, and that's how we create the collaborations in the workflow perspective.
