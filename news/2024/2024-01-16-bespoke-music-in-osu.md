@@ -212,13 +212,13 @@ Creating music for a rhythm game
 
 ## Collaborations
 
-Cool things can happen when people work together. That's also true for artists — there are plenty of songs in osu! composed by multiple people.
-
-As for how exactly it works, read how our duo of artists today explained song collaborations with the example of [GTS Orchestra Team - Akatsuki - Tokoyami no Yoru ga Aketa Toki -](https://osu.ppy.sh/beatmapsets/1988498):
-
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/wSd8hoL86Qc" frameborder="0" allowfullscreen></iframe>
 </div>
+
+Cool things can happen when people work together. That's also true for artists — there are plenty of songs in osu! composed by multiple people.
+
+As for how exactly it works, read below how our duo of artists today explained song collaborations with the example of [GTS Orchestra Team - Akatsuki - Tokoyami no Yoru ga Aketa Toki -](https://osu.ppy.sh/beatmapsets/1988498), and feel free to tap that showcase video above for reference.
 
 ![](/wiki/shared/news/2024-01-16-bespoke-music-in-osu/HowToPlayLN.png)
 
