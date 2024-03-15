@@ -180,15 +180,17 @@ Like takehirotei, [HowToPlayLN](https://osu.ppy.sh/users/10879600) also has comp
 > I can still find LNCryption (from osu!mania LN Tournament 3) and Essence (from 4 Digit MWC 2023) being prequel-sequel to each other being relatable to me in real life. As the time goes, there's still the way to develop the lore and the universe forward from that. Of course there's going to be another project to continue what was left off, and hopefully there will be more experimental approaches to creating harmonies and rhythms.
 -->
 
-The second thing to ask about is of course what it is like to compose for osu! tournaments.
+Whether by having such a rooted connection between their musical identity and osu! or otherwise, HowToPlayLN does not lack insight into how the osu! tournament music scene clicks. These are their thoughts and advice on what it's like to compose for osu! tournaments:
 
 > For me, it would be between the composer(s) and the mappers to discuss about the base information of how the song should be, like whether snap divisions on this bpm is suitable to map in this difficulty before shaping my own ideas. I would also consider the song name, the background story and sometimes I would actually encourage the mappers to try feedback or mapping the demo to determine whether it is alright for the given difficulty.
 > 
 > The ideas are... randomly come to me. Sometimes it works, sometimes it doesn't, but as long as there's a theme for it everything can continue smoothly. Mostly for the tiebreakers, there are at most 2-4 themes (or what we called "motif") for the song, representing each "mood" or side of the stories, each theme will get developed, and getting each turn to shine in their own part.
 > 
-> For other composers who may or may not play osu! or rhythm games in general, I think the communication is also challenging between mappers and composers. All I want to say is please do not be hesitate to stay connected to each other! For osu!mania or taiko it can be potentially more straightforward because they can be mapped to other rhythm games easily, but for other modes, it is okay to give the direct feedback and opinions on how this can be charted, these would help composers a lot in decision making of how to progress the song further.
+> For other composers who may or may not play osu! or rhythm games in general, I think the communication is also challenging between mappers and composers. All I want to say is please do not be hesitate to stay connected to each other! For osu!mania or osu!taiko it can be potentially more straightforward because they can be mapped to other rhythm games easily, but for other modes, it is okay to give the direct feedback and opinions on how this can be charted, these would help composers a lot in decision making of how to progress the song further.
 > 
 > Having a lore or story sometimes would help us as well! It would shape us ideas on how the emotions or the atmosphere should be in the song, and when and how to make the "chaos" or "resolve" in the song given the bpm and difficulty constraints. At least it helps with creativity a lot!
+
+In short: communication is key, beware of differences in the game modes and... (pause for drama) use storytelling to your advantage. That last one is also an entire topic in itself, maybe for later.
 
 <!--
 
