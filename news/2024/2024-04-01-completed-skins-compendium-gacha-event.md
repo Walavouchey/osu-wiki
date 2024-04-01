@@ -4,7 +4,7 @@ title: Completed Skins Compendium Gacha Event
 date: 2024-04-01 09:00:00 +0000
 ---
 
-{preview}
+A world of skins awaits...
 
 ![](/wiki/shared/news/2024-04-01-completed-skins-compendium-gacha-event/banner.jpg)
 
@@ -32,7 +32,7 @@ Skins are divided into 5 *categories* (some may be in multiple), which should he
 - Game
 - Other
 
-Skins with more *stars* are rarer, but are generally of high acclaim. There are 3 star ratings:
+Skins with more *stars* are rarer, but are generally of high acclaim. There are 3 tiers:
 
 - 5 Star
 - 4 Star
@@ -40,11 +40,11 @@ Skins with more *stars* are rarer, but are generally of high acclaim. There are 
 
 Everyone starts out with ![](/wiki/shared/news/2024-04-01-completed-skins-compendium-gacha-event/coin.png) 1,000 osu!coins, and will gain osu!coins both over time as well as by simply interacting with the system. There is no shortage!
 
-The crux, of course, lies in discovering all **1,066 skins** and completing the *Completed Skins Compendium*. The [skinship website](https://compendium.skinship.xyz/) will track how many skins you've received and the compendium completion.
+The crux, of course, lies in discovering all high-starred skins (or all **1,066 skins** if you're patient enough) and completing the *Completed Skins Compendium*. The [skinship website](https://compendium.skinship.xyz/) will track how many skins you've received and the completion percentage for each tier.
 
 ### All 5-star skins
 
-![Event banner image](/wiki/shared/news/2024-04-01-completed-skins-compendium-gacha-event/event-banners.png)
+![Event banner image](/wiki/shared/news/2024-04-01-completed-skins-compendium-gacha-event/event-banners.jpg)
 
 ### Pull rates
 
@@ -60,11 +60,11 @@ The crux, of course, lies in discovering all **1,066 skins** and completing the 
 
 | Pulls | Cost |
 | :-: | --: |
-| 1 | ![](/wiki/shared/news/2024-04-01-completed-skins-compendium-gacha-event/coin.png) 100 osu!coins |
-| 10 | ![](/wiki/shared/news/2024-04-01-completed-skins-compendium-gacha-event/coin.png) 727 osu!coins |
+| 1 | ![](/wiki/shared/news/2024-04-01-completed-skins-compendium-gacha-event/coin.png) 100 |
+| 10 | ![](/wiki/shared/news/2024-04-01-completed-skins-compendium-gacha-event/coin.png) 727 |
 
 ---
 
-
+Armed with that information, [there's only one thing to do](https://compendium.skinship.xyz/).
 
 —skinship
