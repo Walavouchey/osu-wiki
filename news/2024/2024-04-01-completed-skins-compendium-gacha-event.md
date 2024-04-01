@@ -12,7 +12,7 @@ Dear circle clickers, drum bashers, fruit catchers and keyboard smashers,
 
 Welcome to the Completed Skins Compendium Gacha Event!
 
-Some of you may have a mild case of lacking skin repertoire, let's fix that!
+Some of you may have a mild case of lacking skin repertoire, let's fix that! This is a limited-time event where you'll be able to discover new skins in a game-ified way.
 
 Whether you're a seasoned competitor with an utmost optimised skin for tournament play, a returning player seeking a fresh experience or a complete beginner just starting out, there's something in here for everyone.
 
@@ -22,7 +22,7 @@ Read on for a detailed explanation of how this works, or simply jump right in:
 
 ## Event details
 
-For a limited time, you'll have the chance to spend osu!coins in order to discover new skins from the *Completed Skins Compendium*.
+For a limited time, you'll have the chance to **spend osu!coins in order to discover a random set of skins** (or in [gacha](https://en.wikipedia.org/wiki/Gacha_game) parlance, "pulling") from the *Completed Skins Compendium*.
 
 Skins are divided into 5 *categories* (some may be in multiple), which should help you in finding skins you may be more interested in:
 
@@ -38,7 +38,7 @@ Skins with more *stars* are rarer, but are generally of high acclaim. There are 
 - 4 Star
 - 3 Star
 
-Everyone starts out with 1,000 osu!coins, and will gain osu!coins both over time as well as by simply interacting with the system. There is no shortage!
+Everyone starts out with ![](/wiki/shared/news/2024-04-01-completed-skins-compendium-gacha-event/coin.png) 1,000 osu!coins, and will gain osu!coins both over time as well as by simply interacting with the system. There is no shortage!
 
 The crux, of course, lies in discovering all **1,066 skins** and completing the *Completed Skins Compendium*. The [skinship website](https://compendium.skinship.xyz/) will track how many skins you've received and the compendium completion.
 
@@ -65,6 +65,6 @@ The crux, of course, lies in discovering all **1,066 skins** and completing the 
 
 ---
 
-{end}
+
 
 —skinship
