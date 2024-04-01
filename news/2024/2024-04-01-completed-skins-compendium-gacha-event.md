@@ -4,7 +4,7 @@ title: Completed Skins Compendium Gacha Event
 date: 2024-04-01 09:00:00 +0000
 ---
 
-A world of skins awaits...
+*A world of skins awaits...*
 
 ![](/wiki/shared/news/2024-04-01-completed-skins-compendium-gacha-event/banner.jpg)
 
