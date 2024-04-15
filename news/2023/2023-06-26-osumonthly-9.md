@@ -17,7 +17,7 @@ Our librarian here at osu!monthly headquarters has uncovered a secret document c
 Maybe something in here will evoke memories, or perhaps serve as a reminder for upcoming events.
 
 <div align="center">
-    <embed style="aspect-ratio: 1 / 1.414;" src="https://assets.ppy.sh/media/osu-monthly/2023-03/osu-monthly-2023-03.pdf" type="application/pdf">
+    <embed width="700" style="aspect-ratio: 1 / 1.414;" src="https://assets.ppy.sh/media/osu-monthly/2023-03/osu-monthly-2023-03.pdf" type="application/pdf">
 </div>
 
 —osu!monthly team
