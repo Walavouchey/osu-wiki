@@ -350,8 +350,6 @@ If you haven't done so already, please go give them a listen, because among the 
     </div>
 </div>
 
-![](/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/message-bar-wwwww-and-Yoshi_green.png)
-
 ---
 
 ::{#soooo}::
@@ -543,8 +541,6 @@ If you haven't done so already, please go give them a listen, because among the 
         </p>
     </div>
 </div>
-
-![](/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/message-bar-SOOOO.png)
 
 ---
 
