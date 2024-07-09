@@ -179,7 +179,7 @@ If you haven't done so already, please go give them a listen, because among the 
     }
 
     .news-chat-quote__message-text-container {
-        margin-left: 10px;
+        margin-left: 15px;
     }
 
     .news-chat-quote__message-header {
@@ -192,7 +192,7 @@ If you haven't done so already, please go give them a listen, because among the 
     }
 
     .news-chat-quote__message_timestamp {
-        margin-left: 8px;
+        margin-left: 3px;
         font-size: 11px;
         color: #80848E;
     }
