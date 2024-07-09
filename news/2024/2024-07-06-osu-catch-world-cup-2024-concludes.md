@@ -200,7 +200,7 @@ If you haven't done so already, please go give them a listen, because among the 
 
 ::{#wwwww-and-yoshi-green}::
 
-![](/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/message-header-wwwww-and-Yoshi_green.png)
+![](/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/wwwww-and-yoshi_green.png)
 
 [wwwww](https://osu.ppy.sh/users/8434466) and [Yoshi_green](https://osu.ppy.sh/users/1035891) assisted in various tasks as "advisors" for the osu!catch World Cup 2024.
 
@@ -354,7 +354,7 @@ If you haven't done so already, please go give them a listen, because among the 
 
 ::{#soooo}::
 
-![](/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/message-header-SOOOO.png)
+![](/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/soooo.png)
 
 [SOOOO](https://osu.ppy.sh/beatmaps/artists/30) composed the Finals tiebreaker track [illloved](https://osu.ppy.sh/beatmapsets/2195067) (pronounced "ill-loved") for the osu!catch World Cup 2024.
 
