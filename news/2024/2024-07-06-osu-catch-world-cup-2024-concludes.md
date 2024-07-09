@@ -211,7 +211,7 @@ If you haven't done so already, please go give them a listen, because among the 
     <div class="news-chat-quote__message-text-container">
         <p class="news-chat-quote__message-header">
             <a class="news-chat-quote__message_username" style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a>
-            <span class="news-chat-quote__message_timestamp">30/06/2024 02:47</span>
+            <span class="news-chat-quote__message_timestamp">30/06/2024 00:47</span>
         </p>
         <p class="osu-md__paragraph">
             What has the "advisor" role entailed for you in the osu!catch World Cup?
@@ -224,7 +224,7 @@ If you haven't done so already, please go give them a listen, because among the 
     <div class="news-chat-quote__message-text-container">
         <p class="news-chat-quote__message-header">
             <a class="news-chat-quote__message_username" style="color: #EB2660" href="https://osu.ppy.sh/users/8434466">wwwww</a>
-            <span class="news-chat-quote__message_timestamp">30/06/2024 02:54</span>
+            <span class="news-chat-quote__message_timestamp">30/06/2024 00:54</span>
         </p>
         <p class="osu-md__paragraph">
             An advisor role, is one that manages the mappool for a world cup and all of its components. This includes the following
@@ -245,7 +245,7 @@ If you haven't done so already, please go give them a listen, because among the 
     <div class="news-chat-quote__message-text-container">
         <p class="news-chat-quote__message-header">
             <a class="news-chat-quote__message_username" style="color: #EB2660" href="https://osu.ppy.sh/users/1035891">Yoshi_green</a>
-            <span class="news-chat-quote__message_timestamp">30/06/2024 02:56</span>
+            <span class="news-chat-quote__message_timestamp">30/06/2024 00:56</span>
         </p>
         <p class="osu-md__paragraph">
             Yep, we're pretty much the intermediary party between the organizers, mappoolers, mappers, and players
@@ -258,7 +258,7 @@ If you haven't done so already, please go give them a listen, because among the 
     <div class="news-chat-quote__message-text-container">
         <p class="news-chat-quote__message-header">
             <a class="news-chat-quote__message_username" style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a>
-            <span class="news-chat-quote__message_timestamp">30/06/2024 02:47</span>
+            <span class="news-chat-quote__message_timestamp">30/06/2024 00:47</span>
         </p>
         <p class="osu-md__paragraph">
             I heard from sakura that you planned out the artists you were wanting to request very early. What did that process and its timescale look like from your end?
@@ -271,7 +271,7 @@ If you haven't done so already, please go give them a listen, because among the 
     <div class="news-chat-quote__message-text-container">
         <p class="news-chat-quote__message-header">
             <a class="news-chat-quote__message_username" style="color: #EB2660" href="https://osu.ppy.sh/users/1035891">Yoshi_green</a>
-            <span class="news-chat-quote__message_timestamp">01/07/2024 21:11</span>
+            <span class="news-chat-quote__message_timestamp">01/07/2024 19:11</span>
         </p>
         <p class="osu-md__paragraph">
             The process is as follows:
@@ -298,7 +298,7 @@ If you haven't done so already, please go give them a listen, because among the 
     <div class="news-chat-quote__message-text-container">
         <p class="news-chat-quote__message-header">
             <a class="news-chat-quote__message_username" style="color: #DBA1D2" href="https://osu.ppy.sh/users/5773079">Walavouchey</a>
-            <span class="news-chat-quote__message_timestamp">02/07/2024 01:56</span>
+            <span class="news-chat-quote__message_timestamp">01/07/2024 23:56</span>
         </p>
         <p class="osu-md__paragraph">
             Moving on to mapping then, I wonder about the intricacies of handling mappools and custom maps. Are there general or distinct examples of the kinds of projects that go smoothly or ones that do not, projects you involve yourself more in, or moments where you've felt you've been able take a more hands-off approach?
@@ -311,7 +311,7 @@ If you haven't done so already, please go give them a listen, because among the 
     <div class="news-chat-quote__message-text-container">
         <p class="news-chat-quote__message-header">
             <a class="news-chat-quote__message_username" style="color: #EB2660" href="https://osu.ppy.sh/users/8434466">wwwww</a>
-            <span class="news-chat-quote__message_timestamp">02/07/2024 15:26</span>
+            <span class="news-chat-quote__message_timestamp">02/07/2024 13:26</span>
         </p>
         <p class="osu-md__paragraph">
             Mapping, requires the most management and can definitely be quite chaotic. Similarly to last year, we went for an entirely custom pool so there were MANY maps to be made.
@@ -333,7 +333,7 @@ If you haven't done so already, please go give them a listen, because among the 
     <div class="news-chat-quote__message-text-container">
         <p class="news-chat-quote__message-header">
             <a class="news-chat-quote__message_username" style="color: #EB2660" href="https://osu.ppy.sh/users/1035891">Yoshi_green</a>
-            <span class="news-chat-quote__message_timestamp">03/07/2024 07:16</span>
+            <span class="news-chat-quote__message_timestamp">03/07/2024 05:16</span>
         </p>
         <p class="osu-md__paragraph">
             Two things to add:
