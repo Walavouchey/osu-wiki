@@ -166,7 +166,15 @@ If you haven't done so already, please go give them a listen, because among the 
 
 ## Interviews
 
+::{#wwwww-yoshi-green}::
 
+![Interview with wwwww and Yoshi_green, advisors for CWC 2024](/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/wwwww-and-Yoshi_green.png)
+
+---
+
+::{#soooo}::
+
+![Interview with SOOOO, Featured Artist and composer of illloved for CWC 2024](/wiki/shared/news/2024-07-06-osu-catch-world-cup-2024-concludes/SOOOO.png)
 
 ---
 
