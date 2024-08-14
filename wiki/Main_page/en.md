@@ -13,6 +13,13 @@ Welcome to the osu! wiki, the open-source knowledge base containing a wide range
 
 # Getting started
 
+[dev servers](/wiki/hi_this_is_a_redirect#community-development)
+[no section](/wiki/hi_this_is_a_redirect)
+[gameplay](/wiki/hi_this_is_a_redirect)
+[bad section](/wiki/hi_this_is_a_redirect#asdf)
+[redirected bad section](/wiki/hi_this_is_a_bad_redirect)
+[bad redirected section but good link](/wiki/hi_this_is_a_bad_redirect#gameplay)
+
 Important articles and guides that will help you dive into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Help forum](https://osu.ppy.sh/forum/5).
 
 [Rules](/wiki/Rules) • [Installation](/wiki/Client/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_centre)
