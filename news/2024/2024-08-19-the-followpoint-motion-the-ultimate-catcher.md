@@ -9,7 +9,7 @@ The Followpoint is back with another interview! Learn more about Motion and his 
 
 ![](/wiki/shared/news/2024-08-19-the-followpoint-motion-the-ultimate-catcher/banner.jpg)
 
-Welcome or welcome back to The Followpoint, a series where we interview various community figures and players! This time we interviewed [Motion](https://osu.ppy.sh/users/3885626), a player who has mastered osu!catch to the point where he just recently managed to end [YesMyDarknesss](https://osu.ppy.sh/users/4158549)' 3-year reign as rank #1!
+__Welcome or welcome__ back to The Followpoint, a s__e__ri__e__s wh__e__re we interview various community figures and players! This time we interviewed [Motion](https://osu.ppy.sh/users/3885626), a player who has mastered osu!catch to the point where he just recently managed to end [YesMyDarknesss](https://osu.ppy.sh/users/4158549)' 3-year reign as rank #1!
 
 So, let's have a read!
 
