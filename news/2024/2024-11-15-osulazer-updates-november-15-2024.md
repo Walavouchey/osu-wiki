@@ -23,7 +23,11 @@ Below you will find [peppy](https://osu.ppy.sh/users/2) and [pishifat](https://o
 - **Added a keyboard shortcut for cycling grid types (`Shift` + `G`).** Did you know we have not just square, but triangular and circular grids as well?
 - **Toggles and shortcuts for hitsound sample addition banks have been added.** Seasoned mappers will likely be familiar with the `Shift`/`Alt` + `Q`/`W`/`E`/`R` hitsounding keys already, which now all work on osu!(lazer).
 
+<div align="center" width="60%">
+
 ![Hitsounding shortcuts](/wiki/shared/news/2024-11-16-osulazer-updates-november-15-2024/hitsounding-shortcuts.jpg)
+
+</div>
 
 - **Breaks can now be hidden from the timeline.** Minor visual change for those who find this indicator distracting.
 
