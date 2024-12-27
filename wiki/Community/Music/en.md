@@ -1,18 +1,26 @@
-# osu! originals
+---
+tags:
+  - osu! original
+  - osu! originals
+  - originals
+  - original
+  - music
 
-**osu! originals** are songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/People/Featured_Artists) announcements. While not all osu! originals are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are commonly distinguished by the `ORIGINAL` label on their respective artists' pages.
+# Bespoke music
 
-All osu! originals that have been licensed by the game are cleared for use in osu! under non-exclusive terms as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). Conversely, non-licensed osu! originals may require permission for use. See the [Content Usage Guidelines](/wiki/Rules/Content_usage_guidelines) for more information.
+This article lists songs that are specifically made for (or otherwise first premiered in) osu! or other osu!-related events such as tournaments, contests, and [Featured Artist](/wiki/People/Featured_Artists) announcements.
+
+While not all of these songs are officially licensed and included in the [Featured Artist library](https://osu.ppy.sh/beatmaps/artists), the songs that do are called "osu! originals", and are distinguished by the `ORIGINAL` label on their respective artists' pages. A full list of osu! originals can also be found on the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists/tracks?exclusive_only=1).
+
+All osu! originals that have been licensed by the game are cleared for use in osu! under non-exclusive terms as per the [osu! music licensing policy](/wiki/Legal/Music_licensing). Conversely, all other songs in this list are not officially licensed by the game and may require permission for use. See the [Content Usage Guidelines](/wiki/Rules/Content_usage_guidelines) for more information.
 
 ## Statistics
 
-There is currently a total of **807** documented osu! originals.
+There is currently a total of **807** documented songs made for osu!.
 
-![Graph of osu! originals over time](img/originals-over-time.png?20241202)
+![Graph of bespoke music over time](img/originals-over-time.png?20241202)
 
-## List of osu! originals
-
-<!-- FOR TRANSLATORS: this section is automated and is not to be translated manually, even though this automation doesn't handle translations just yet. - Walavouchey -->
+## Listing
 
 ### osu! original soundtrack
 
