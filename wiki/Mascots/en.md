@@ -473,7 +473,7 @@ Tama was one of the younger entrants in the osu!taiko mascot design contest at o
 
 #### Maya
 
-![Maya](img/Maya.png)
+![Maya](img/Maya-1.png)
 
 |  |  |
 | :-- | :-- |
