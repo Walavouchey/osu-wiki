@@ -295,6 +295,8 @@ She is extremely competitive when it comes to games, even to the point of throwi
 
 ### ![](/wiki/shared/mode/taiko.png) Project Prism student council
 
+#### Mayu Glynne
+
 ::: Infobox
 
 #### Mayu Glynne
@@ -313,7 +315,7 @@ Being bound to a wheelchair at birth, Mayu developed a keen passion for robotics
 
 However, rumour has it that a different side of her can be seen when her glasses are off...
 
----
+#### Zander
 
 ::: Infobox
 
@@ -331,7 +333,7 @@ However, rumour has it that a different side of her can be seen when her glasses
 
 As the lead guitarist and vocalist of the popular school band ЯEFRACT, Zander is an upbeat girl who manages the council's publicity and image. Her loud and energetic nature allows her to break through all social barriers and make friends with quite literally anyone.
 
----
+#### Aloiv
 
 ::: Infobox
 
@@ -351,7 +353,7 @@ Born into a sheltered life under an aristocratic family, Aloiv rejects the burde
 
 Despite having an abundance of wealth, Aloiv is very particular about how money is spent, thus earning them the Treasurer role of the council.
 
----
+#### Nina Oberin
 
 ::: Infobox
 
@@ -371,7 +373,7 @@ Born into a sheltered life under an aristocratic family, Aloiv rejects the burde
 
 Despite having an abundance of wealth, Aloiv is very particular about how money is spent, thus earning them the Treasurer role of the council.
 
----
+#### Bagel
 
 ::: Infobox
 
@@ -391,7 +393,7 @@ As the head shrine maiden of her family-owned temple in the city, Bagel is heavi
 
 Why does she have a cat tail and ears? Well... that's a story for another day.
 
----
+#### Scarlette
 
 ::: Infobox
 
