@@ -10,7 +10,7 @@
 
 #### pippi
 
-![pippi](img/pippi.png "pippi")
+![pippi](img/pippi.png)
 
 |  |  |
 | :-- | :-- |
@@ -28,7 +28,7 @@ pippi, stylised with a lowercase "p", is the osu! game mode mascot that joined o
 
 #### Mocha
 
-![Mocha](img/Mocha.png "Mocha")
+![Mocha](img/Mocha.png)
 
 |  |  |
 | :-- | :-- |
@@ -48,7 +48,7 @@ Mocha is the osu!taiko mascot. She was initially designed during the [sixth fana
 
 #### Yuzu
 
-![Yuzu](img/Yuzu.png "Yuzu")
+![Yuzu](img/Yuzu.png)
 
 |  |  |
 | :-- | :-- |
@@ -68,7 +68,7 @@ Yuzu is the osu!catch mascot that joined on 2014-06-22. He was born on 2000-04-1
 
 #### Mani & Mari
 
-![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png "Mani & Mari")
+![Mani & Mari](https://assets.ppy.sh/media/mari-mani/wiki-key-condensed.png)
 
 |  |  |
 | :-- | :-- |
@@ -92,7 +92,7 @@ Mani is something of a maverick, always looking to explore new styles and things
 
 #### Ryūta Ippongi
 
-![Ryuuta](img/Ryuuta.png "Ryuuta")
+![Ryuuta](img/Ryuuta.png)
 
 |  |  |
 | :-- | :-- |
@@ -112,7 +112,7 @@ Ryuuta was also featured in ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/users
 
 #### Agent J
 
-![Agent J](img/Agent_J.png "Agent J")
+![Agent J](img/Agent_J.png)
 
 |  |  |
 | :-- | :-- |
@@ -132,7 +132,7 @@ Agent J was also featured in ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/user
 
 #### Don
 
-![Don](img/Don.png "Don")
+![Don](img/Don.png)
 
 |  |  |
 | :-- | :-- |
@@ -153,7 +153,7 @@ Agent J was also featured in ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/user
 
 #### Chloe
 
-![Chloe](img/Chloe-1.png "Chloe")
+![Chloe](img/Chloe-1.png)
 
 |  |  |
 | :-- | :-- |
@@ -171,7 +171,7 @@ Chloe is the mascot of the Corsace tournament series.
 
 #### Marvia Etsuko
 
-![Marvia Etsuko](img/Marvia-1.png "Marvia Etsuko")
+![Marvia Etsuko](img/Marvia-1.png)
 
 |  |  |
 | :-- | :-- |
@@ -189,7 +189,7 @@ Marvia is the mascot of osu! Malaysia
 
 #### Serenity
 
-![Serenity](img/Serenity-1.png "Serenity")
+![Serenity](img/Serenity-1.png)
 
 |  |  |
 | :-- | :-- |
@@ -207,7 +207,7 @@ Serenity is the mascot of the Resurrection Cup tournament series
 
 #### Primrea
 
-![Primrea](img/Primrea-1.png "Primrea")
+![Primrea](img/Primrea-1.png)
 
 |  |  |
 | :-- | :-- |
@@ -225,7 +225,7 @@ Primrea is the mascot of the osu! Philippine community.
 
 #### Aiko
 
-![Aiko](img/Aiko.png "Aiko")
+![Aiko](img/Aiko.png)
 
 |  |  |
 | :-- | :-- |
@@ -243,7 +243,7 @@ Aiko was one of the entries in the osu!taiko mascot design contest. She is an en
 
 #### Alisa
 
-![Alisa](img/Alisa.png "Alisa")
+![Alisa](img/Alisa.png)
 
 |  |  |
 | :-- | :-- |
@@ -261,7 +261,7 @@ Alisa was one of the entries in the osu!taiko mascot design contest. She has bee
 
 #### Chirou
 
-![Chirou](img/Chirou.png "Chirou")
+![Chirou](img/Chirou.png)
 
 |  |  |
 | :-- | :-- |
@@ -279,7 +279,7 @@ Chirou was one of the entries in the osu!taiko mascot design contest. She is ver
 
 #### IRIS
 
-![IRIS](img/IRIS-1.png "IRIS")
+![IRIS](img/IRIS-1.png)
 
 |  |  |
 | :-- | :-- |
@@ -299,7 +299,7 @@ She is extremely competitive when it comes to games, even to the point of throwi
 
 #### Mayu Glynne
 
-![Mayu Glynne](img/Mayu-1.png "Mayu Glynne")
+![Mayu Glynne](img/Mayu-1.png)
 
 |  |  |
 | :-- | :-- |
@@ -319,7 +319,7 @@ However, rumour has it that a different side of her can be seen when her glasses
 
 #### Zander
 
-![Zander](img/Zander-1.png "Zander")
+![Zander](img/Zander-1.png)
 
 |  |  |
 | :-- | :-- |
@@ -337,7 +337,7 @@ As the lead guitarist and vocalist of the popular school band ЯEFRACT, Zander i
 
 #### Aloiv
 
-![Aloiv](img/Aloiv-1.png "Aloiv")
+![Aloiv](img/Aloiv-1.png)
 
 |  |  |
 | :-- | :-- |
@@ -357,7 +357,7 @@ Despite having an abundance of wealth, Aloiv is very particular about how money 
 
 #### Nina Oberin
 
-![Nina Oberin](img/Nina-1.png "Nina Oberin")
+![Nina Oberin](img/Nina-1.png)
 
 |  |  |
 | :-- | :-- |
@@ -377,7 +377,7 @@ Despite having an abundance of wealth, Aloiv is very particular about how money 
 
 #### Bagel
 
-![Bagel](img/Bagel-1.png "Bagel")
+![Bagel](img/Bagel-1.png)
 
 |  |  |
 | :-- | :-- |
@@ -397,7 +397,7 @@ Why does she have a cat tail and ears? Well... that's a story for another day.
 
 #### Scarlette
 
-![Scarlette](img/Scarlette-1.png "Scarlette")
+![Scarlette](img/Scarlette-1.png)
 
 |  |  |
 | :-- | :-- |
@@ -417,7 +417,7 @@ Outside the public eye, Scarlette is extremely devoted to those she cares about,
 
 #### Naru
 
-![Naru](img/Naru-1.png "Naru")
+![Naru](img/Naru-1.png)
 
 |  |  |
 | :-- | :-- |
@@ -435,7 +435,7 @@ Naru is the mascot of the Global Taiko Showdown tournament series.
 
 #### Taikonator
 
-![Taikonator](img/Taikonator-1.png "Taikonator")
+![Taikonator](img/Taikonator.png)
 
 |  |  |
 | :-- | :-- |
@@ -453,7 +453,7 @@ Taikonator, also known as Taikonator 3000, was one of the entries in the osu!tai
 
 #### Tama
 
-![Tama](img/Tama.png "Tama")
+![Tama](img/Tama.png)
 
 |  |  |
 | :-- | :-- |
@@ -471,7 +471,7 @@ Tama was one of the younger entrants in the osu!taiko mascot design contest at o
 
 #### Maya
 
-![Maya](img/Maya.png "Maya")
+![Maya](img/Maya.png)
 
 |  |  |
 | :-- | :-- |
