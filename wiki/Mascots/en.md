@@ -189,7 +189,7 @@ Marvia is the mascot of osu! Malaysia
 
 #### Serenity
 
-![Serenity](img/Serenity-1.png)
+![Serenity](img/Serenity-1.jpg)
 
 |  |  |
 | :-- | :-- |
@@ -207,7 +207,7 @@ Serenity is the mascot of the Resurrection Cup tournament series
 
 #### Primrea
 
-![Primrea](img/Primrea-1.png)
+![Primrea](img/Primrea-1.jpg)
 
 |  |  |
 | :-- | :-- |
