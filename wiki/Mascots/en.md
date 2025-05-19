@@ -147,78 +147,6 @@ Agent J was also featured in ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/user
 
 ## Community
 
-### ![](/wiki/shared/mode/osu.png) Chloe
-
-::: Infobox
-
-#### Chloe
-
-![Chloe](img/Chloe-1.png)
-
-|  |  |
-| :-- | :-- |
-| **Affiliation** | Corsace "Secretary" |
-| **Design** | [Nemururin](https://osu.ppy.sh/users/26391825) |
-| **Created** | 2024 |
-
-:::
-
-Chloe is the mascot of the Corsace tournament series.
-
-### ![](/wiki/shared/mode/osu.png) Marvia Etsuko
-
-::: Infobox
-
-#### Marvia Etsuko
-
-![Marvia Etsuko](img/Marvia-1.png)
-
-|  |  |
-| :-- | :-- |
-| **Affiliation** | osu! Malaysia |
-| **Design** | [Iyouka](https://osu.ppy.sh/users/7138499) & apple |
-| **Created** | 2022 |
-
-:::
-
-Marvia is the mascot of osu! Malaysia
-
-### ![](/wiki/shared/mode/osu.png) Serenity
-
-::: Infobox
-
-#### Serenity
-
-![Serenity](img/Serenity-1.jpg)
-
-|  |  |
-| :-- | :-- |
-| **Affiliation** | Resurrection Cup |
-| **Design** | Yumeyo |
-| **Created** | 2024 |
-
-:::
-
-Serenity is the mascot of the Resurrection Cup tournament series
-
-### ![](/wiki/shared/mode/osu.png) Primrea
-
-::: Infobox
-
-#### Primrea
-
-![Primrea](img/Primrea-1.jpg)
-
-|  |  |
-| :-- | :-- |
-| **Affiliation** | osu! Philippines |
-| **Design** | [cromrea](https://osu.ppy.sh/users/943743) |
-| **Created** | 2011 |
-
-:::
-
-Primrea is the mascot of the osu! Philippine community.
-
 ### ![](/wiki/shared/mode/taiko.png) Aiko
 
 ::: Infobox
@@ -273,6 +201,24 @@ Alisa was one of the entries in the osu!taiko mascot design contest. She has bee
 
 Chirou was one of the entries in the osu!taiko mascot design contest. She is very strict and demanding, a perfectionist, and does not like making mistakes — especially in her beats in osu!taiko. But past her strong outlook, if you get to her soft spot, she can be fluffy and cute. She is 14 years old, born on October 25th with blood type AB. She is also 4 feet 11 inches and weighs 100 pounds. Her hobbies include practising drumming, keeping warm in her cape, and collecting gems or rocks. Chirou has made some appearances in various user fanart submissions.
 
+### ![](/wiki/shared/mode/osu.png) Chloe
+
+::: Infobox
+
+#### Chloe
+
+![Chloe](img/Chloe-1.png)
+
+|  |  |
+| :-- | :-- |
+| **Affiliation** | Corsace "Secretary" |
+| **Design** | [Nemururin](https://osu.ppy.sh/users/26391825) |
+| **Created** | 2024 |
+
+:::
+
+Chloe is the mascot of the Corsace tournament series.
+
 ### ![](/wiki/shared/mode/taiko.png) IRIS
 
 ::: Infobox
@@ -293,45 +239,79 @@ A carefree spirit with a penchant for violence, IRIS was a proud member of the P
 
 She is extremely competitive when it comes to games, even to the point of throwing violent tantrums whenever she loses. Because of this, she does not have many friends.
 
+### ![](/wiki/shared/mode/osu.png) Marvia Etsuko
+
+::: Infobox
+
+#### Marvia Etsuko
+
+![Marvia Etsuko](img/Marvia-1.png)
+
+|  |  |
+| :-- | :-- |
+| **Affiliation** | osu! Malaysia |
+| **Design** | [Iyouka](https://osu.ppy.sh/users/7138499) & apple |
+| **Created** | 2022 |
+
+:::
+
+Marvia is the mascot of osu! Malaysia
+
+### ![](/wiki/shared/mode/mania.png) Maya
+
+::: Infobox
+
+#### Maya
+
+![Maya](img/Maya-1.png)
+
+|  |  |
+| :-- | :-- |
+| **Affiliation** | osu!mania Malaysia |
+| **Design** | [ERA Leon](https://osu.ppy.sh/users/13382147) |
+| **Created** | 2023 |
+
+:::
+
+Maya is the mascot of the osu!mania Malaysia community
+
+### ![](/wiki/shared/mode/taiko.png) Naru
+
+::: Infobox
+
+#### Naru
+
+![Naru](img/Naru-1.png)
+
+|  |  |
+| :-- | :-- |
+| **Affiliation** | Global Taiko Showdown |
+| **Design** | its_spec |
+| **Created** | 2019 |
+
+:::
+
+Naru is the mascot of the Global Taiko Showdown tournament series.
+
+### ![](/wiki/shared/mode/osu.png) Primrea
+
+::: Infobox
+
+#### Primrea
+
+![Primrea](img/Primrea-1.jpg)
+
+|  |  |
+| :-- | :-- |
+| **Affiliation** | osu! Philippines |
+| **Design** | [cromrea](https://osu.ppy.sh/users/943743) |
+| **Created** | 2011 |
+
+:::
+
+Primrea is the mascot of the osu! Philippine community.
+
 ### ![](/wiki/shared/mode/taiko.png) Project Prism student council
-
-#### Mayu Glynne
-
-::: Infobox
-
-#### Mayu Glynne
-
-![Mayu Glynne](img/Mayu-1.png)
-
-|  |  |
-| :-- | :-- |
-| **Affiliation** | Project Prism "Event Manager" |
-| **Design** | th_nore |
-| **Created** | 2024 |
-
-:::
-
-Being bound to a wheelchair at birth, Mayu developed a keen passion for robotics to work around her limitations, as well as to help others in overcoming theirs. Her genius as the president of the Robotics Club earned the attention of the council, where she's currently its youngest member. Passionate, kind, and well loved by everyone, Mayu is an exemplary member of Prism High's council.
-
-However, rumour has it that a different side of her can be seen when her glasses are off...
-
-#### Zander
-
-::: Infobox
-
-#### Zander
-
-![Zander](img/Zander-1.png)
-
-|  |  |
-| :-- | :-- |
-| **Affiliation** | Project Prism "Social Media Manager" |
-| **Design** | HiroChair |
-| **Created** | 2024 |
-
-:::
-
-As the lead guitarist and vocalist of the popular school band ЯEFRACT, Zander is an upbeat girl who manages the council's publicity and image. Her loud and energetic nature allows her to break through all social barriers and make friends with quite literally anyone.
 
 #### Aloiv
 
@@ -345,26 +325,6 @@ As the lead guitarist and vocalist of the popular school band ЯEFRACT, Zander i
 | :-- | :-- |
 | **Affiliation** | Project Prism "Treasurer" |
 | **Design** | HiroChair |
-| **Created** | 2024 |
-
-:::
-
-Born into a sheltered life under an aristocratic family, Aloiv rejects the burden of their familial expectations by pursuing a passion in music. At the age of just 4, Aloiv became a well respected conductor of the national orchestra, noted for their prodigal abilities in mastering nearly every instrument.
-
-Despite having an abundance of wealth, Aloiv is very particular about how money is spent, thus earning them the Treasurer role of the council.
-
-#### Nina Oberin
-
-::: Infobox
-
-#### Nina Oberin
-
-![Nina Oberin](img/Nina-1.png)
-
-|  |  |
-| :-- | :-- |
-| **Affiliation** | Project Prism "Secretary" |
-| **Design** | th_nore |
 | **Created** | 2024 |
 
 :::
@@ -393,6 +353,46 @@ As the head shrine maiden of her family-owned temple in the city, Bagel is heavi
 
 Why does she have a cat tail and ears? Well... that's a story for another day.
 
+#### Mayu Glynne
+
+::: Infobox
+
+#### Mayu Glynne
+
+![Mayu Glynne](img/Mayu-1.png)
+
+|  |  |
+| :-- | :-- |
+| **Affiliation** | Project Prism "Event Manager" |
+| **Design** | th_nore |
+| **Created** | 2024 |
+
+:::
+
+Being bound to a wheelchair at birth, Mayu developed a keen passion for robotics to work around her limitations, as well as to help others in overcoming theirs. Her genius as the president of the Robotics Club earned the attention of the council, where she's currently its youngest member. Passionate, kind, and well loved by everyone, Mayu is an exemplary member of Prism High's council.
+
+However, rumour has it that a different side of her can be seen when her glasses are off...
+
+#### Nina Oberin
+
+::: Infobox
+
+#### Nina Oberin
+
+![Nina Oberin](img/Nina-1.png)
+
+|  |  |
+| :-- | :-- |
+| **Affiliation** | Project Prism "Secretary" |
+| **Design** | th_nore |
+| **Created** | 2024 |
+
+:::
+
+Born into a sheltered life under an aristocratic family, Aloiv rejects the burden of their familial expectations by pursuing a passion in music. At the age of just 4, Aloiv became a well respected conductor of the national orchestra, noted for their prodigal abilities in mastering nearly every instrument.
+
+Despite having an abundance of wealth, Aloiv is very particular about how money is spent, thus earning them the Treasurer role of the council.
+
 #### Scarlette
 
 ::: Infobox
@@ -413,23 +413,41 @@ Perfect grades, unmatched athletics and a knack for leadership, Scarlette is the
 
 Outside the public eye, Scarlette is extremely devoted to those she cares about, going above and beyond in making sure they are happy. However, when paired with her lack of awareness towards social nuances, this can sometimes result in her trying a little bit too hard.
 
-### ![](/wiki/shared/mode/taiko.png) Naru
+#### Zander
 
 ::: Infobox
 
-#### Naru
+#### Zander
 
-![Naru](img/Naru-1.png)
+![Zander](img/Zander-1.png)
 
 |  |  |
 | :-- | :-- |
-| **Affiliation** | Global Taiko Showdown |
-| **Design** | its_spec |
-| **Created** | 2019 |
+| **Affiliation** | Project Prism "Social Media Manager" |
+| **Design** | HiroChair |
+| **Created** | 2024 |
 
 :::
 
-Naru is the mascot of the Global Taiko Showdown tournament series.
+As the lead guitarist and vocalist of the popular school band ЯEFRACT, Zander is an upbeat girl who manages the council's publicity and image. Her loud and energetic nature allows her to break through all social barriers and make friends with quite literally anyone.
+
+### ![](/wiki/shared/mode/osu.png) Serenity
+
+::: Infobox
+
+#### Serenity
+
+![Serenity](img/Serenity-1.jpg)
+
+|  |  |
+| :-- | :-- |
+| **Affiliation** | Resurrection Cup |
+| **Design** | Yumeyo |
+| **Created** | 2024 |
+
+:::
+
+Serenity is the mascot of the Resurrection Cup tournament series
 
 ### ![](/wiki/shared/mode/taiko.png) Taikonator
 
@@ -466,21 +484,3 @@ Taikonator, also known as Taikonator 3000, was one of the entries in the osu!tai
 :::
 
 Tama was one of the younger entrants in the osu!taiko mascot design contest at only age 15 (or is she?), and has a huge passion for taiko drumming. And thunderstorms. And especially festivals, where she snatches up any takoyaki she can find. Always up for the challenge, Tama hides a particularly mysterious past behind her youthful demeanor.
-
-### ![](/wiki/shared/mode/mania.png) Maya
-
-::: Infobox
-
-#### Maya
-
-![Maya](img/Maya-1.png)
-
-|  |  |
-| :-- | :-- |
-| **Affiliation** | osu!mania Malaysia |
-| **Design** | [ERA Leon](https://osu.ppy.sh/users/13382147) |
-| **Created** | 2023 |
-
-:::
-
-Maya is the mascot of the osu!mania Malaysia community
