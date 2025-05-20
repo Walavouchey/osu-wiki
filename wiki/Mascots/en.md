@@ -20,7 +20,13 @@
 
 :::
 
-pippi, stylised with a lowercase "p", is the osu! game mode mascot that joined on 2008-07. She is also known as pippidon in osu!taiko and appeared in [Yandere Simulator](https://yanderesimulator.com) as an NPC. The initial concept art was created by ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427), the pippidon sprite was created by ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974), and the current art was designed by ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480).
+pippi, stylised with a lowercase "p", is the mascot of the osu! game mode since June 2008. She also appears in osu!taiko's default skin, where she is known as pippidon. The initial concept art was created by ::{ flag=US }:: [Sarumaru](https://osu.ppy.sh/users/9427), the pippidon sprite was created by ::{ flag=HK }:: [crystalsuicune](https://osu.ppy.sh/users/9974), and the current art was designed by ::{ flag=US }:: [Daru](https://osu.ppy.sh/users/32480).
+
+In the game, pippi pops out of the side of the screen at every [combo milestone](/wiki/Gameplay/Combo_milestone) and is also seen on the client's crash window. In the [osu!(lazer) client](/wiki/Client/Release_stream/Lazer), she appears in UI artwork in the account registration screen, as well as the beatmap listing when no search results are found.
+
+On the website, she appears in fan art scattered throughout various pages, such as the top of the [Featured Artist listing](https://osu.ppy.sh/beatmaps/artists) and placeholder error screens.
+
+Outside of osu!, pippi made a cameo appearance in [Yandere Simulator](https://yanderesimulator.com) as an NPC.
 
 ### ![](/wiki/shared/mode/taiko.png) Mocha
 
