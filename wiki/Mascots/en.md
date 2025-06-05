@@ -169,7 +169,7 @@ Agent J was also featured in ::{ flag=US }:: [LuigiHann](https://osu.ppy.sh/user
 
 :::
 
-Aiko was one of the entries in the osu!taiko mascot design contest. She is an energetic girl with a passion for osu!taiko, even if she is not the best at it! Sporting a pair of stylish "Tabi" shoes and a retinue of pippidon accessories, the mascot of yore lives on in this spunky girl. She is fairly short at only 154 centimetres, and was born on 1999-04-06.
+Aiko was the winning entry of the [osu!taiko mascot design contest](https://osu.ppy.sh/community/contests/2). She is an energetic girl with a passion for osu!taiko, even if she is not the best at it! Sporting a pair of stylish "Tabi" shoes and a retinue of pippidon accessories, the mascot of yore lives on in this spunky girl. She is fairly short at only 154 centimetres, and was born on 6 April 1999.
 
 ### ![](/wiki/shared/mode/taiko.png) Alisa
 
@@ -187,7 +187,7 @@ Aiko was one of the entries in the osu!taiko mascot design contest. She is an en
 
 :::
 
-Alisa was one of the entries in the osu!taiko mascot design contest. She has been playing osu!taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she is not sleeping or eating, she is playing osu!taiko, or playing retro video games for kicks!
+Alisa was the 2nd-placing entry of the [osu!taiko mascot design contest](https://osu.ppy.sh/community/contests/2). She has been playing osu!taiko ever since her early childhood. Fond of playing songs for others, she is very musically oriented, and when she is not sleeping or eating, she is playing osu!taiko, or playing retro video games for kicks!
 
 ### ![](/wiki/shared/mode/taiko.png) Chirou
 
@@ -205,7 +205,7 @@ Alisa was one of the entries in the osu!taiko mascot design contest. She has bee
 
 :::
 
-Chirou was one of the entries in the osu!taiko mascot design contest. She is very strict and demanding, a perfectionist, and does not like making mistakes — especially in her beats in osu!taiko. But past her strong outlook, if you get to her soft spot, she can be fluffy and cute. She is 14 years old, born on October 25th with blood type AB. She is also 4 feet 11 inches and weighs 100 pounds. Her hobbies include practising drumming, keeping warm in her cape, and collecting gems or rocks. Chirou has made some appearances in various user fanart submissions.
+Chirou was the 5th-placing entry of the [osu!taiko mascot design contest](https://osu.ppy.sh/community/contests/2). She is very strict and demanding, a perfectionist, and does not like making mistakes — especially in her beats in osu!taiko. But past her strong outlook, if you get to her soft spot, she can be fluffy and cute. She is 14 years old, born on October 25th with blood type AB. She is also 4 feet 11 inches and weighs 100 pounds. Her hobbies include practising drumming, keeping warm in her cape, and collecting gems or rocks. Chirou has made some appearances in various user fanart submissions.
 
 ### ![](/wiki/shared/mode/osu.png) Chloe
 
@@ -219,11 +219,13 @@ Chirou was one of the entries in the osu!taiko mascot design contest. She is ver
 | :-- | :-- |
 | **Affiliation** | Corsace "Secretary" |
 | **Design** | [Nemururin](https://osu.ppy.sh/users/26391825) |
-| **Created** | 2024 |
+| **Created** | 11 April 2024 |
 
 :::
 
-Chloe is the mascot of the Corsace tournament series.
+Chloe is the mascot of the Corsace tournament series. She was [teased](https://twitter.com/corsace_/status/1778291429703389640) before Corsace 2024 and later introduced in a [manga work](https://osu.ppy.sh/home/news/2024-06-09-corsace-closed#corsace-closed:-the-manga). Cheerful artistic genius yet delinquent baseball lover, Chloe is dragged to fill in the secretary role of the tournament staff organisation after her predecessor.
+
+![Chloe concept art](img/Chloe-2.jpg "Chloe concept art")
 
 ### ![](/wiki/shared/mode/taiko.png) IRIS
 

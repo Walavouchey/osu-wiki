@@ -76,7 +76,7 @@ And it doesn't stop there, because the lore runs deep. You can find 4 instalment
 
 Thank you to [alden](https://osu.ppy.sh/users/3545323), [Fulserish](https://osu.ppy.sh/users/14252162), [Honbae](https://osu.ppy.sh/users/9474976), [Liyah](https://osu.ppy.sh/users/14290191), [Mio](https://osu.ppy.sh/users/28142111), [Nemururin](https://osu.ppy.sh/users/26391825) and [Piggy](https://osu.ppy.sh/users/14257673) for bringing these characters to life!
 
-![](/wiki/shared/news/2024-06-09-corsace-closed/chloe-concept.jpg "Concept art for Chloe")
+![](/wiki/Mascots/img/Chloe-2.jpg "Concept art for Chloe")
 
 ## osu! originals
 
