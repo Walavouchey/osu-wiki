@@ -60,13 +60,13 @@ Mocha is the osu!taiko mascot. She was initially designed during the [sixth fana
 | :-- | :-- |
 | **Affiliation** | osu!catch |
 | **Design** | ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347) |
-| **Created** |  |
+| **Created** | 21 June 2014 |
 
 :::
 
 *For the news posts, see: [Meet Yuzu!](https://osu.ppy.sh/home/news/2014-06-21-meet-yuzu) and [Introducing Yuzu's New Look](https://osu.ppy.sh/home/news/2019-01-09-introducing-yuzu)*
 
-Yuzu is the osu!catch mascot that joined on 2014-06-22. He was born on 2000-04-10, is 172 centimetres tall, and weighs 65 kilograms. His current art design was designed by ::{ flag=US }:: [Thievley](https://osu.ppy.sh/users/4717672). Whereas his initial art design and catcher sprites were done by ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347); Daru created the comboburst art.
+Yuzu is the osu!catch mascot that joined on 21 June 2014. He was born on 10 April 2000, is 172 centimetres tall, and weighs 65 kilograms. His current art design was designed by ::{ flag=US }:: [Thievley](https://osu.ppy.sh/users/4717672). Whereas his initial art design and catcher sprites were done by ::{ flag=US }:: [ztrot](https://osu.ppy.sh/users/6347), Daru created the comboburst art.
 
 ### ![](/wiki/shared/mode/mania.png) Mani & Mari
 
@@ -313,11 +313,11 @@ Naru is the mascot of the Global Taiko Showdown tournament series.
 | :-- | :-- |
 | **Affiliation** | osu! Philippines |
 | **Design** | [cromrea](https://osu.ppy.sh/users/943743) |
-| **Created** | 2011 |
+| **Created** | 23 November 2011 |
 
 :::
 
-Primrea is the mascot of the osu! Philippine community.
+Primrea is the mascot of the osu! Philippine community, [conceptualised in 2011](https://osu.ppy.sh/community/forums/topics/67548) by [cromrea](https://osu.ppy.sh/users/943743). Ever since, Primrea has appeared as part of several Philippine osu! tournaments.
 
 ### ![](/wiki/shared/mode/taiko.png) Project Prism student council
 
