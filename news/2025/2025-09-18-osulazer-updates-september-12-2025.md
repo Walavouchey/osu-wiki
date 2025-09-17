@@ -1,0 +1,8 @@
+- **Context menu when right-clicking beatmap cards**. This helps on mobile where you can't simply "hover the cursor" over the card.
+- **Shift-click beatmap cards to quickly download maps**. If you have the map downloaded, this will pop it into view in song select instead.
+- **Pause counts are now stored in scores.** This isn't displayed anywhere yet, but soon we'll be able to see where in a map someone has paused when watching the replay, for example.
+- **A redesigned gameplay leaderboard.** It's more transparent and hopefully less distracting.
+- **New osu!catch mod: Moving Fast.** This one inverts your inputs: dash by default and move slow down when holding down the "dash" key (maybe should be the "sneak" key instead).
+- **osu!mania touch overlays can now be enabled on desktop.** It turns out that touch screens aren't limited to mobile devices.
+- **Fixed song select beatmap wedges not showing difficulty-specific backgrounds.** This is a thing on a minority of maps.
+- **Clicking the top-left heart icon in song select now favourites the map.** You can still right-click the beatmap wedge and find the "favourite"
