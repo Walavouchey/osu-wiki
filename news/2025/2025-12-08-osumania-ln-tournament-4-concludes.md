@@ -13,7 +13,7 @@ After having witnessed the [start in July](https://osu.ppy.sh/home/news/2025-07-
 
 ## Summary
 
-![osu!mania LN Tournament 4 podium](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/podium.jpg)
+![osu!mania LN Tournament 4 podium](/wiki/Tournaments/o!mLN/4/podium.jpg)
 
 First of all, we present you the LN champions of 2025.
 
@@ -124,12 +124,12 @@ These matches may have been the most popular highlights of o!mLN4, but this is n
 
 ## Original album: Dilemma of Inverse Worlds
 
-As the main highlight for o!mLN4, the tournament debuted a total of 17 original songs and BGMs used throughout the streams and as part of the custom charts for the tournament bracket matches.
+As the main highlight for o!mLN4, the tournament debuted a total of 18 original songs and BGMs used throughout the streams and as part of the custom charts for the tournament bracket matches.
 
 These songs are released under a special tournament compilation album, named the "Dilemma of Inverse Worlds", capturing the story of our main mascot and character Leon navigating illusions and uncertainties conjured by the main antagonist Eizou and her reflection Misaki.
 
 <div align="center" class="osu-md__paragraph">
-    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/TODO" frameborder="0" allowfullscreen></iframe>
+    <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/NPpmFBmsGBU" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Our Grand Finals tiebreaker, [Illusion's End ~ Reflection's Awakening](https://osu.ppy.sh/beatmapsets/2455633#mania/5366706), is released as part of the story's climax and confrontation between the 3 characters. As the magnum opus of the tournament's production, combining the efforts unique talents in composition, voice acting, animation, design and charting, we beckon you to watch this masterpiece:
