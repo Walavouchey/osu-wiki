@@ -132,7 +132,7 @@ These songs are released under a special tournament compilation album, named the
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/NPpmFBmsGBU" frameborder="0" allowfullscreen></iframe>
 </div>
 
-Our Grand Finals tiebreaker, [Illusion's End ~ Reflection's Awakening](https://osu.ppy.sh/beatmapsets/2455633#mania/5366706), is released as part of the story's climax and confrontation between the 3 characters. As the magnum opus of the tournament's production, combining the efforts unique talents in composition, voice acting, animation, design and charting, we beckon you to watch this masterpiece:
+Our Grand Finals tiebreaker, [Illusion's End ~ Reflection's Awakening](https://osu.ppy.sh/beatmapsets/2455633#mania/5366706), is released as part of the story's climax and confrontation between the 3 characters. As the magnum opus of the tournament's production, combining the efforts of unique talents in composition, voice acting, animation, design and charting, we beckon you to watch this masterpiece:
 
 <div align="center" class="osu-md__paragraph">
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/LalyRzkAkmA" frameborder="0" allowfullscreen></iframe>
