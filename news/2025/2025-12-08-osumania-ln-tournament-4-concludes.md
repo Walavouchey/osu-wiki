@@ -408,7 +408,7 @@ Coming this far, I do not harbour any regrets for this tournament. It was the be
 
 This rounds up o!mLN4 and everything that went down in the tournament.
 
-To close out, we would like to thank all participants and the audience for supporting the tournament, and highlight the contributions from XXX individuals who made this ambitious collaboration between music, art and mappools even possible to begin with.
+To close out, we would like to thank all participants and the audience for supporting the tournament, and highlight the contributions from 99 individuals who made this ambitious collaboration between music, art and mappools even possible to begin with.
 
 ![Credits of everyone involved](/wiki/shared/news/2025-12-08-osumania-ln-tournament-4-concludes/credits.png)
 
