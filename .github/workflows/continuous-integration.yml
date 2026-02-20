@@ -49,10 +49,10 @@ jobs:
         with:
           cache: pip
           cache-dependency-path: requirements.txt
-          python-version: "3.11"
+          python-version: "3.14"
 
       - name: set up Python CI dependencies
-        run: pip install -r requirements.txt
+        run: pip install git+https://github.com/Walavouchey/osu-wiki-tools.git@output-formats
 
       - name: detect changed files
         id: detect-changed-files
@@ -79,4 +79,4 @@ jobs:
       - name: find broken wikilinks
         if: ${{ !cancelled() && steps.detect-changed-files.outcome == 'success' }}
         continue-on-error: ${{ contains(github.event.pull_request.body, 'SKIP_WIKILINK_CHECK') }}
-        run: osu-wiki-tools check-links --all
+        run: osu-wiki-tools check-links --all --format github
