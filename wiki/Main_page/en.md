@@ -1,5 +1,6 @@
 ---
 layout: main_page
+unknown_tag: true
 ---
 
 <!-- Do not add any empty lines inside this div. -->
@@ -15,7 +16,7 @@ Welcome to the osu! wiki, the open-source knowledge base containing a wide range
 
 Important articles and guides that will help you dive into osu!. In case anything goes wrong or appears uncertain, make sure to visit the [Help forum](https://osu.ppy.sh/forum/5).
 
-[Rules](/wiki/Rules) • [Installation](/wiki/Client/Installation) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_centre)
+[Rules](/wiki/Rules) • [Installation](/wiki/Client/Installation#abc) • [Registration](/wiki/Registration) • [Help Centre](/wiki/Help_centre)
 
 [Chat console](/wiki/Client/Interface/Chat_console) • [BanchoBot](/wiki/BanchoBot) • [FAQ](/wiki/FAQ) • [Guides](/wiki/Guides) • [Glossary](/wiki/Sitemap)
 
@@ -26,9 +27,9 @@ Important articles and guides that will help you dive into osu!. In case anythin
 
 Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to present. Get to know the game better from its various settings and customisation capabilities to technical details and file formats it uses.
 
-[Interface](/wiki/Client/Interface) • [Options](/wiki/Client/Options) • [Visual settings](/wiki/Client/Interface/Visual_settings) • [Shortcut key reference](/wiki/Client/Keyboard_shortcuts) • [Configuration file](/wiki/Client/Program_files/User_configuration_file) • [Program files](/wiki/Client/Program_files)
+[Interface]( /wiki/Client/Interface) • [Options](/wiki/Client/Options) • [Visual settings](/wiki/Client/Interface/Visual_settings) • [Shortcut key reference](/wiki/Client/Keyboard_shortcuts) • [Configuration file](/wiki/Client/Program_files/User_configuration_file) • [Program files](/wiki/Client/Program_files)
 
-[File formats](/wiki/Client/File_formats): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
+[File formats](): [.osz](/wiki/Client/File_formats/osz_(file_format)) • [.osk](/wiki/Client/File_formats/osk_(file_format)) • [.osr](/wiki/Client/File_formats/osr_(file_format)) • [.osu](/wiki/Client/File_formats/osu_(file_format)) • [.osb](/wiki/Client/File_formats/osb_(file_format))
 
 </div>
 <div class="wiki-main-page-panel">
@@ -37,7 +38,7 @@ Being the guide to the world of rhythm, beats, and flashes, osu! has a lot to pr
 
 Everything about clicking circles, striking drums, catching fruits, and playing the synthesiser: key elements, concepts, mechanics, and competitive play.
 
-[Game modes](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
+[Game modes](/wiki/Game_mode): [osu!](/wiki/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
 [Beatmap](/wiki/Beatmap) • [Difficulty](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Mods (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medals](/wiki/Medals) • [Multiplayer](/wiki/Client/Interface/Multiplayer) • [Daily challenge](/wiki/Gameplay/Daily_challenge) • [Quick play](/wiki/Gameplay/Quick_play)
 
@@ -61,9 +62,9 @@ Activities: [Beatmapping](/wiki/Beatmapping) • [Mapping techniques](/wiki/Beat
 
 Ranking is the process of obtaining a leaderboard for a beatmap, which makes it more popular and well-recognised. Discover what it takes to walk this path and how to increase your chances to succeed through beatmap reviews, as well as the procedures for quality control and the ranking process.
 
-[Submission](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Ranking procedure](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
+[Submission](/wiki/Beatmapping/Beatmap_submission/en.md) • [Modding](/wiki/Modding) • [Ranking procedure](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Ranking criteria](/wiki/Ranking_criteria): [Simplified](/wiki/Ranking_criteria/Simplified_ranking_criteria) • [Metadata](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Ranking criteria](/wiki/Ranking_criteria): [Simplified](/wiki\Ranking_criteria/Simplified_ranking_criteria) • [Metadata](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -124,7 +125,7 @@ osu! wouldn't have been possible without many users helping with development, ma
 
 # For developers
 
-Interact with osu! via other applications and media, or help it grow further.
+Interact with osu! via other applications and media, or help it grow [further].
 
 [Announcement messages](/wiki/Announcement_messages) • [API](/wiki/osu!api) • [Bot account](/wiki/Bot_account) • [Brand identity guidelines](/wiki/Brand_identity_guidelines) • [osu! Discord server](/wiki/Community/Discord_servers#official)
 
@@ -133,11 +134,11 @@ Interact with osu! via other applications and media, or help it grow further.
 
 # Wiki and meta pages
 
-Just as almost everything out here, the osu! wiki is written and maintained by volunteers. Suggest an improvement, report an issue, or even write your own article at the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki).
+Just as almost everything out here, the osu! wiki is written and maintained by volunteers. Suggest an improvement, report an issue, or even write your own article at the [osu-wiki GitHub repository](https://github.com/ppy/osu-wiki). [a][b]
 
-[History of osu!](/wiki/History_of_osu!) • [Online rankings history](/wiki/History_of_osu!/Online_rankings) • [History of osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Mapping and modding timeline](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
+[History of osu!](/wiki//History_of_osu!) • [Online rankings history](/wiki/History_of_osu!/Online_rankings) • [History of osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Mapping and modding timeline](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
-[Sitemap](/wiki/Sitemap) • [Contribution guide](/wiki/osu!_wiki/Contribution_guide) • [Article styling criteria](/wiki/Article_styling_criteria) • [News styling criteria](/wiki/News_styling_criteria)
+[Sitemap](/wiki/Stemap) • [Contribution guide](/wiki/osu!_wiki/Contribution_guide) • [Article styling criteria](/wiki/asc) • [News styling criteria](/wiki/News_styling_criteria)
 
 </div>
 </div>
