@@ -137,7 +137,7 @@ Just as almost everything out here, the osu! wiki is written and maintained by v
 
 [History of osu!](/wiki/History_of_osu!) • [Online rankings history](/wiki/History_of_osu!/Online_rankings) • [History of osu! wiki](/wiki/History_of_osu!/osu!_wiki) • [Mapping and modding timeline](/wiki/History_of_osu!/Mapping_and_modding_timeline) • [April Fools](/wiki/History_of_osu!/April_Fools)
 
-[Sitemap](/wiki/Sitemap) • [Contribution guide](/wiki/osu!_wiki/Contribution_guide) • [Article styling criteria](/wiki/Article_styling_criteria) • [News styling criteria](/wiki/News_styling_criteria)
+[Sitemap](/wiki/Stemap) • [Contribution guide](/wiki/osu!_wiki/Contribution_guide) • [Article styling criteria](/wiki/Article_styling_criteria) • [News styling criteria](/wiki/News_styling_criteria)
 
 </div>
 </div>

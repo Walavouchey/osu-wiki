@@ -30,7 +30,7 @@ The tables below list all user tags grouped by category as well as the game mode
 
 | Tag name | Description | Game mode |
 | :-- | :-- | :-- |
-| [skillset/jumps](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fjumps%22%22) | Focuses heavily on jumps, i.e. circles spaced far apart that require the player to move towards, slow down to hit, then speed up to move towards the next object. | ![][osu!] |
+| [skillset/jumps](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fjumps%22%22) | Focuses heavily on jumps, i.e. circles spaced far apart that require the player to move towards, slow down to hit, then speed up to move towards the next object. | ![][osu] |
 | [skillset/streams](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Fstreams%22%22) | Patterns requiring continuous note hits, typically more than 9 notes. | ![][osu!] ![][osu!taiko] ![][osu!catch] ![][osu!mania] |
 | [skillset/alt](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Falt%22%22) | Colloquial term for maps which use rhythms that encourage the player to alternate notes. Typically distinct from burst or stream maps. | ![][osu!] |
 | [skillset/tech](https://osu.ppy.sh/beatmapsets?q=tag%3D%22%22skillset%2Ftech%22%22) | Tests uncommon skills. | ![][osu!] |
@@ -222,7 +222,7 @@ The tables below list all user tags grouped by category as well as the game mode
 
 - The initial release of the user tags on 21 March 2025 was inspired from the [OMDB](https://omdb.nyahh.net/) project which had the similar goal of providing a user-curated tag system for beatmaps. Originally developed by ::{ flag=GB }:: [apollodw](https://osu.ppy.sh/users/9558549), the project was retired on 1 March 2025 [due to personal reasons](https://x.com/bunnygirltwink/status/1892328084893815059).
 
-[osu!]: /wiki/shared/mode/osu.png "osu!"
+[osu!]: /wiki/shared/ode/osu.png "osu!"
 [osu!taiko]: /wiki/shared/mode/taiko.png "osu!taiko"
 [osu!catch]: /wiki/shared/mode/catch.png "osu!catch"
 [osu!mania]: /wiki/shared/mode/mania.png "osu!mania"
