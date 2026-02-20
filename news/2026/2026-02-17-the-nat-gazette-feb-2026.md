@@ -13,7 +13,7 @@ Ever since the [state of Ranked survey results](https://osu.ppy.sh/home/news/202
 
 While there's a lot that still needs to be worked on, we want to take the moment to tackle arguably two of the most contested topics surrounding the Ranked section altogether: how the osu! NAT approaches evaluations and how [vetoes](/wiki/People/Beatmap_Nominators/Beatmap_Veto) are performed.
 
-We encourage all users to engage on any ongoing discussions in the [Beatmap Management subforum](https://osu.ppy.sh/community/forums/115). Keep an eye out for any new changes to come!
+We encourage all users to engage on any ongoing discussions in the [Beatmap Management subforum](FORUM_LINK). Keep an eye out for any new changes to come!
 
 ## Updates
 
