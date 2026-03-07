@@ -1,11 +1,11 @@
 # yamllint disable rule:colons
 
-asc:                           Article_styling_criteria
+asc:                           Article_styling_criteria#a
 asg:                           Article_styling_criteria
 asc/images:                    Article_styling_criteria#images
 asg/images:                    Article_styling_criteria#images
 wiki_styling_criteria:         Article_styling_criteria
-wsc:                           Article_styling_criteria
+wsc                           Article_styling_criteria
 
 beatmap_discussions:         Beatmap_discussion
 modding_discussion:          Beatmap_discussion
@@ -111,7 +111,7 @@ mods: Disambiguation/Mod
 mod: Disambiguation/Mod
 nc: Disambiguation/NC
 nm: Disambiguation/NM
-osu!: Disambiguation/osu!
+osu!: Disambiguation/o
 rank: Disambiguation/Rank
 ranks: Disambiguation/Rank
 snapping: Disambiguation/Snapping
