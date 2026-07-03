@@ -5,11 +5,15 @@ date: 2026-06-17 18:00:00 +0000
 series: community_tournaments
 ---
 
-As the moonlight settles gently upon the ancient canopy, the third chapter reaches its final page. What began as a whisper among the trees has amplified into a song shared by every traveller who stepped into this enchanted realm, recalling a forgotten world where ancient magic and technology dance together in harmony.
+As the moonlight settles gently upon the ancient canopy, the third chapter reaches its final page. This is the story of its wanderers and pathmakers.
 
 ![](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/banner.jpg)
 
-Guided by the pulse of this song, countless travellers forged stories of spirit and wonder. Each battle echoes like an incantation through the forest, every hard fought point sparkles like starlight against the ancient mechanisms sleeping beneath the roots. Some carved their names into legend through strength, inspiring those who come after with their unwavering perseverance. From the earliest rounds to the final clash beneath the glowing skies, every traveller became another thread woven into the tapestry of this realm.
+What began as a whisper among the trees has amplified into a song shared by every traveller who stepped into this enchanted realm, recalling a forgotten world where ancient magic and technology dance together in harmony.
+
+Guided by the pulse of this song, countless travellers forged stories of spirit and wonder. Each battle echoes like an incantation through the forest, every hard-fought point sparkles like starlight against the ancient mechanisms sleeping beneath the roots.
+
+Some carved their names into legend through strength, inspiring those who come after with their unwavering perseverance. From the earliest rounds to the final clash beneath the glowing skies, every traveller became another thread woven into the tapestry of this realm.
 
 <div align="center" class="osu-md__paragraph">
     <video width="95%" controls>
@@ -21,15 +25,11 @@ Guided by the pulse of this song, countless travellers forged stories of spirit 
 
 ![LTC 3 podium](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/podium.png)
 
-Beneath the whispering boughs of the forest, the top three circles of wanderers now stand among the stars of the woodland.
-
-Your journey through this tournament was not a simple walk beneath the leaves, but an expedition through the deepest parts of the wilderness. You crossed forgotten paths tangled with roots and thorned vines, faced trials hidden beneath the shadows of towering pines, and endured nights where even the stars seemed swallowed by the endless woods. Yet through every battle and every moment where the forest itself seemed determined to test your resolve, you continued onward.
+Beneath the whispering boughs of the forest, the top three circles of wanderers now stand among the stars of the woodland. Your journey through this tournament was not a simple walk beneath the leaves. You crossed forgotten paths tangled with roots and thorned vines, faced trials hidden beneath the shadows of towering pines, and endured nights where even the stars seemed swallowed by the endless woods.
 
 Many entered these woods seeking glory, but only a rare few possessed the strength to climb beyond the roots and ruins. With every match you conquered, your footsteps echoed farther through the trees.
 
-Now your names shall live among the old stories whispered through the woodland for seasons to come. The moss covered stones will remember the rhythm of your matches. The branches overhead will sway with tales of your determination long after the final lanterns fade into darkness.
-
-The forest remembers its victors, and tonight, it remembers you.
+The moss-covered stones will remember the rhythm of your battles. The branches overhead will sway with tales of your determination long after the final lanterns fade into darkness. The forest remembers its victors, and tonight, it remembers you.
 
 ## Grand Finals recap
 
@@ -43,21 +43,11 @@ The forest remembers its victors, and tonight, it remembers you.
     <iframe width="95%" style="aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/hsmDGbzRHcg" frameborder="0" allowfullscreen></iframe>
 </div>
 
-And so, beneath the hush of ancient branches and where the air hums with old magic, the final trial revealed itself. The Grand Finals tiebreaker.
+Beneath the hush of ancient branches and where the air hums with old magic, gentle laughter filled a dim woodland cabin. Unlike the ever-changing constellations passing overhead, the trialmakers remained beside the roots, shaping tradition with each other and the forest they knew so dear.
 
-Not forged by strangers passing through the forest, nor a creation born of a single season, but by the very same hands that have shaped every path before it. Through every tournament iteration, these mappers have remained like old symbols of the grove. Whilst players changed like passing constellations overhead, they remained beside the roots, shaping each year's final trial with steady hands and knowing smiles.
+The creators of the final trial have become like symbols of the grove. Understanding, meandering, loving the sleepless nights that culminated in a crossing presented before challengers who reach for the stars. Reminiscing, listening, lingering in the melody of many a prior finale infused within.
 
-This tiebreaker is more than a map. It is a relic woven from years of tradition; a culmination of countless sleepless nights, shared laughter in dim woodland cabins, and the quiet understanding between creators who know this forest by heart. And somewhere deep within its melody, the voices of every prior finale still linger like ghosts dancing between fireflies.
-
-To reach this stage, is to have already wandered farther than most travellers ever dream to go.
-
-But now, only one final crossing remains.
-
-You can feel it in the map itself:
-the weight of history hidden beneath each crescendo,
-the familiarity of old magic blooming anew,
-the sense that somewhere, every past grand final still echoes faintly beneath the music.
-They will leave having become part of the forest itself.
+You can feel it in the map itself, right? The weight of history hidden beneath each crescendo, the sense that somewhere, every past grand final still echoes faintly beneath the music. They will leave having become part of the forest itself.
 
 ## ![Custom artwork](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/custom-artwork.png) {#custom-artwork}
 
@@ -524,11 +514,10 @@ To the mappoolers who searched the woods for hidden gems and songs worth sharing
 
 Your efforts became the heart of this event.
 
-May the light of this tournament continue to drift through the forest like wandering lanterns, and may the names of those who helped shape these woods be remembered for many moons to come.
-Thank you for making this tournament more than just a competition, you made it an adventure.
+May the light of this tournament continue to drift through the forest like wandering lanterns, and may the names of those who helped shape these woods be remembered for many moons to come. Thank you for making this tournament more than just a competition. You made it an adventure.
 
-Now, the lanterns dim and the final echoes are drowned out by the sound of the woodland mist. The forest is silent once more. Though the chapter comes to an end, its enchantment lingers on. Deep beneath the forest, the ancient artifacts still hum softly, the spirit of the tournament continues to glow softly, carried forward by the travellers who gave it life, and waiting patiently for the day another wandering soul to awaken the forest once more.
+Now, the lanterns dim and the final echoes are drowned out by the sound of the woodland mist. The forest is silent once more. Though the chapter comes to an end, its enchantment lingers on. Deep beneath the forest, the spirit of the tournament continues to glow softly, carried forward by the travellers who gave it life, and waiting patiently for the day another wandering soul awakens the forest once more.
 
-![](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/staff.png)
+![Lela's Tech Cup 3 staff list](/wiki/shared/news/2026-06-22-lelas-tech-cup-3-results/staff.png)
 
 —lela
