@@ -783,6 +783,16 @@ The flag icons use the two letter code (in all capital letters) to match a certa
 
 Where `XX` is the [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) two-lettered country code for the flag.
 
+## User links
+
+Links to user profiles should have the following format:
+
+```markdown
+::user name::{ user-id=1234 }
+```
+
+This adds a user card when hovering over the link. The user name part may be formatted in bold, italics or other in-line markdown.
+
 ## Tables
 
 Tables on the website only support headings along the first row.
